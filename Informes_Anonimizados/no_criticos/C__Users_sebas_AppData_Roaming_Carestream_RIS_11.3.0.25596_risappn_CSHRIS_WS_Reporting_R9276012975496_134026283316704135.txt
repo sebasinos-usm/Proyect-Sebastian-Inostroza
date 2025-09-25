@@ -1,0 +1,63 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+PET-CT
+INFORME PET/CT — EVALUACIÓN
+Equipo: Siemens Biograph TruePoint (detectores LSO; TC 64 cortes, con contraste yodado IV)
+Radiofármaco: 9,61 mCi de ¹⁸F-FDG IV — adquisición a ~77 min
+Cobertura: vértex → tercio superior de muslos
+Información clínica
+Púrpura trombocitopénica idiopática. Adenopatías en estudio.
+Glucemia previa a la inyección: 86 mg/dL. Peso: 89 kg.
+Hallazgos descriptivos
+Encéfalo
+Distribución fisiológica del radiotrazador en el parénquima evaluado, sin focos hipermetabólicos patológicos, con las
+limitaciones de la alta captación cortical/cerebelosa.
+Cabeza y cuello
+Captación fisiológica en orofaringe y glándulas salivales.
+Hipermetabolismo difuso en amígdalas palatinas (SUVmáx hasta 11,4), sin aumento de volumen, inespecífico de aspecto
+reactivo.
+Sin adenopatías hipermetabólicas cervicales ni supraclaviculares.
+Tórax
+Glándulas mamarias sin alteraciones metabólicas.
+Parénquima pulmonar sin focos hipercaptantes.
+Sin adenopatías hipermetabólicas en mediastino ni hilios.
+Adenopatías axilares bilaterales hipermetabólicas (niveles I–II); la mayor izquierda 23 × 22 mm, SUVmáx 8,2.
+Captación miocárdica fisiológica. SUV de referencia mediastínico ~2,8.
+Abdomen y pelvis
+Hígado con biodistribución homogénea, sin nódulos hipercaptantes (SUV de referencia hepático ~4,4).
+Vesícula biliar no observada; clips quirúrgicos en el lecho.
+Suprarrenales y páncreas con captación fisiológica.
+Bazo de tamaño normal (112 mm, coronal) con hipermetabolismo difuso (SUVmáx hasta 6,3), mayor que hígado; bazo
+accesorio adyacente al polo inferior de 8 mm.
+Riñones de forma y tamaño conservados; eliminación de FDG/contraste dentro de lo esperado.
+Vejiga con actividad fisiológica.
+Tracto gastrointestinal sin focos hipermetabólicos patológicos.
+Adenopatías retroperitoneales hipermetabólicas: la mayor, paraaórtica izquierda infrarrenal 21 × 12 mm, SUVmáx hasta
+17,3.
+Adenopatía pelviana derecha distal (posterior a los vasos ilíacos externos) 16 × 10 mm, SUVmáx 3,9.
+Adenopatías inguinales derechas hipermetabólicas, la mayor 14 × 9 mm, SUVmáx hasta 4.
+Sin adenopatías hipermetabólicas mesentéricas, pelvianas ni inguinales izquierdas.
+                  *El presente resultado debe correlacionarse con el cuadro clinico y ser evaluado por medico tratante*
+
+--- Fin de Página ---
+Esqueleto y médula ósea
+Aumento heterogéneo de la captación medular en esqueleto axial y apendicular proximal (SUVmáx hasta 6,3), sin
+correlato morfológico. Sin lesiones líticas o escleróticas.
+Impresión diagnóstica
+1. Adenopatías hipermetabólicas en axilas bilaterales, retroperitoneo, pelviana derecha e inguinales derechas, de
+significación patológica. Diferencial: proceso linfoproliferativo (p. ej., linfoma) versus reacción inflamatoria/inmunológica.
+2. Bazo de tamaño normal con hipermetabolismo difuso > hígado, que puede ser reactivo (contexto de PTI/estimulación
+inmune) o infiltrativo; correlacionar con hemograma, LDH y clínica.
+3. Médula ósea: hipermetabolismo heterogéneo difuso sin lesiones focales ni cambios CT, inespecífico (estimulación
+medular vs infiltración); correlacionar con antecedentes terapéuticos, hemograma e índice reticulocitario.
+4. Sitio de biopsia sugerido (si se requiere confirmación histológica): por mayor actividad metabólica, paraaórtica
+izquierda (SUV alto); por accesibilidad, adenopatía axilar izquierda (23 × 22 mm; SUVmáx 8,2). 
+Conclusión general
+FDG-PET/CT con adenopatías hipermetabólicas multifocales (axilares bilaterales, retroperitoneales, pélvicas e inguinales
+derechas), bazo difusamente hipermetabólico y aumento de captación medular, hallazgos sospechosos de proceso
+linfoproliferativo en el contexto de PTI, aunque no excluyen respuesta inmune/reactiva.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

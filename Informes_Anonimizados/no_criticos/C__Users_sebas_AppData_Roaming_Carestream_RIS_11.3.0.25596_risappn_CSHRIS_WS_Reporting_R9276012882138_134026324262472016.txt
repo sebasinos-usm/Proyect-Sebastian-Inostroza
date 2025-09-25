@@ -1,0 +1,37 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Antecedentes clínicos:
+Neoplasia mamaria izquierda tratada en control.
+Hallazgos:
+Hígado de tamaño y forma normal. Disminución difusa de densidad de su parénquima, concordante con esteatosis.
+Calcificaciones puntiformes hepáticas bilaterales estables, no significativas.
+Vesícula biliar parcialmente distendida, de pared fina, sin cálculos calcificados.
+Vía biliar no dilatada.
+Páncreas, parénquima esplénico, glándulas suprarrenales, riñones y vejiga sin alteraciones significativas.
+No hay nefrolitiasis ni hidronefrosis.
+Quiste cortical de 41 mm parcialmente exofítico dependiente del contorno postero lateral del tercio caudal del riñón
+izquierdo, de aspecto simple, sin cambios respecto a estudio previo de agosto 2024.
+Útero ausente. No hay masas anexiales.
+Asas intestinales de calibre y realce parietal normal, incluyendo el apéndice cecal. Estómago parcialmente distendido, sin
+masas.
+No hay ascitis ni neumoperitoneo libre.
+Principales estructuras vasculares abdominopélvicas, permeables.
+Aorta abdominal de calibre conservado. Placas de ateroma calcificado en el origen de la arteria renal izquierda, tronco
+celíaco, iliaca común derecha y pequeñas en la aorta abdominal infrarrenal.
+No se reconocen adenopatías inguinales, ilíacas, retroperitoneales ni mesentéricas según criterios de tamaño.
+Estabilidad de linfonodo ilíaco externo derecho y retroperitoneal intercavoaórtico.
+Leve cambios degenerativos discales y facetarios de la columna dorso lumbar visible, especialmente en facetas L4 L5,
+lumbosacras y en el espacio discal L5 S1.
+Impresión:
+Neoplasia mamaria izquierda tratada en control, sin evidencias que sugieran diseminación tumoral macroscópica en el
+abdomen y pelvis.
+Esteatosis hepática difusa.
+Quiste renal cortical izquierdo simple.
+Leve ateromatosis aortoilíaca y del origen de la arteria renal izquierda y tronco celíaco.
+Leves cambios degenerativos en la columna lumbar.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

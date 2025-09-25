@@ -1,0 +1,24 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Tórax sin Contraste
+Examen realizado en espiración.
+Tráquea y bronquios principales de calibre normal, permeables.
+Moderado enfisema centrolobulillar y paraseptal bilateral, predominando en lóbulos superiores. Opacidades cicatriciales
+en ambos vértices pulmonares. No observo áreas de condensación.
+No hay derrame pleural.
+Corazón de tamaño normal. Calcificaciones valvulares y coronarias.
+Estructuras vasculares de diámetros normales. Acentuada ateromatosis aórtica.
+Tiroides sin nódulos.
+Esófago torácico sin engrosamiento parietal.
+No identifico adenopatías.
+Cambios degenerativos de columna vertebral.
+Impresión diagnóstica:
+Moderado enfisema centrolobulillar y paraseptal bilateral.
+Opacidades cicatriciales en ambos vértices pulmonares.
+Ateromatosis aórtica y coronaria.
+Cambios degenerativos de columna vertebral.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

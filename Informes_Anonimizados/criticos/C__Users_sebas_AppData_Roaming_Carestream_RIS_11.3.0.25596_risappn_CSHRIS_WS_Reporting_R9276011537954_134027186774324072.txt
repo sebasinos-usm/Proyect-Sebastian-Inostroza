@@ -1,0 +1,32 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis sin Contraste
+Hallazgos:
+Hígado de tamaño, forma y densidad parenquimatosa conservada. No se reconocen lesiones focales en estudio no
+contrastado. Vesícula no visualizada. Vía biliar de calibre normal. 
+Páncreas, bazo y glándulas suprarrenales sin alteraciones.
+Riñones de tamaño, forma y posiciones normales. No se observan signos de ectasia pielocaliciaria ni imágenes de litiasis
+en los senos renales. Uréteres sin cálculos y de calibres normales.
+Aorta y grandes vasos de abdomen y pelvis de calibres y trayectos conservados.
+No se reconocen adenopatías periaórticas, pelvianas, mesentéricas ni inguinales.
+Engrosamiento renal concéntrico irregular de segmento corto del colon sigmoides, asociado a divertículos, no
+adecuadamente caracterizables en este estudio sin contraste administrado. Se asocia a marcados cambios inflamatorios
+del tejido adiposo pericólico adyacente y discreto engrosamiento del peritoneo local. No se reconocen imágenes
+sugerentes de colecciones inflamatorias, líquido libre en la cavidad peritoneal ni signos de neumoperitoneo.
+Restantes asas de intestino delgado y colon de calibre y distribución normales. Apéndice cecal no visualizado.
+Vejiga distendida, sin engrosamientos parietales, lesiones vegetantes ni imagen de litiasis intravesicales.
+Útero en posición neutra, sin lesiones. No se observan masas en áreas anexiales.
+Bases pulmonares sin nódulos ni condensaciones.
+Acuñamiento anterior del cuerpo vertebral de T12, sugerente de fractura flexo compresiva.
+Cambios degenerativos de columna vertebral dados por espondilosis y discopatías involutivas.
+No se reconocen otra lesiones óseas traumáticas o destructivas.
+Impresión Diagnóstica:
+Hallazgos descritos sugerentes de diverticulitis aguda.
+Se sugiere control posterior a la resolución del cuadro agudo.
+Fractura flexo compresiva de T12.
+Cambios degenerativos de columna vertebral.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

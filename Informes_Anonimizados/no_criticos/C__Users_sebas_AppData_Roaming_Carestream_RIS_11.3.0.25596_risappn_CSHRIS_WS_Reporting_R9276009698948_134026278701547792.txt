@@ -1,0 +1,50 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+En comparación con examen de [FECHA_ANONIMIZADA] se observa que el hígado mantiene similar tamaño y forma. No se han
+agregado lesiones nodulares sólidas o sospechosas de metástasis. Se mantienen sin variaciones quistes benignos, el mayor
+en el límite de los segmento 2 y 3, de 21 mm.
+Vesícula no se visualiza. Vía biliar no dilatada.
+Páncreas de contornos y grosor normales. No se han agregado nódulos.
+Bazo de tamaño normal.
+Glándulas suprarrenales de similar morfología.
+Se mantiene lesión nodular hipodensa adyacente a la glándula suprarrenal derecha de contacto con la crura
+diafragmática, con algunas calcificaciones periféricas y de 19 mm.
+Riñones de similar tamaño y forma. Persiste quiste cortical simple en polo inferior derecho de 53 mm. No se han agregado
+lesiones sospechosas. No hay ectasia pielocaliciaria ni litiasis. Uréteres sin imágenes de cálculos.
+Aorta y grandes vasos de diámetros normales.
+No se observan adenopatías periaórticas, pelvianas ni mesentéricas lo que no ha variado.
+Estómago, duodeno y asas intestinales sin engrosamiento parietal.
+Ileo-recto y anastomosis amplia y sin nódulos. Secuela quirúrgica por colectomía.
+No se han agregado líquido libre ni nódulos peritoneales.
+Vejiga en repleción parcial sin engrosamiento parietal.
+Útero anteflexión sin nódulos. No hay lesiones anexiales.
+Se mantiene diástasis de los músculos rectos anteriores. Restantes planos musculares conservados. Cicatriz quirúrgica
+línea media anterior de abdomen y pelvis.
+Se agrega área de esclerosis en el hueso pubiano izquierdo. No se reconocen otras lesiones escleróticas óseas. Persisten
+cambios degenerativos de columna lumbar caracterizado por discopatías, cambios artrósicos facetarios y leves osteofitos
+en los márgenes de las plataformas vertebrales. Cambios degenerativos de ambas caderas. Disminución difusa de
+densidad ósea.
+Impresión diagnóstica:
+Antecedentes de neoplasia de colon tratada en control.
+Se agrega lesión esclerótica en el hueso pubiano derecho sospechosa de metástasis, lo que puede confirmarse con el
+estudio histológico o PET-FDG.
+Secuela quirúrgica por colectomía.
+Anastomosis ileo-rectal sin nódulos.
+Quistes hepáticos benignos sin variaciones.
+Nódulo de aspecto benigno adyacente a glándula suprarrenal derecha sin variaciones.
+Quiste cortical simple renal derecho benigno sin cambios.
+Cambios degenerativos de columna vertebral y signos de osteoporosis.
+Fecha addendum:
+[FECHA_ANONIMIZADA] 11:51:35
+En la descripción dice esclerosis en el hueso pubiano izquierdo y debe decir en el hueso pubiano
+derecho.
+                  *El presente resultado debe correlacionarse con el cuadro clinico y ser evaluado por medico tratante*
+
+--- Fin de Página ---
+Addendum firmado por:
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

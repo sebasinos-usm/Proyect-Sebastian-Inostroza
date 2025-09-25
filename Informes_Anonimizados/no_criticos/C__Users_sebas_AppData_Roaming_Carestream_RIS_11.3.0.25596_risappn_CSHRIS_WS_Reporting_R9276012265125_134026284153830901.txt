@@ -1,0 +1,30 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+AngioTC de Cerebro
+HALLAZGOS:
+Ambas arterias carótidas internas presentan diámetros conservados y sus lúmenes se encuentran ampliamente
+permeables.
+Las arterias cerebrales medias y sus ramas evaluables presentan diámetros conservados, con lúmenes permeables.
+Las arterias cerebrales anteriores presentan diámetros conservados, con lúmenes ampliamente permeables. Sus ramas
+pericallosas y calloso marginales presentan aspecto habitual.
+La arteria comunicante anterior presenta diámetro habitual, con lumen permeable. 
+Arterias comunicantes posteriores no identificadas.
+Arterias cerebrales posteriores simétricas, de diámetros conservados, con lúmenes permeables.
+Tronco basilar de calibre conservado y lumen ampliamente permeable.
+Arterias vertebrales permeables, sin reconocer estenosis significativas.
+No se observan flap de disección, ovillos vasculares ni imágenes sugerentes de aneurismas.
+Los senos venosos supra e infratentoriales presentan amplitud conservada y en sus lúmenes no se observan defectos de
+llene que sugieran trombosis.
+En el parénquima encefálico no se reconocen lesiones focales evidentes. No se reconocen hemorragias intracraneanas.
+Sistema ventricular con amplitud conservada.
+No reconozco fracturas.
+Contenido hiperdenso en partes blandas de la región frontal derecha con espesor de hasta 6 mm compatible con un
+hematoma.
+IMPRESIÓN DIAGNÓSTICA:
+Hematoma de partes blandas superficiales de la región frontal derecha. Resto de angiotomografía computada encefálica
+sin hallazgos de significado patológico.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

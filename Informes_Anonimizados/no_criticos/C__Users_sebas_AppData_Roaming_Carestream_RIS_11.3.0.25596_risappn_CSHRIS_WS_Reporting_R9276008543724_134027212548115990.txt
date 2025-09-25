@@ -1,0 +1,40 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+RM Abdomen más ColangioRM
+En control por lesión quística del páncreas. Se realiza evaluación comparativa con R M previas, últimas de abril de 2022 y
+enero de 2020.
+Hígado de forma, tamaño y estructura conservada. En su interior se observan múltiples imágenes quísticas simples, la
+mayor parte inferior a 10 mm diámetro, pudiendo corresponder a hamartomas biliares.. Se destacan otras en menor
+número y de mayor tamaño, de hasta 44 mm de diámetro. No se observan lesiones focales sólidas.
+Vía biliar intra y extrahepática no dilatada. Conducto hepático común mide 6 mm de diámetro. 
+Vesícula no visualizable, de aspecto postquirúrgico.
+Páncreas presenta  dilatación difusa del conducto pancreático principal, el cual mide 10 mm de diámetro en su sector
+proximal, sin cambios respecto a R M de abril del 2022 y con significativo mayor diámetro en relación a R M de enero de
+2020. En proceso uncinado se observa imagen quística lobulada la cual comunica con el conducto de Wirsung, compatible
+con dilatación de rama secundaria. Mide 24 x 18 mm, sin cambios de tamaño respecto a R M de 2022 y con progresión
+respecto a R M de 2020 (20 x 9 mm). Presenta discreta restricción a la difusión y contenido interno heterogéneo,
+impresionando existir leve reforzamiento parietal con el medio de contraste, sin cambios respecto a R M de 2022, sin
+embargo dichos hallazgos no eran visibles en R M de 2020. En el resto del proceso uncinado se observan otras dilataciones
+de ramas secundarias, de hasta 4 mm de diámetro mayor, impresionando sin cambios respecto a R M previa, no visibles
+en R M de 2020.
+En cuerpo y cola se observan pequeñas dilataciones de ramas secundarias, sin cambios respecto a examen previo.
+Parénquima pancreático con leve atrofia difusa.
+Por las características impresiona corresponder a IPMN de tipo mixto con signos de agresividad. Presenta evidente
+progresión respecto a R M de 2020, observándose estable respecto a última R M de abril del presente año.
+Bazo y glándulas suprarrenales, sin alteraciones.
+Riñones de características conservadas con imágenes quísticas parapiélicas en su espesor.
+Estructuras vasculares de calibre normal.
+No se observan linfonodos de características patológicas en las distintas cadenas evaluables.
+Secuelas quirúrgicas colónicas acorde a antecedentes.
+No se observa líquido libre.
+Impresión diagnóstica:
+Hallazgos compatibles con IPMN de tipo mixto con signos de agresividad en lesión dominante de proceso uncinado. No
+muestra cambios respecto a R M de abril del presente año, con evidente progresión respecto a R M de 2020.
+Leve atrofia pancreática difusa. 
+Quistes hepáticos múltiples, la gran mayoría de pequeño tamaño, pudiendo corresponder a hamartomas biliares.
+Colecistectomizada. Quistes renales parapiélicos bilaterales.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

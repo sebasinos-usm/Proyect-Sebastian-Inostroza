@@ -1,0 +1,17 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Cerebro con Contraste
+Hallazgos: 
+El espacio subaracnoídeo cortical así como las cisternas de la base se conservan de morfología y
+amplitud normal.
+No hay evidencias de hemorragia subaracnoídea ni de colecciones yuxtadurales.
+Sistema ventricular de amplitud y densidad  conservada.
+No se demuestran  lesiones a nivel de tronco encéfalo y cerebelo.
+No se demuestra  alteraciones en la densidad del resto del parénquima encefálico.
+Impresión Diagnóstica: 
+Examen sin hallazgos patológicos.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,29 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Mamografía Bilateral
+Paciente referida para control preventivo.
+Primera mamografía.
+Con antecedente familiar de primer grado de cáncer mamario.
+Ambas mamas presentan patrón de densidades fibroglandulares heterogéneamente densas.
+Se observan múltiples nódulos isodensos, ovalados  y de margen circunscrito en ambas mamas, de hasta 17 mm en mama
+derecha, y 11 mm a izquierda, los de mayor tamaño en unión de cuadrantes superiores.
+Múltiples grupos de microcalcificaciones en ambas mamas que se evalúan con magnificaciones, algunas en CSE de la
+mama izquierda en tercio posterior se observan heterogéneas finas, de distribución regional, y que no se modifican
+significativamente en posición lateral estricta.
+Los restantes grupos decantan en proyección lateral estricta, con aspecto de lechada de cal, benignas.
+Se realiza proyección con compresión localizada en cuadrantes externos de mama derecha, que desestructura dudosa
+asimetría observada en proyección craneocaudal convencional.
+No se observan áreas de distorsión arquitectural del parénquima.
+Calcificaciones benignas bilaterales.
+Linfonodo axilar inespecífico derecho.
+Impresión mamográfica.
+Microcalcificaciones en CSE de mama izquierda, de bajo grado de sospecha de malignidad, que dado que no se dispone de
+estudios previos, como medida de precaución se sugiere evaluar con estudio histológico por BED.
+Birads 4.
+ACR C.
+Múltiples nódulos de aspecto sugerente de benignidad en ambas mamas, debe ser evaluados con ecografía.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

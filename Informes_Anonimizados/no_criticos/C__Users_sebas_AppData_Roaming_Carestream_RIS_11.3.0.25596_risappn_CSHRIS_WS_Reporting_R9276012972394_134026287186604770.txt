@@ -1,0 +1,49 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+examen: control.
+Descripción del estudio:
+Examen efectuado en un equipo PET/CT Siemens Biograph Truepoint (cristales LSO y TC multicorte de 64 canales).
+Aproximadamente 50 minutos de la inyección intravascular de FDG se obtuvieron imágenes PET/CT simultáneas desde la
+base del cráneo al tercio superior de los muslos. Estas fueron corregidas por atenuación y fusionadas. Examen realizado
+con uso de medio de contraste yodado intravascular.
+Hallazgos:
+Encéfalo: Se aprecia distribución habitual del radio trazador en el parénquima encefálico visible. No se evidencian focos
+hipermetabólicos patológicos, sin embargo se debe tener presente que dada la intensa captación fisiológica del FDG en la
+corteza cerebral y cerebelar, se pueden enmascarar la presencia de lesiones encefálicas.
+Cabeza y Cuello: Existe captación habitual de la glucosa marcada en orofaringe y glándulas salivales. Se observan
+adenopatías hipermetabólicas en niveles II y IV izquierdos de hasta 10 x 7 mm con un SUV max de 4.45..     
+Tórax: derrame pleural bilateral siendo loculado en algunas zonas, se asocia a zonas de atelectasia en ambos pulmones
+con baja actividad metabólica. Engrosamiento pleural derecho con hipermetabolismo asociado probablemente
+secundario a pleurodesis.
+Se observan adenopatías hipermetabólicas en mediastino a nivel paratraqueal inferior y subcarinal, la mayor de 17 x 10
+mm con un SUV max de 4.33. Dudosa pequeña adenopatía con leve aumento del metabolismo en región hiliar izquierda.   
+En mama derecha se observa masa hipermetabólica de 60 mm con un SUV max de 6.73 la cual infiltra el tejido cutáneo y
+complejo aréola-pezón. La masa contacta el músculo pectoral mayor elk cual se observa engrosado e hipermetabólico
+hacia lateral. En mama izquierda en cuadrantes superiores se observan áreas hipermetabólicas no asociadas a nódulos
+con un SUV max de 3.95.
+En axila derecha se observa aumento irregular de la densidad y del tejido trabecular asociado a algunos nódulos
+hipermetabólicos con un SUV max de 5.04. En axila izquierda se observa adenopatía hipermetabólica en nivel I de 19 x 10
+mm con un SUV max de 3.42.
+Abdomen y Pelvis: Existe distribución habitual de la glucosa marcada en hígado, bazo, glándulas suprarrenales y páncreas.
+Vesícula sin cálculos ni focos parietales hipermetabólicos. Se observa contraste en tracto urinario, vía de eliminación
+normal de la FDG. Quiste cortical simple en RD. El tracto gastrointestinal no muestra focos hipermetabólicos patológicos.
+No se observan adenopatías hipermetabólicas mesentéricas, retroperitoneales ni en relación a los vasos ilíacos.   
+Útero sin nódulos ni focos hipermetabólicos.
+                  *El presente resultado debe correlacionarse con el cuadro clinico y ser evaluado por medico tratante*
+
+--- Fin de Página ---
+Esqueleto y Médula ósea: múltiples lesiones óseas destructivas e hipermetabpolicas que comprometen columna de
+región cervical a sacra, parrilla costal, ambas escápulas y clavículas, esternón, toda la pelvis y ambos húmeros y fémures.   
+Extremidades: Sin evidencias de focos hipercaptantes.  
+Impresión diagnóstica:   
+1.- Antecedente de neoplasia de mama derecha diseminada en evaluación.
+2.- Masa hipermetabólica en mama derecha compatible con neoplasia primaria, la cual infiltra el complejo aréola-pezón,
+el tejido cutáneo, el músculo pectoral mayor y el tejido subcutáneo axilar derecho.
+3.- Hipermetabolismo en cuadrantes superiores de mama izquierda, no pudiendo descartar compromiso neoplásico.
+4.- Adenopatías hipermetabólicas en axilas compatibles con metástasis.
+5.- Adenopatías hipermetabólicas en mediastino que pueden ser de origen reactivo o metastásico.
+6.- Múltiples lesiones óseas destructivas e hipermetabólicas en esqueleto axial y apendicular compatibles con
+metástasis.      
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,23 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+AngioTC de Tórax
+En la fase angiográfica de arterias pulmonares se identifican defectos de llene parciales en segmentos anterior y apical del
+LSD, en arteria para lóbulo inferior derecho y sus segmentos. 
+Tráquea y bronquios principales de calibres normales, permeables. 
+No se observan opacidades de condensación, nódulos pulmonares de aspecto sospechoso ni derrame pleural.
+Tiroides sin nódulos. Esófago sin engrosamientos parietales.
+Corazón de tamaño y configuración normal.
+Arteria pulmonar de calibre normal.
+Aorta torácica de calibre y trayecto conservado, con placas cálcicas. Vena cava superior sin alteraciones. 
+No se observan adenopatías mediastínicas, supraclaviculares, hiliares ni axilares.
+Signos de trombosis en vena poplítea y femoral superficial a izquierda. 
+No se reconocen lesiones óseas. 
+Impresión diagnóstica: 
+TEP multisegmentario y lobar inferior derecho, según lo descrito. 
+TVP en extremidad inferior izquierda. 
+Ateromatosis aórtica. 
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

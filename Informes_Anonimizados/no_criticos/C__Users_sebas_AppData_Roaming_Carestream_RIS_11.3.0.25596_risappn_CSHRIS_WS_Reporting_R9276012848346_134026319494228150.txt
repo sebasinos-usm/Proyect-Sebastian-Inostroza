@@ -1,0 +1,19 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+RM de Columna Lumbar sin Contraste
+Antecedentes:
+Dolor lumbar. Sospecha de espondilolisis. 
+Técnica:
+Secuencias en los tres planos según protocolo de columna lumbar, sin contraste.
+Hallazgos:
+Cuerpos vertebrales de altura normal. Señal de médula ósea conservada. Discos de altura, señal y contornos normales. El
+canal y los forámenes son suficientemente amplios. Cono normosituado. Raíces de la cauda equina sin lesiones. Edema
+óseo de ambos pedículos y láminas L5. Articulaciones facetarias bien alineadas, con derrame articular L4-5 y L5 con mayor
+izquierdo de incremento de señal periarticular de los mismos niveles. Sin masas paravertebrales.
+Impresión diagnóstica: 
+Edema óseo de ambas láminas y pedículos L5. Derrame articular e hiperseñal periarticular lumbar baja.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

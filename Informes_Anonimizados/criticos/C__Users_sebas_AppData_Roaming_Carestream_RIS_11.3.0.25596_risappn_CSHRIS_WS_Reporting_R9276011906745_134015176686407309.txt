@@ -1,0 +1,47 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+AngioTC de Tórax
+Antecedentes: sospecha de TEP. Paciente en posoperatorio de lipoaspiración más abdominoplastia más mamoplastia.
+No se cuentan con estudios previos para comparar.
+Hallazgos:
+Posterior a la utilización del medio de contraste intravascular se logra opacificación subóptima a nivel del tronco de la
+arteria pulmonar, pudiendo evaluar adecuadamente hasta el territorio segmentario. Aparente pequeño defecto de llene
+excéntrico en rama subsegmentaria del segmento apical del lóbulo superior derecho, que pudiera estar en contexto de
+tromboembolismo pulmonar.
+Tronco de la arteria pulmonar de calibre conservado, mide aproximadamente 22 mm.
+En fase venográfica no se reconocen defectos de llene en ramas venosas evaluables de la pelvis ni en territorios
+femoropoplíteos, que sugieran presencia de trombosis venosa profunda.
+Corazón de tamaño y configuración normal. No hay derrame pericárdico.
+Aorta de calibre y trayecto conservados.
+Vena cava superior y troncos vasculares supraaórticos de calibre normal.
+Tráquea y bronquios principales de calibre conservado, permeables.
+Opacidades de aspecto atelectásico en ambos pulmones, destacando atelectasia subtotal de lóbulos inferiores.
+No se reconocen opacidades de consolidación ni masas pulmonares.
+Leve derrame pleural derecho, con espesor de 12 mm y derrame pleural laminar izquierdo.
+No se reconocen adenopatías mediastínicas ni axilares por criterio de tamaño.
+Tiroides y esófago torácico sin alteraciones tomográficas.
+Prótesis mamaria subglandular bilateral.
+Moderado enfisema subcutáneo y de planos profundos en el aspecto anterior de la pared torácica y en menor medida en
+el espesor del tejido celular subcutáneo de la pared abdominal anterior.
+Imagen heterogénea con áreas espontáneamente densas en aspecto subcapsular posterior del riñon derecho de
+aproximadamente 75 x 44 x 9 mm en ejes cefalocaudal, transverso y anteroposterior respectivamente, de aspecto
+hemático.
+No se reconocen lesiones óseas traumáticas ni destructivas evidentes. Leves cambios degenerativos de la columna dorsal.
+Impresión diagnóstica:
+Examen con realce subóptimo de la arteria pulmonar, lo que disminuye el rendimiento diagnóstico.
+Posible tromboembolismo pulmonar en rama subsegmentaria del segmento apical del lóbulo superior derecho.
+Imagen sugerente de hematoma subcapsular renal derecho.
+Opacidades de aspecto atelectásico en ambos pulmones, destacando atelectasia subtotal de lóbulos inferiores.
+Leve derrame pleural derecho y derrame pleural laminar izquierdo.
+Prótesis mamaria subglandular bilateral.
+Moderado enfisema subcutáneo y de planos profundos en el aspecto anterior de la pared torácica y en menor medida en
+el espesor del tejido celular subcutáneo de la pared abdominal anterior.
+Espondilosis dorsal leve.
+                  *El presente resultado debe correlacionarse con el cuadro clinico y ser evaluado por medico tratante*
+
+--- Fin de Página ---
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

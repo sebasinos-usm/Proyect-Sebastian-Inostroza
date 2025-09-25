@@ -1,0 +1,55 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Tórax, Abdomen y Pelvis con Contraste
+Tráquea y bronquios principales de calibres normales, permeables.
+Escasos nódulos pulmonares bilaterales, dos de mayor tamaño midiendo 6 mm ubicados en lóbulo inferior derecho
+(imagen 213) y en lóbulo inferior izquierdo (imagen 233. No se identifican masas ni áreas de consolidación. No hay
+derrame pleural.
+No se visualizan adenopatías mediastínicas, hiliares ni axilares. Linfonodos en hilio pulmonar derecho de hasta 9 mm en
+eje corto, de carácter inespecífico.
+Esófago sin engrosamiento parietal. Pequeña hernia hiatal por deslizamiento.
+Corazón de tamaño normal, con leve ateromatosis coronaria, sin derrame pericárdico. No se observa crecimiento de
+cavidades cardíacas derechas. Índice VD/VI de 0,49.
+Arteria pulmonar de tamaño normal, midiendo tronco principal 22 mm de diámetro. Se observan defectos hipodensos
+compatibles con trombosis comprometiendo ramas lobar y segmentarias del lóbulo superior derecho, arteria interlobar y
+ramas lobares y segmentarias del lóbulo inferior derecho, así como también un trombo densidad de montar en la
+bifurcación de la mama izquierda de la arteria pulmonar, con extensión a ramas lobares y segmentarias superiores e
+inferiores.
+Aorta de calibre y trayecto normales, con múltiples placas de ateroma que también compromete arterias ilíacas. También
+se observa ateromatosis mixta en el origen de la artera renal izquierda, determinando una estenosis de aproximadamente
+un 70%.
+Hígado de tamaño y estructura normales. Nódulo hipodenso de 20 mm en el segmento 5.
+Vesícula no se visualiza. Vía biliar, bazo, páncreas y glándulas suprarrenales sin alteraciones.
+Riñones en herradura. Quistes simples corticales bilaterales de hasta 33 mm. No hay hidroureteronefrosis ni litiasis.
+Vejiga escasa repleción, con contenido hipodenso homogéneo.
+Próstata heterogénea y aumentada de tamaño. Vesículas seminales sin alteraciones.
+Estómago y asas intestinales sin dilatación ni engrosamiento parietal. Apéndice vermiforme en FID, sin alteraciones. No
+hay ascitis.
+Aumento de densidad del tejido graso mesentérico central, con pequeños linfonodos en su espesor de hasta 5 mm en eje
+corto.
+No se reconocen adenopatías retroperitoneales, mesentéricas, pélvicas o inguinales.
+Aorta grandes vasos de diámetro normales. Ateromatosis aortoilíaca.
+Planos parietales conservados.
+Hernia inguinal bilateral con contenido adiposo, sin signos de complicación.
+No se identifican signos de lesión ósea traumática o destructiva. Alteraciones degenerativas de columna vertebral,
+predominio lumbar bajo.
+Impresión diagnóstica:
+Hallazgos compatibles con tromboembolismo pulmonar bilateral.
+No se demostraron signos de sobrecarga de cavidades cardíacas derechas ni hipertensión pulmonar.
+Escasos nódulos pulmonares bilaterales, de carácter inespecífico. Se recomienda controlar.
+Lesión hipodensa hepática derecha, indeterminada, la cual podría ser mejor caracterizada con RM con contraste.
+Riñón en herradura.
+Quistes corticales renales bilaterales, aspecto simple.
+Mesenterio nebuloso, hallazgo de carácter inespecífico.
+Aumento de tamaño prostático.
+                  *El presente resultado debe correlacionarse con el cuadro clinico y ser evaluado por medico tratante*
+
+--- Fin de Página ---
+Hernia inguinal bilateral con contenido adiposo, sin signos de complicación.
+Ateromatosis aórtica y de sus ramas, destacando estenosis significativa por ateromatosis mixta en tercio proximal de
+arteria renal izquierda.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

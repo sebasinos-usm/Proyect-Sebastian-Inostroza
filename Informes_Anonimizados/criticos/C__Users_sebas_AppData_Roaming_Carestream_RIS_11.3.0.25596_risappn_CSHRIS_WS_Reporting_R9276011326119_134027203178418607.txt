@@ -1,0 +1,44 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+AngioTC de Tórax
+Antecedentes clínico:
+Sospecha de tromboembolismo pulmonar.
+Hallazgos:
+Se obtiene adecuada representación de las estructuras arteriales pulmonares hasta nivel segmentario.
+Defectos de llenado endoluminales centrales en rama para el segmento basal anterior del lóbulo inferior derecho y escaso
+para el segmento basal del mismo lóbulo, compatible con tromboembolismo pulmonar agudo, de baja calidad trombótica.
+Arteria pulmonar central permeable, de calibre conservado.
+Corazón de tamaño y configuración normal. No hay derrame pericárdico significativo. No hay signos de sobrecarga de
+cavidades cardíacas derechas.
+Aorta torácica de calibre conservado y trayecto descendente tortuoso.
+Finas placas de ateroma blando marginales en la aorta torácica y escasas de tipo calcificado en la aorta descendente.
+Calcificaciones ateromatosas coronarias bilaterales.
+Esófago sin masas.
+No se observan adenopatías mediastínicas, hiliares ni axilares según criterios de tamaño.
+Pequeños nódulos milimétricos en la glándula tiroides, de predominio izquierdo.
+Partes blandas de la pared torácica sin hallazgos patológicos.
+No hay derrame pleural ni neumotórax.
+Tráquea, blanca principales, lobares y segmentarios visibles permeables, de calibre conservado, no engrosados.
+Pulmones de arquitectura parenquimatosa normal.
+No se observan focos de condensación, masas ni nódulos pulmonares sospechosos.
+Tenue opacidad parenquimatosa heterogénea mal definida subpleural en el segmento basal anterior del lóbulo inferior
+derecho, en concordancia con la rama con tromboembolismo pulmonar, probablemente parénquima isquémico.
+Múltiples atelectasias subsegmentarias en ambos lóbulos inferiores.
+No se identifican lesiones focales óseas traumáticas ni destructivas mediante esta técnica.
+En los segmentos visibles y de ambas extremidades inferiores se observa adecuada permeabilidad de las principales
+estructuras vasculares venosas supracondíleas.
+En forma incidental se observan numerosos divertículos en el colon visible.
+Impresión:
+Tromboembolismo pulmonar agudo para ramas del lóbulo inferior derecho, sin signos de sobrecarga de cavidades
+cardíacas.
+Área parenquimatosa pulmonar heterogénea periférica en el segmento basal anterior del lóbulo inferior derecho,
+probablemente de carácter isquémico en evolución.
+Examen sin evidencia de trombosis venosa profunda en las principales estructuras venosas supracondíleas de ambas
+extremidades inferiores.
+Ateromatosis aorta coronaria.
+Atelectasias en ambos lóbulos inferiores.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

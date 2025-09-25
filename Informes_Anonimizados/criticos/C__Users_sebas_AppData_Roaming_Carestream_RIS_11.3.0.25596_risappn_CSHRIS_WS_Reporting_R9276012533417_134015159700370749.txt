@@ -1,0 +1,21 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+examen:
+Antecedente de cirugía izquierda por papiloma.
+Estudio previo a biopsia core. Examen complementario a mamografía de mayo.
+Hallazgos:
+Patrón fibroglandular disperso.
+En mama izquierda, dos nódulos isodensos y espiculados; de 7 mm en el tercio medio de la UCInt y 6 mm en el tercio
+medio de la UCE.
+En el tercio posterior del CII derecho, nódulo isodenso y ovalado, de 7 mm, de aspecto benigno.
+No observo  microcalcificaciones agrupadas.
+Calcificaciones benignas bilaterales.
+Regiones axilares bajas libres de adenopatías.
+Impresión:
+Nódulos izquierdos sospechosos, sugerentes de compromiso neoplásico multicéntrico.
+Recomiendo estudio histológico con BAG.
+BI-RADS 5
+ACR B
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,19 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+examen:
+Antecedente de Ca. de mama izquierda tratado con mastectomía parcial en 2021. 
+Control. Se compara con mamografía de agosto 2024.
+Hallazgos:
+Patrón fibroglandular disperso con cambios postquirúrgicos a izquierda.
+No observo nódulos sospechosos ni microcalcificaciones agrupadas.
+Calcificación benigna izquierda.
+Clips quirúrgicos en el cuadrante superior externo izquierdo.
+Regiones axilares bajas libres de adenopatías.
+Impresión:
+Examen sin hallazgos sugerentes de malignidad.
+Recomiendo control mamográfico anual.
+BI-RADS 2
+ACR B
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,30 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Col. Lumbar sin Contraste
+Control de raquiestenosis L4 L5 S1 operada. Artrodesis L5-S1. Imágenes previas de R M de columna lumbar de marzo del
+presente año.
+Secuelas de semi hemilaminectomía L4-L5 izquierda con resección parcial de facetarias.
+Elementos de fijación instrumentada, con placas paravertebrales posteriores fijadas con tornillos transpediculares a
+cuerpos vertebrales L5 y S1. Los tornillos observan bien ubicados y sin signos de aflojamiento.
+Discopatía involutiva severa L5-S1, con colapso del espacio intervertebral, importante espondilosis deformante y
+esclerosis de ambas plataformas corporales. Leve compromiso disco osteofítico de agujero foraminales, sin
+características conflictivas.
+Secuelas de fractura por compresión axial - hiperflexión cuerpo vertebral L1 con moderado desplazamiento del muro
+posterior que no compromete forma significativa diámetros del canal.
+Resto de cuerpos vertebrales de morfología y mineralización conservadas, bien alineados.
+Articulaciones facetarias evidencian moderados cambios degenerativos en L5-S1.
+Fenómenos de Baastrup desde L1-L2 a L4-L5.
+Diámetros del canal y resto de agujero foraminales conservados, sin ocupaciones patológicas.
+Sin masas paravertebrales.
+Defecto óseo en hueso ilíaco izquierdo, secundario a probable obtención de hominjertos.
+Impresión diagnóstica:
+Secuelas de semi hemilaminectomía  L4-L5 izquierda.
+Artrodesis instrumentada L5-S1.
+Secuelas fractura corporal L1.
+Leves artrosis facetarias L5-S1.
+Fenómenos de Baastrup multisegmentarios.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,57 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Angiotac Abdomen y Pelvis
+Hallazgos:
+Aorta abdominal con diámetros y trayecto conservados, con extensa ateromatosis cálcica. 
+En el origen del tronco celíaco se reconoce estenosis significativa, mayor al 90-95%. Se encuentra permeable hasta sus
+ramas distales de valorables por esta técnica.
+Arteria mesentérica superior sin estenosis significativas evidentes, permeable hasta sus ramas evaluables por esta técnica,
+con una placa de ateroma calcificada en su origen que determina estenosis aproximada del 10-15%. 
+Múltiples placas de ateroma calcificadas en las arterias renales, destacando estenosis de 20-25% en el origen de la arteria
+renal derecha, no significativa. Ambas arterias renales presentan diámetros conservados y se encuentran permeables
+hasta sus ramas distales valorables por esta técnica.
+Estenosis de aproximadamente 30-40% en el origen de la arteria mesentérica inferior, la que se encuentra permeable
+hasta sus ramas distales valorables por esta técnica.
+Arterias ilíacas comunes, internas y externas permeables, con diámetro conservados, con placas de ateroma calcificadas
+que determinen estenosis de hasta 25-30% no significativas.
+Venas hepáticas, vena porta y sus ramas principales, venas renales, venas ováricas, vena cava inferior y venas ilíacas
+comunes, internas y externas, permeables.
+No se reconocen neumatosis portal.
+Respecto a lo visualizado tomografía computada sin medio de contraste de hoy, se mantiene la marcada dilatación difusa
+de intestino delgado con múltiples niveles hidroaéreos, alcanzando diámetros de hasta 42 mm, con reducción de sus
+diámetros hacia el íleon distal, el que se encuentra colapsado. Se mantiene colapso del colon ascendente, descendente y
+sigmoides y moderada distensión del colon transverso, sin cambios significativos. El realce parietal tras la administración
+de medio de contraste de las asas de intestino delgado y colon impresiona conservado. Sobredistensión gástrica.
+En la fosa ilíaca derecha se reconoce al apéndice cecal con trayecto descendente medial, con diámetros de hasta 10 mm.
+En su base se reconoce un elemento hiperdenso intraluminal de 14 x 7 mm. Adyacente al extremo del apéndice cecal se
+reconoce algunas burbujas de gas. Su extremo contacta a contenido líquido pelviano con múltiples pequeñas burbujas de
+gas, inseparables de la pared de un asa de intestino delgado. Se mantiene moderada cantidad de líquido libre
+intraperitoneal pelviano y perihepático. No se reconoce neumoperitoneo libre.
+Hígado de tamaño y morfología conservados, no observando lesiones focales en su espesor. Vesícula biliar no identificada.
+Vía biliar intra y extrahepática de calibres conservados.
+Páncreas, bazo y glándulas suprarrenales de morfología conservada. Riñones de tamaño y espesor parenquimatoso
+conservados. No se reconoce dilatación de los sistemas pielocaliciarios ni imágenes sugerentes de litiasis. Uréteres de
+calibres conservados, sin imágenes sugerentes de litiasis. Vejiga colapsada, con balón de una sonda Foley.
+No reconozco masas pelvianas. No se reconocen adenopatías de acuerdo a criterios de tamaño a nivel del retroperitoneo
+lumboaórtico, mesenterio ni en la pelvis.
+Hernia inguinal derecha con tejido adiposo intraabdominal en su interior, de tipo indirecto, con anillo de 10 mm y saco de
+30 x 15 mm.
+No se reconocen lesiones óseas traumáticas ni destructivas. Cambios degenerativos de la columna lumbar. Discopatía
+involutiva L4-L5 severa.
+En los segmentos visibles del tórax destaca derrame pleural derecho de 7 mm de espesor.
+Impresión diagnóstica:
+Dilatación del apéndice cecal y un apendicolito en su base, con burbujas de gas adyacentes a su extremo distal. Pudiera
+corresponder a apendicitis aguda perforada.
+Dilatación en grado patológico del intestino delgado, con múltiples niveles hidroaéreos ¿Íleo paralítico?
+Líquido libre intraperitoneal en moderada cuantía, en mayor cantidad a nivel pelviano.
+Extensa ateromatosis aortoilíaca y en sus ramas principales. 
+                  *El presente resultado debe correlacionarse con el cuadro clinico y ser evaluado por medico tratante*
+
+--- Fin de Página ---
+Estenosis significativa en el tronco celíaco. 
+Hernia inguinal derecha.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

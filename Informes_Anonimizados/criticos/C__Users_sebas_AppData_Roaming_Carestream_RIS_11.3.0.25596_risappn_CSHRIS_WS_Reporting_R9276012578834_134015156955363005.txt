@@ -1,0 +1,22 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Ecotomografía Mamaria
+Paciente referida para control. Se dispone de ecografía previa BIRADS 3.
+Patrón mamario mixto. 
+Nódulo hipoecogénico sólido lobulado de 15 x 6 x 12 mm en UCE, tercio medio de la mama derecha, sin cambios. 
+Nódulo hipoecogénico sólido, lobulado, que mide 13 x 5 x 10 mm en hora 1 de la mama izquierda, tercio medio, sin
+variación significativa. 
+Nódulo hipoecogénico sólido, con un margen levemente angulado, que mide 26 x 7 x 15 mm, en hora 5, tercio medio de la
+mama izquierda, de leve mayor tamaño que estudio previo. 
+No se reconocen  nuevos nódulos sólidos mamarios. 
+No hay signos de ectasia ductal. 
+Linfonodos axilares benignos. 
+Impresión diagnóstica: 
+Nódulo mamario izquierdo (hora 5) indeterminado. Se sugiere estudio con biopsia core. 
+Otros nódulos mamarios bilaterales sin cambios. Controlar. 
+US BIRADS 4. 
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

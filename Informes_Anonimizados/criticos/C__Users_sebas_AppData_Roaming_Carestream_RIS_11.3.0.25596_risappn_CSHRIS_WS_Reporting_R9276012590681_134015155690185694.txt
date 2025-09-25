@@ -1,0 +1,21 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+Fecha informe
+:  [FECHA_ANONIMIZADA]
+:  [FECHA_ANONIMIZADA] 10:19:09
+Eco Doppler Venoso EEII Izquierda
+Antecedentes: Obs. TVP
+Hallazgos:
+Material ecogénico endoluminal compatible con trombo en las venas femoral común, femoral, poplítea, tibiales
+posteriores, peroneas, gemelares mediales y laterales, y sóleas. No hay evidencia de flujo al Doppler color. Existe también
+compromiso de la vena iliaca externa evaluable.
+Las venas safenas mayor y menor se encuentran permeables y sin trombos.
+Impresión:
+Trombosis venosa profunda de aspecto agudo que compromete por completo los niveles suprapoplíteo, poplíteo e
+infrapoplíteo, con extensión hacia cefálico comprometiendo al menos la vena iliaca externa. Sugiero complementar con TC
+abdomen y pelvis contrastado para una adecuada evaluación extensión real y, según clínica, considerar también angio-TC
+tórax con protocolo TEP.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

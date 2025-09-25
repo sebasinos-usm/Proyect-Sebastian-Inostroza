@@ -1,0 +1,50 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+AngioTC de Tórax
+HALLAZGOS:
+Artefactos de movimiento degradan la calidad de las imágenes.
+Se dispone para comparar tomografía computada del [FECHA_ANONIMIZADA].
+Tráquea y bronquios principales de calibres conservados, permeables.
+En ambos pulmones se agregan extensas zonas con atenuación en vidrio esmerilado. Se agregan múltiples opacidades
+nodulares de hasta 26 mm, algunas con áreas hipodensas de aspecto necrótico. Por otra parte ya no son visibles los
+incontables pequeños nódulos de distribución azarosa que anteriormente eran visibles. En el lóbulo inferior izquierdo se
+agrega una extensa opacidad de condensación con un área central hipodensa heterogénea, destacando un nivel
+hidroaéreo, pudiendo corresponder a cambios necróticos. Ya no se reconoce la prominente opacidad de condensación en
+la base pulmonar derecha.
+Leve incremento del derrame pleural derecho, actualmente de hasta 20 mm de espesor, previamente de hasta 16 mm. No
+reconozco derrame pleural izquierdo ni neumotórax.
+Corazón de tamaño y configuración conservados. Índice ventricular VD/VI de 1 .
+Arteria pulmonar y sus ramas principales de aspecto conservado. Se reconoce adecuado realce del tronco principal de la
+arteria pulmonar, ramas principales y ramas segmentarias, no reconociendo defectos de llene categóricos que sugieran
+tromboembolismo pulmonar actual.
+Aorta torácica con diámetros y trayecto conservados. Vena cava superior y troncos vasculares supraaórticos con
+diámetros habituales. 
+No se reconocen adenopatías de acuerdo a criterios de tamaño en el mediastino, regiones supraclaviculares ni axilares. 
+Glándula tiroides y esófago torácico con aspecto conservado.
+Planos parietales torácicos continuos.
+En el cuerpo vertebral T4 se reconoce leve mayor tamaño de lesión predominantemente esclerótica, actualmente de 9
+mm, previamente de 7 mm. En el cuerpo vertebral T10 se mantiene una lesión predominantemente esclerótica,
+destacando mayor esclerosis de esta lesión. No se han agregado otras lesiones óseas destructivas.
+Defecto de llene hipodenso en la vena femoral superficial derecha, tercio distal del muslo, sugerente de trombosis. No se
+reconocen otros defectos de llene que sean sugerentes de trombosis en las venas ilíacas comunes, ilíacas externas,
+femorales comunes, femorales superficiales ni en las venas poplíteas.
+IMPRESIÓN DIAGNÓSTICA:
+Signos de trombosis venosa profunda de la extremidad inferior derecha, a nivel de la vena femoral en el tercio distal del
+muslo derecho.
+Examen sin signos sugerentes de tromboembolismo pulmonar.
+Se agregan múltiples nódulos pulmonares, inespecíficos, posiblemente secundarios.
+Se agregan extensa opacidad de condensación en el lóbulo inferior izquierdo, con cambios de aspecto necrótico. Pudiera
+corresponder a lesión secundaria con cambios necróticos y/o sobreinfección, sin descartar posibilidad de neumonía
+necrotizante como alternativa.
+Extensas opacidades en vidrio esmerilado pulmonares bilaterales, inespecíficas, cuyo principal diagnostico diferencial
+corresponden a neumonía viral o por agentes atípicos.
+Mayor tamaño de lesión en cuerpo vertebral T4. Mayor esclerosis de lesión en cuerpo vertebral T10, inespecífico.
+Derrame pleural derecho en leve mayor cuantía.
+                  *El presente resultado debe correlacionarse con el cuadro clinico y ser evaluado por medico tratante*
+
+--- Fin de Página ---
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

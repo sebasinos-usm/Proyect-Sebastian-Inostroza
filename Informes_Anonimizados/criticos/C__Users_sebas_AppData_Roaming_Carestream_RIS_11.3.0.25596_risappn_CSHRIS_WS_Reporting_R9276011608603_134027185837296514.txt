@@ -1,0 +1,20 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Ecotomografía Mamaria
+Paciente referida por dolor y supuración por pezón derecho,
+Se dispone de mamografía de [FECHA_ANONIMIZADA].
+Patrón fibroglandular homogéneo en ambas mamas.
+No se observan nódulos sólidos ni quísticos en esta exploración.
+Regiones retroareolares libres.
+Engrosamiento nodular del pezón derecho respecto de su contralateral en región superior, no objetivando nódulos
+sólidos ni quísticos en relación a esto.
+No se reconoce contenido intraductal sospechoso ni colecciones retroareolares.
+Impresión ecográfica.
+Engrosamiento nodular del pezón derecho. Aunque no se observan otros hallazgos, no es posible descartar enfermedad
+de Paget, sugiriendo realizar estudio histológico por biopsia punch.
+Birads 4.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

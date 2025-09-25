@@ -1,0 +1,32 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Hallazgos:
+Hígado de tamaño y forma conservada. Presenta disminución difusa de la densidad parenquimatosa. Pequeño quiste en el
+segmento 4, de 11 mm.
+vesícula distendida, sin engrosamientos parietales ni imagen de litiasis cálcica. Vía biliar de calibre normal.
+Páncreas, bazo y glándulas suprarrenales sin alteraciones.
+Riñones de tamaño, forma y espesor cortical conservado. No se observan lesiones focales, signos de ectasia pielocaliciaria
+ni imágenes de litiasis en los senos renales. Uréteres de calibre es y trayectos normales, sin cálculos.
+Aorta y grandes vasos de abdomen y pelvis es de calibre conservados y trayectos elongados, permeables.
+No se observan adenopatías periaórticas, pelvianas, mesentéricas ni inguinales.
+Engrosamiento parietal concéntrico irregular de un segmento corto del colon descendente, tercio medio, en relación con
+un divertículo, asociados a cambios inflamatorios del tejido adiposo pericólico adyacente y discreto engrosamiento del
+peritoneo local. No se observan colecciones inflamatorias ni líquido libre en la cavidad peritoneal. No hay signos de
+neumotórax.
+Restantes asas de intestino delgado y del colon de calibre y distribución normales. Apéndice cecal en rango no patológico.
+Vejiga distendida, sin engrosamientos parietales, lesiones vegetantes ni imágenes de litiasis intravesicales.
+Próstata aumentada de tamaño, alcanza 54 mm de diámetro transverso. Vesículas seminales sin alteraciones.
+Bases pulmonares y nódulos de condensaciones.
+No se reconocen lesiones óseas traumáticas o destructivas. Leve espondilosis lumbar.
+Impresión Diagnóstica:
+Hallazgos descritos sugerentes de diverticulitis aguda no complicada.
+Esteatosis hepática difusa.
+Quiste hepático, de aspecto simple.
+Próstata aumentada de tamaño.
+Cambios degenerativos de columna lumbar.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

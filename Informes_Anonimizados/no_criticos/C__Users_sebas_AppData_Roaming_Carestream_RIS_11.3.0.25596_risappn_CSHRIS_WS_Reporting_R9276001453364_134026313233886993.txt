@@ -1,0 +1,11 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Examen:      Rx Calcáneo Derecho Axial-LAT -
+   
+  Mineralización ósea normal.
+Estructura ósea conservada
+No se observa lesión traumática ni destructiva
+Articulación subastragalina de amplitud conservada
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

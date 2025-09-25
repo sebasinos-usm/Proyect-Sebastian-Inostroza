@@ -1,0 +1,29 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Tórax sin Contraste
+Tráquea y bronquios principales de diámetros normales, permeables.
+Nódulo pulmonar sólido de 7 mm en el segmento basal lateral del lóbulo inferior izquierdo, el cual no presenta
+calcificaciones ni áreas de densidad grasa en su espesor.
+Pequeño nódulo pulmonar de 4 mm en el segmento basal posterior del lóbulo inferior izquierdo.
+Pequeño nódulo subpleural de 3 mm en el límite de los segmentos apicoposterior y anterior del lóbulo superior izquierdo.
+No se identifican área de consolidación pulmonar ni signos de enfermedad intersticial. Incipientes opacidades cicatriciales
+en ápices pulmonares.
+No se visualiza derrame pleural o neumotórax.
+Corazón de tamaño normal, con incipiente ateromatosis coronaria.
+Aorta y estructuras vasculares del mediastino de diámetros normales. Leve ateromatosis aórtica a nivel del cayado.
+Esófago sin engrosamiento parietal.
+Leve ascenso de la unión gastroesofágica sobre el hiato diafragmático.
+No se reconocen adenopatías en mediastino, hilios pulmonares ni en regiones axilares.
+Regiones mamarias parcialmente visualizadas, no identificando lesiones en sus segmentos evaluables.
+No se identifican lesiones óseas traumáticas o destructivas.
+Imagen con aspecto de nódulo de Schmorl en plataforma superior de vértebra L2.
+Impresión diagnóstica:
+Escasos nódulos en pulmón izquierdo, de carácter inespecífico. Se recomienda control con tomografía computada de tórax
+en tres a seis meses para determinar evolución.
+Leve ateromatosis aorto-coronaria.
+Leve hernia hiatal por deslizamiento.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

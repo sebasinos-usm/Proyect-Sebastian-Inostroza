@@ -1,0 +1,28 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+RM de Columna Lumbar
+Antecedentes Clínicos:  Discopatía L5-S1.   Ciática izquierda.  Estenosis foraminal L5-S1 izquierda.  
+Hallazgos:
+No se cuenta con estudios previos para comparar. 
+Aumento de la lordosis lumbar baja. 
+Leve curvatura levoconvexa lumbar baja. 
+Cuerpos vertebrales de altura conservada.
+Discreta retrolistesis desde L2-L3 a L5-S1.
+Osteofitos marginales anteriores lumbosacros. 
+Disminución de altura y señal de discos intervertebrales desde L2-L3 a L4-L5, de mayor severidad en L5-S1. 
+Discopatías con cambios erosivos en plataformas vertebrales a nivel L5-S1, T10-T11 y T11-T12. 
+Relajaciones discales posteriores T10-T11, T11-T12, desde L2-L3 a L5-S1.
+Articulaciones interfacetarias bien alineadas con cambios degenerativos lumbares de mayor severidad a caudal. 
+Disminución de amplitud de los tres últimos forámenes intervertebrales lumbares de mayor severidad en L5-S1 izquierda
+determinando conflicto de espacio principalmente sobre la raíz L5 izquierda. 
+No se visualiza masas paravertebrales.
+IMPRESIÓN DIAGNÓSTICA:
+Discopatía erosiva L5-S1 con protrusión discosteofítica posterior y foraminal. 
+Estenosis foraminal L5-S1 de carácter severo a izquierda determinando conflicto de espacio radicular. 
+Discopatías erosivas T10-T11 y T11-T12. 
+Cambios degenerativos interfacetarios lumbares caudales. 
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

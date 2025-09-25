@@ -1,0 +1,40 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Antecedentes de cirrosis hepática. Hemorragia digestiva por varices esofágicas. PBE.
+Se dispone de tomografía computada del día 4 de junio para comparar.
+Hígado de estructura heterogénea con aumento de tamaño del lóbulo caudado y del izquierdo, compatible con daño
+hepático crónico ya conocido. Nódulo en segmento VIII visible en tomografía previa, no es categórico en presente
+examen.
+Vía biliar intra y extrahepática no dilatada. Vesícula medianamente distendida, sin imágenes endoluminales.
+Hipertensión portal, presentando múltiples colaterales porto sistémicas especialmente en territorio de la vena gástrica
+izquierda con formación de varices esofágicas.
+Bazo aumentado de tamaño. Mide 160 mm de diámetro longitudinal mayor. El aspecto lateral y posterior presenta
+imagen seudonodular periférica de 24 mm de diámetro no visible en examen previo, probablemente correspondiendo a
+infarto esplénico.
+Páncreas y glándulas suprarrenales, sin alteraciones.
+Riñones de características conservadas, sin evidencias de ectasia ni litiasis.
+Uréteres y vejiga, sin alteraciones. Región útero anexial, sin imágenes patológicas.
+Aorta y vena cava permeables. Catéter venoso femoral izquierdo, cuyo extremo se ubica en vena  ilio lumbar izquierda, 4
+cm por sobre su confluencia con la vena ilíaca común izquierda.
+Abundante ascitis que compromete a todos espacios peritoneales, asociado a edema de la grasa intraabdominal, sin
+cambios respecto a examen previo.
+Adenopatías de hasta 12 mm de diámetro en eje menor, ubicadas a nivel retroperitoneal, adyacentes al tronco celíaco y
+en hilio hepático, ya visibles en examen previo y sin cambios.
+Nódulo peritoneal en hipocondrio izquierdo ya visible en examen previo y sin cambios.
+Los cortes que pasan por la parte baja del tórax, muestran imagen endoluminal en arteria lingular, compatible con un
+tromboembolismo pulmonar. Restantes estructuras vasculares pulmonares no evaluables adecuadamente por artefactos
+de movimiento y quedar fuera del plano del abdomen.
+Impresión diagnóstica:
+Tromboembolismo pulmonar en segmento visible de arteria lingular.
+Abundante ascitis asociado a edema del tejido graso intraabdominal, sin cambios respecto a examen.
+Cirrosis hepática. Nódulo en lóbulo izquierdo visible en tomografía previa no es categórico en presente examen.
+Hipertensión portal con desarrollo de circulación colateral, varices esofágicas y esplenomegalia.
+Imagen seudonodular esplénica no visible en examen previo, pudiendo corresponder a infarto.
+Catéter venoso femoral izquierdo cuyo extremo se ubica en vena ilio lumbar izquierda.
+Adenopatías en territorios descritos.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

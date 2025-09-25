@@ -1,0 +1,28 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Mamografía Bilateral
+Paciente referida para control.
+Antecedente de nódulo mamario izquierdo, pesquisado en mamografía de año 2023, de cuyo informe se dispone.
+Se cuenta con imagen de mamografía de año 2015.
+Ambas mamas presentan patrón de densidades fibroglandulares heterogéneamente densas.
+En mama izquierda se observa en proyección oblicua imagen nodular en cuadrantes inferiores, región periareolar,
+isodensa, ovalada y de margen circunscrito, aproximadamente de 7 mm, que puede corresponder al nódulo observado en
+estudio previo.
+Se observa retracción y engrosamiento del pezón izquierdo, que no era visible en estudio de año 2015. La paciente, sin
+embargo lo refiere de varios años de evolución. 
+En el restante parénquima de ambas mamas no se observa con seguridad otros nódulos dominantes, tampoco
+microcalcificaciones agrupadas sospechosas ni áreas de distorsión arquitectural del parénquima.
+Calcificaciones de aspecto benigno en ambas mamas.
+Regiones axilares bajas libres.
+En ecografía realizada posterior a este examen, no se habrían encontrado alteraciones sospechosas.
+Impresión mamográfica.
+Engrosamiento y retracción del pezón izquierdo, no observado en mamografía previa, pero que la paciente refiere de
+larga data. Se requiere control estricto e idealmente complementar examen con RM.
+Nódulo mamario izquierdo sin variaciones.
+Birads 3.
+ACR C.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

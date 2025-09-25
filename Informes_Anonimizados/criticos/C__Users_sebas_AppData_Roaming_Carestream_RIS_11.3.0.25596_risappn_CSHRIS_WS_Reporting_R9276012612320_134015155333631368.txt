@@ -1,0 +1,19 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Cerebro sin Contraste
+Ventrículos laterales de volumen y configuración normales. Escaso contenido denso en ventrículos laterales. 
+Tercer ventrículo de forma y volumen conservados, con leve desviación de la línea media a la izquierda en 2 mm. 
+En el parénquima encefálico supratentorial no se observan lesiones focales.
+En la fosa posterior el cuarto ventrículo es de amplitud normal y se encuentra en buena posición. 
+En troncoencéfalo y cerebelo no se reconocen lesiones.
+Contenido denso hemático en surcos de la convexidad bilateral, mayores a derecha, además de cisura de Silvio y cisternas
+peritroncales. 
+No se observan lesiones óseas de tipo traumático ni destructivo.
+IMPRESION DIAGNOSTICA:
+Signos de HSA bilateral, mayor a derecha, según lo descrito. 
+Escaso hemoventrículo. 
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

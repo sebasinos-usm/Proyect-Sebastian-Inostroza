@@ -1,0 +1,41 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+AngioTC de Tórax
+Antecedentes clínicos:
+Sospecha de tromboembolismo pulmonar.
+Hallazgos:
+En las porciones visibles de ambas extremidades inferiores se observa material trombótico en la vena femoral común y en
+la totalidad de la vena femoral superficial y poplítea visibles, compatible con trombosis venosa profunda supracondílea
+izquierda.
+Abundante material trombótico endoluminal en la arteria pulmonar principal izquierda, ramas lobares para ambos lóbulos
+inferiores y en ramas segmentarias para lóbulos inferiores, lóbulo medio y lóbulo superior izquierdo, compatible con
+extenso tromboembolismo pulmonar agudo.
+Corazón de tamaño normal. Mayor volumen del ventrículo derecho, asociado a rectificación del tabique interventricular y
+leve reflujo a venas suprahepáticas, concordante con signos de sobrecarga de cavidades cardíacas derechas. Relación
+VD/VI de 1,4.
+La arteria pulmonar central se encuentra levemente aumentada de calibre, hasta 32 mm de eje transverso, en el mismo
+contexto.
+Aorta torácica de calibre conservado, permeable, con escasas placas finas de ateroma blandos marginales.
+Esófago sin masas.
+No se observan adenopatías mediastínicas, hiliares ni axilares según criterios de tamaño.
+Partes blandas del tórax sin hallazgos patológicos.
+No hay derrame pleural ni neumotórax.
+Vía aérea central y periférica permeable, de calibre conservado, no engrosadas.
+Pulmones de volumen de arquitectura parenquimatosa global normal.
+Pequeñas opacidades focales periféricas parcialmente condensantes en los distintos lóbulos pulmonares, asociadas a
+parénquima atelectásico, sugerentes de incipientes áreas de isquemia - infarto pulmonar. Las más prominentes en ambos
+lóbulos inferiores y lóbulo medio.
+Tiroides normal.
+No se identifican lesiones focales óseas traumáticas ni destructivas mediante esta técnica.
+Cálculo no obstructivo de 4 mm en tercio superior del riñón izquierdo, parcialmente visualizado.
+Impresión:
+Extenso tromboembolismo pulmonar bilateral en ramas principales, lobares y segmentarias según lo descrito, asociado a
+signos de sobrecarga de cavidades cardíacas derechas.
+Extensa trombosis venosa profunda supracondílea izquierda.
+Múltiples áreas parenquimatosas pulmonares focales periféricas sugerentes de isquemia/infarto.
+Ateromatosis blanda de la aorta torácica.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

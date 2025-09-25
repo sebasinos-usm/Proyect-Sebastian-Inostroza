@@ -1,0 +1,21 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Ecotomografía Mamaria
+Paciente referida para evaluación, con diagnostico reciente de carcinoma papilar intraquistico e intraductal cribiforme de
+bajo grado en mama izquierda según biopsia del [FECHA_ANONIMIZADA], refiere mastalgia derecha.
+Se cuenta con estudios previos para comparar.
+Hallazgos:
+Ambas mamas presentan tejido de ecoestructura homogénea fibroglandular.
+Persiste en mama derecha hora 9 a 4-5 cm del pezón, área de perdida de la ecoestructura (imagen focal no masa) de 18 x
+15 x 10 mm, en concordancia con la clínica, la misma no presenta clara traducción mamográfica.
+En mama izquierda Hora 5 periareola, nódulo mixto, ya biopsiado.
+Regiones axilares libres de adenopatías.
+Impresión diagnóstica:
+Imagen no masa en mama derecha (paciente con diagnostico de carcinoma papilar en mama contralateral).
+BI-RADS 4.
+Se sugiere correlación histológica mediante biopsia core guiada por ecografía.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

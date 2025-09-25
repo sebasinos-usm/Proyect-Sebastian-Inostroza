@@ -1,0 +1,18 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+examen:
+Examen complementario a mamografía reciente.
+Hallazgos:
+Patrón ecográfico fibroglandular homogéneo.
+En el tercio posterior de la hora 1 de la mama derecha, nódulo hipoecogénico, ovalado, de márgenes microlobulados, más
+alto que ancho, de 9 x 7 mm.
+No identifico nódulos sólidos ni quistes.
+No hay dilatación de los conductos galactóforos.
+Regiones axilares sin evidencia de adenopatías. 
+Impresión:
+Nódulo derecho sospechoso.
+Recomiendo estudio histológico con biopsia core. 
+BI-RADS US 4 B
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

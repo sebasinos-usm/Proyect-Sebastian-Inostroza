@@ -1,0 +1,20 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Mamografía Bilateral
+Examen de pesquisa.
+Hallazgos:
+Piel y celular subcutáneo sin alteraciones.
+Tejido glandular presenta patrón de mamas de predominio graso, estructura similar a la visualizada en examen del [FECHA_ANONIMIZADA].
+Se agrega cúmulo de microcalcificaciones amorfas en el tercio anterior de unión de cuadrantes internos a derecha.
+No se han agregado nódulos ni áreas de distorsión.
+En área evaluable de región axilar derecha se visualiza un linfonodo inespecífico. No se han agregado adenopatías a
+izquierda.
+Impresión diagnóstica:
+Se agrega cúmulo de microcalcificaciones sospechosas en unión de cuadrantes internos de mama derecha. Requiere
+estudio histológico.
+Birads 4. ACR A.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

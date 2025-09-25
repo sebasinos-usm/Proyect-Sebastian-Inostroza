@@ -1,0 +1,15 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Rx Lumbar F-L-5º de Pie
+Disminución de la mineralización ósea en forma difusa, probablemente debido a osteoporosis.
+Cuerpos vertebrales de morfología conservada, sin evidencia de lesiones traumáticas ni destructivas.
+Mínima retrolistesis de L3 sobre L4.
+Leve espondilosis L3-L4 y L4-L5..
+Espacios discales con disminución global de altura, mayor en L3-L4 y L5-S1.
+Pedículos y arcos posteriores, sin alteraciones.
+Leve artrosis facetaria L4-L5 y L5-S1.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,39 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Antecedentes clínicos:
+Sospecha de perforación intestinal.
+Hallazgos:
+Destaca abundante neumoperitoneo libre y múltiples burbujas de gas en el espesor del tejido graso abdominopélvico.
+Escasa ascitis pelviana.
+Asas intestinales de calibre y realce parietal normal, incluyendo el apéndice cecal.
+Objeto extraño con densidad metálica de hasta 4500 UH, ubicado en el colon ascendente. Mide 12 × 7 mm
+aproximadamente y muestra dos extensiones filiformes puntiagudas. A este nivel la pared del colon se encuentra
+levemente engrosada de aspecto inflamatorio y rodeada completamente por neumoperitoneo, hallazgos que podría
+sugerir origen de la perforación.
+Hígado de tamaño, forma y realce normal.
+Vesícula biliar ausente. Vía biliar no dilatada.
+Páncreas, parénquima esplénico, glándulas suprarrenales, riñones, vejiga y útero sin alteraciones morfológicas.
+No hay nefrolitiasis ni hidronefrosis.
+Cámara gástrica parcialmente colapsada.
+Múltiples estrías de líquido en el flanco izquierdo, adyacentes al segmento 6 del hígado y del segmento de colon
+ascendente mencionado.
+Principales estructuras vasculares abdominopélvicas permeables.
+Aorta abdominal de calibre conservado.
+Leve ateromatosis calcificada de la aorta abdominal.
+No se identifican adenopatías mesentéricas, retroperitoneales ni pelvianas según criterios de tamaño. 
+Partes blandas de la pared abdominal sin hallazgos patológicos.
+No se identifican lesiones focales óseas traumáticas ni destructivas mediante esta técnica.
+Leves cambios degenerativos de la columna lumbar.
+Espondilolisis L5 bilateral antigua, asociada a incipiente anterolistesis L5.
+Impresión:
+Hallazgos sugerentes  de perforación intestinal, probablemente en el colon ascendente secundario a un objeto extraño
+metálico puntiagudo según lo descrito.
+Leve ateromatosis calcificada de la aorta abdominal.
+Cambios degenerativos de la columna lumbar.
+Espondilolisis L5 bilateral antigua, asociado a incipiente anterolistesis L5.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

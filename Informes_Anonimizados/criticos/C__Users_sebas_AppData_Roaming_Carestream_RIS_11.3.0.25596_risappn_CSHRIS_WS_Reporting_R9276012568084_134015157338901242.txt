@@ -1,0 +1,26 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Mamografía Bilateral
+Paciente referida por nódulo palpable de mama izquierda.
+No se cuenta con estudios previos.
+Ambas mamas presentan patrón de densidades fibroglandulares heterogéneamente densas.
+Se observa en CSE en tercio medio de la mama izquierda extensa área de distorsión arquitectural, en cuyo espesor se
+observan nódulos espiculados y microcalcificaciones amorfas. En conjunto alcanza al menos 48 mm.
+Además se observa retracción del pezón izquierdo y engrosamiento cutáneo a de la región areolar.
+En el restante parénquima de ambas mamas no se observa con seguridad nódulos dominantes, tampoco otras áreas de
+microcalcificaciones agrupadas.
+Dudosas áreas de asimetría en cuadrantes internos de mama izquierda, que se descartan en proyecciones
+complementarias  con compresión localizada y en proyección rotada.
+Calcificaciones de aspecto benigno en ambas mamas.
+Linfonodos axilares inespecíficos bilaterales.
+Impresión mamográfica.
+Nódulos espiculados con extensa área de distorsión arquitectural en CSE de mama izquierda, de aspecto altamente
+sospechoso, con compromiso de complejo areola - pezón.
+Birads 5.
+ACR C.
+Se requiere estudio histológico.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,28 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Tórax con Contraste
+Antecedentes clínicos:
+Neoplasia de colon. Control.
+Hallazgos:
+No hay derrame pleural ni neumotórax.
+Vía aérea central y periférica permeable, de calibre conservado, no engrosada.
+Pulmones de volumen y arquitectura parenquimatosa normal.
+No se observan focos de condensación, masas ni nódulos pulmonares sospechosos.
+Nódulo de 2 mm en la porción caudal del lóbulo medio (imagen 200).
+Nódulo de 2 mm en el segmento apical del lóbulo superior izquierdo (imagen 78).
+Escasas atelectasias subsegmentarias en ambas bases pulmonares.
+Corazón de tamaño normal. No hay derrame pericárdico significativo.
+Arteria pulmonar central y aorta torácica de calibre conservado, permeables.
+No se reconocen adenopatías mediastínicas, hiliares ni axilares según criterios de tamaño.
+Esófago sin engrosamientos focales sospechosos.
+Tiroides de morfología normal.
+Parte blandas del tórax sin hallazgos patológicos.
+No se identifican lesiones focales óseas traumáticas ni destructivas mediante esta técnica.
+Leves cambios degenerativos discales intervertebrales de la columna dorsal.
+Impresión:
+Neoplasia de colon en control, sin evidencias de diseminación tumoral macroscópica en el tórax.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

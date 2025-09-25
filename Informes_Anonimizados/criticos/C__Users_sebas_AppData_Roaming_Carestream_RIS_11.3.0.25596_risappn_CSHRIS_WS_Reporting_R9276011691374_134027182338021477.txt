@@ -1,0 +1,22 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+examen:
+Acude por nódulo palpable izquierdo de reciente aparición.
+Examen complementario a mamografía reciente.
+Hallazgos:
+Patrón ecográfico fibroglandular heterogéneo.
+Con relación a alteración palpable, en el tercio posterior de la hora 10 de la mama izquierda, nódulo hipoecogénico, de
+márgenes angulados y microlobulados, de 10 x 6 mm, el que no tiene clara representación mamográfica.
+En los tercios medio y posterior de la hora 10 de la mama derecha, microcalcificaciones asociadas a lesión no masa de 30 x
+10 mm.
+En región retroareolar izquierda, nódulo hipoecogénico, ovalada circunscrito, de 9 x 6 mm, de aspecto benigno.
+No hay dilatación de los conductos galactóforos.
+Regiones axilares sin evidencia de adenopatías. 
+Impresión:
+Microcalcificaciones derechas sospechosas asociadas a lesión no masa.
+Nódulo izquierdo sospechoso.
+Recomiendo estudio histológico con biopsia core de ambas lesiones.
+BI-RADS US 5
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

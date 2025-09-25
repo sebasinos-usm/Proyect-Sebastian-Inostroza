@@ -1,0 +1,45 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Antecedentes clínicos:
+Dolor abdominal.
+Hallazgos:
+Hígado de tamaño forma normal. Su parénquima muestra menor densidad en forma difusa, sugerente de infiltración
+grasa.
+Vesícula biliar parcialmente distendida de paredes engrosadas de forma difusa, de aspecto inflamatorio. En su lumen
+impresiona visualizarse contenido hiperdenso, de probable origen litiásico.
+Vía biliar no dilatada.
+Páncreas, parénquima esplénico, glándulas suprarrenales, vejiga, próstata vesículas seminales sin alteraciones
+significativas.
+Riñones de tamaño, grosor y realce parenquimatoso global normal. Pequeño quiste simple de 5 mm en el polo superior
+del riñón derecho.
+Destaca la presencia de una masa sólida heterogénea de aspecto neoplásico primario parcialmente exofítica dependiente
+de la porción lateral del tercio caudal del riñón izquierdo. Muestra realce característicamente hipervascular con el
+contraste endovenoso y alcanza 41 × 36 × 48 mm en los ejes anteroposterior, cefalocaudal y transverso respectivamente.
+No se identifican adenopatías satélites ni en el hilio renal. La vena renal izquierda se encuentra ampliamente permeable.
+Esta masa impresiona contactar en su borde lateral e inferior a la porción caudal de la fascia de Gerota.
+No hay nefrolitiasis ni hidronefrosis.
+Asas intestinales de calibre y realce parietal normal.
+No hay ascitis ni neumoperitoneo libre.
+Cámara gástrica parcialmente distendida, sin masas.
+Principales estructuras vasculares abdominopélvicas permeables.
+Aorta abdominal de calibre conservado.
+Pequeña hernia umbilical de contenido graso no complicado, con un anillo herniario de 8 mm.
+Hernia inguinales bilaterales de contenido graso no complicado, indirectas, de mayor tamaño a derecha.
+No se reconocen adenopatías mesentéricas, retroperitoneales ni pelvianas según criterios de tamaño.
+Porciones caudales visibles de ambos pulmones sin hallazgos patológicos.
+No se reconocen lesiones focales óseas traumáticas ni destructivas mediante esta técnica.
+Leves cambios degenerativos multisegmentarios de la columna dorsolumbar visible, de predominio discal en la columna
+dorsal y lumbar bajas.
+Impresión:
+Masa renal izquierda caudal según lo descrito, sugerente de un carcinoma de células renales. No se observa compromiso a
+distancia, sin embargo la masa impresiona contactar la porción caudal de la fascia de Gerota.
+Hallazgos sugerentes de un compromiso inflamatorio de la vesícula biliar (colecistitis aguda), de probable origen litiásico.
+Esteatosis hepática difusa.
+Hernias inguinales bilaterales no complicadas, mayor a derecha.
+Pequeña hernia umbilical.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

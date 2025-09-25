@@ -1,0 +1,25 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Mamografía Bilateral
+Paciente referida para control preventivo.
+Antecedente familiar de cáncer mamario.
+No se dispone de estudios previos para comparación.
+Ambas mamas presentan patrón de densidades fibroglandulares heterogéneamente densas.
+No se observa con seguridad nódulos dominantes, ni áreas de distorsión de la arquitectura del parénquima.
+Grupo de microcalcificaciones en tercio posterior de cuadrante superointerno de mama izquierda, que se evalúan con
+proyecciones magnificadas, en que se observan de características amorfas, ocupando un área de diámetro mayor de 8
+mm.
+Microcalcificaciones en mama derecha con aspecto de lechada de cal.
+Calcificaciones de aspecto benigno en ambas mamas.
+Regiones axilares bajas libres.
+Impresión mamográfica.
+Foco de microcalcificaciones agrupadas en mama izquierda, de aspecto indeterminado, que se sugiere como medida de
+precaución evaluar con estudio histológico por biopsia estereotáxica digital.
+Birads 4.
+ACR C.
+Dado el patrón mamográfico, se sugiere complementar examen con ecotomografía.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

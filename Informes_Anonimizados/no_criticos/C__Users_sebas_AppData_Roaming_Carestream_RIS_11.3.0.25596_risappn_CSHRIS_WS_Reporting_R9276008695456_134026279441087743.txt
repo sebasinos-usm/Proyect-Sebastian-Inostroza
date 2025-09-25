@@ -1,0 +1,38 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Tórax con Contraste
+En los pulmones no se visualizan áreas de condensación ni signos de enfermedad intersticial.
+Bandas parenquimatosas bibasales, en los recesos costofrénicos.
+No se visualizan nódulos pulmonares.
+Tráquea y bronquios de diámetros normales.
+No se observa derrame pleural.
+No hay adenopatías en el mediastino ni en los hilios pulmonares.
+Corazón de tamaño normal.
+Aorta y troncos arteriales supra aórticos de diámetros conservados. Discreta ateromatosis aórtica.
+Venas braquiocefálicas permeables.
+Persistencia de vena cava inferior izquierda, la que drena al seno coronario. No hay comunicación anormal del seno
+coronario con aurícula izquierda. El seno coronario drena normalmente a la aurícula derecha. Vena cava superior derecha
+permeable. No se visualizan venas accesorias que comuniquen ambas venas cada superiores.
+Arteria pulmonar principal y levemente aumentada de diámetro midiendo 32 mm. Sus ramas derecha e izquierda
+presenta diámetros normales, de 24 mm. No hay defectos de llene en el lumen.
+Esófago presenta engrosamiento parietal difuso, que se acentúa hacia la unión gastroesofágica, con espesores máximos
+de 11 mm, con compromiso de la submucosa y de la muscular propia, sin infiltración de estructuras vecinas.
+No se observan adenopatías axilares ni supraclaviculares.
+Aumento leve difuso de densidad del tejido graso superficial y profundo.
+En regiones mamarias no se reconocen nódulos.
+Masas musculares simétricas y de morfología normal.
+No se observan lesiones óseas destructivas o escleróticas sospechosas. Alteraciones degenerativas de columna dorsal
+caracterizados por discopatías múltiples y espondilosis.
+Impresión diagnóstica:
+Antecedentes de síndrome mieloproliferativo.
+Bandas parenquimatosas en las bases pulmonares que pueden ser de origen atelectásico o cicatricial.
+Engrosamiento difuso de paredes del esófago, con extensión a la unión gastroesofágica, de tipo infiltrativo como puede
+observarse en linfoma MALT.
+Persistencia de vena cava inferior izquierda, la que drena al seno coronario. No hay otras malformaciones asociadas.
+Edema difuso del tejido graso superficial y profundo.
+Alteraciones degenerativas de columna vertebral.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

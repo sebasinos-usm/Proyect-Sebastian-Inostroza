@@ -1,0 +1,23 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Col. Dorsal sin Contraste
+Hallazgos:
+Se reconoce compromiso óseo difuso, con múltiples lesiones mixtas en el esqueleto axial y apendicular visible,
+comprometiendo todos los elementos de los cuerpos vertebrales dorsales, costillas en forma bilateral, el esternón, ambas
+escápulas y clavículas.
+En este contexto se observa fractura patológica de los cuerpos vertebrales T2, T3, T6, T7 y T8, las que presentan distinto
+grado de compromiso del muro posterior, reconociendo focos de estenorraquis, los que son más evidentes en los niveles
+T2-T3 y T6-T7, en este último de mayor grado, determinado además por lesiones metastásicas en láminas y pedículos.
+Estenosis foraminal, con aparente conflicto de espacios en niveles T2-T3 y T6-T7 en forma bilateral. Restantes
+neuroforaminas impresionan suficientes.
+Impresión diagnóstica:
+Antecedentes de neoplasia mamaria, con múltiples metástasis óseas.
+Fractura patológica en cuerpos vertebrales T2, T3, T6, T7 y T8, las que presentan distinto grado de compromiso del muro
+posterior.
+Estenorraquis y estenosis foraminales en niveles T2-T3 y T6-T7. De ser clínicamente necesario, se sugiere caracterización
+con RM de columna dorsal contrastada.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

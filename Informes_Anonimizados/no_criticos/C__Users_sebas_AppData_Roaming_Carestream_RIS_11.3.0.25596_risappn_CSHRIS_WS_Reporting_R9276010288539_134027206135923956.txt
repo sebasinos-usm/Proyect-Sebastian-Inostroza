@@ -1,0 +1,42 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC-PET
+Se dispone para comparar PET CT FDG del [FECHA_ANONIMIZADA].
+Se realiza estudio con medio de contraste yodado desde vértex de cráneo a muslos.
+En el encéfalo no se observan nódulos ni áreas de realce patológico con el medio de contraste.
+No se visualizan adenopatías hiper metabólicas cervicales ni supraclaviculares.
+Glándulas parótidas, submandibulares y tiroides sin lesiones.
+En los pulmones no se han agregado nódulos, masas ni áreas de consolidación hiper metabólicas. No hay derrame pleural.
+Tráquea, bronquios principales y esófago sin alteraciones.
+No se visualizan adenopatías hiper metabólicas mediastínicas, hiliares ni axilares.
+Corazón de tamaño normal. Cambios postquirúrgicos de revascularización coronaria. Estructuras vasculares del
+mediastino sin alteraciones. Aorta de diámetros conservados. Ateromatosis aorto-coronaria.
+Hígado de tamaño y estructura normales, sin lesiones focales de aspecto agresivo. Quiste simple de 22 mm en el
+segmento lateral.
+Vesícula distendida, sin litiasis. Vía biliar no dilatada. Bazo, páncreas y glándulas suprarrenales sin alteraciones.
+Riñones de forma y tamaño normales. Parénquimas de espesor normal. No hay hidroureteronefrosis a derecha. Persiste
+una leve hidroureteronefrosis izquierda.
+Vejiga en repleción parcial, con persistencia de un engrosamiento parietal difuso predominantemente comprometiendo
+pared posterior y lateral izquierda no evaluable metabolicamente dado presencia de orina radio marcada.
+Se mantiene un nódulo perivesical / ilíaco externo izquierdo de 9 mm vs 8 mm, sin hiper metabolismo, de aspecto
+residual.
+Próstata aumentada de tamaño, sin focos hiper metabólicos. Vesículas seminales sin alteraciones.
+Estómago y asas intestinales sin dilatación ni engrosamiento parietal. No hay ascitis.
+Menor tamaño de las adenopatías ilíacas externas izquierdas, la mayor de 10 x 4 mm vs 20 x 12 mm, sin hiper
+metabolismo. No se reconocen nuevas adenopatías hiper metabólicas retroperitoneales, mesentéricas, ilíacas o
+inguinales.
+Lesión de estirpe lipomatosa en relación a la superficie anterior del músculo glúteo medio derecho de 53 x 19 mm, sin
+hiper metabolismo, estable.
+No se visualizan lesiones óseas líticas, escleróticas o hiper metabólicas.
+Impresión diagnóstica:
+Control de cáncer vesical operado.
+Persiste engrosamiento difuso de la pared vesical.
+Menor tamaño y resolución metabólica el compromiso nodal ilíaco externo izquierdo.
+Relativa estabilidad morfológica del nódulo perivesical / ilíaco externo izquierdo, sin hiper metabolismo, de aspecto
+residual.
+Se mantiene una leve hidroureteronefrosis izquierda.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

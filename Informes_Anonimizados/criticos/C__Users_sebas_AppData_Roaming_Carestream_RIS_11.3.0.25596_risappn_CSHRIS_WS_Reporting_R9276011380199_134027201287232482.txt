@@ -1,0 +1,24 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+AngioTC de Tórax
+Tras la administración del medio de contraste se logra adecuada opacificación del tronco principal de la arteria pulmonar,
+ramas principales derecha e izquierda y de las ramas segmentarias, identificando defecto luminal suboclusivo de rama
+segmentaria para el segmento lateral del lóbulo medio.
+Relación ventrículo derecho versus ventrículo izquierdo (VD/VI), aproximadamente igual a 1.
+Fase venográfica de extremidades inferiores sin evidencia de defectos luminales en territorio venoso profundo.
+Tráquea y bronquios principales de calibre y trayecto normal, permeables.
+No se observan opacidades de condensación. No hay imágenes nodulares de características sospechosas.
+No se observa derrame pleural ni neumotórax.
+Corazón de tamaño y configuración normal. Aorta de calibre y trayecto habitual. Tronco principal de arteria pulmonar sin
+hallazgos a destacar.
+No se observan adenopatías supraclaviculares, axilares, mediastínicas ni hiliares. Regiones mamarias sin hallazgos a
+destacar por esta técnica.
+No se observan lesiones óseas.
+Impresión diagnóstica:
+Hallazgos de tromboembolismo pulmonar en pulmón derecho, según descripción.
+Resto de estudio sin hallazgos a destacar.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

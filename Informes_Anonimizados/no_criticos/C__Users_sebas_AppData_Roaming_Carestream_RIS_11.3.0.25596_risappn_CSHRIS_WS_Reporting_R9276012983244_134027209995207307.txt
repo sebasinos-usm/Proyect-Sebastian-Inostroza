@@ -1,0 +1,21 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Cuello con Contraste
+Columna aérea faríngea y laríngea de amplitud normal.
+Lengua, piso de boca, laringe, espacios faringomucoso, parafaríngeos, masticadores, retrofaríngeo y prevertebral de
+aspecto normal, sin evidencias de una lesión expansiva.
+Glándulas salivales parótidas y submandibulares sin alteraciones.
+Tiroides de tamaño normal, con una lesión hipodensa en el ismo y lóbulo izquierdo de 28 mm.
+no se observan adenopatías cervicales y supraclaviculares.
+Estructuras vasculares de calibres conservados, permeables.
+Leve engrosamiento mucoso del hemiseno esfenoidal derecho. Restantes senos paranasales sin alteraciones.
+Planos parietales continuos.
+No se identifican lesiones óseas traumáticas o destructivas.
+Impresión diagnóstica:
+Nódulo hipodenso tiroideo izquierdo. Se recomienda su evaluación con ecotomografía.
+Leve engrosamiento mucoso del seno esfenoidal, de aspecto inflamatorio.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

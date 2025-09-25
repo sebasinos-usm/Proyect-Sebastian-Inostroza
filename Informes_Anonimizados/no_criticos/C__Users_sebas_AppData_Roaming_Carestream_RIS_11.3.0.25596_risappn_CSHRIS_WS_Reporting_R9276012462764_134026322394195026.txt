@@ -1,0 +1,33 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Hígado de tamaño y forma normal. No se observan lesiones focales.
+Vesícula escasamente distendida, con imagen puntiforme cálcica en su lumen.
+Vía biliar de calibre normal.
+Páncreas y glándulas suprarrenales sin alteraciones. Bazo aumentado de tamaño, alcanzando 150 mm en el eje axial.
+Riñones de tamaño y espesor cortical normal. Adecuado comportamiento con el medio de contraste. No hay hidronefrosis
+ni nefrolitiasis.
+Uréteres de calibres y trayectos normales.
+Vejiga distendida, de pared fina, de contenido homogéneo hipodenso.
+Próstata aumentada de tamaño alcanzando hasta 58 mm de diámetro transverso. 
+Asas intestinales de calibres normales, sin engrosamientos parietales evidentes. Estómago sin hallazgos a destacar. 
+No hay líquido libre pelviano.
+Aorta abdominal de calibre y trayecto conservado, con placas. Vena cava inferior sin alteraciones.
+Múltiples adenopatías lumboaórticas, la mayor de ellas una intercavoaórtica de 37 mm de eje largo. Adenopatías
+inguinales derechas de hasta 20 mm de eje largo. 
+Tejido de partes blandas de morfología irregular que asciende desde cordon espermático derecho hasta recorrido de vaso
+gonadal derecho intraabdominal. 
+Testículo derecho heterogéneo, aumentado de volumen, alcanzando diámetro axial de 86 mm. 
+No se identifican lesiones óseas traumáticas ni destructivas.
+Impresión Diagnóstica: 
+Imágenes sugerentes de compromiso testicular por linfoma, con extensión de tejido de partes blandas hacia el abdomen a
+través de vasos gonadales. 
+Múltiples adenopatías lumboaórticas e inguinales derechas de aspecto secundario. 
+Compromiso esplénico por linfoma.
+Colelitiasis. 
+Próstata aumentada de tamaño.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

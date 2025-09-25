@@ -1,0 +1,31 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Órbitas Máxilo-Facial sin Contraste
+Antecedente clínico: Trauma.
+Hallazgos:
+Densidad mineral ósea conservada.
+No se identifican fracturas mediante esta técnica.
+Cavidades orbitarias óseas simétricas. Globos oculares de adecuada morfología.
+Nervios ópticos y músculos extraoculares sin alteraciones. 
+Tejido adiposo postseptal intra y extraconal conservado.
+Adecuado desarrollo y neumatización de las cavidades paranasales.
+Formaciones polipoides en los recesos alveolares de ambos senos maxilares, con un espesor de 7 mm a derecha y 14 mm
+a izquierda, probablemente inflamatorios.
+No hay desviaciones significativas del tabique nasal óseo.
+Adecuada neumatización de celdillas mastoideas y medios.
+ATMs congruentes. Moderada artrosis en articulación temporomandibular izquierda y leve en la derecha.
+Leve engrosamiento del espacio faríngomucoso, probablemente por hipertrofia de tonsilas palatinas y lingual.
+Tres piezas dentales superiores anteriores paramedianas derechas en disposición horizontal, rodeadas por hipodensidad
+en el hueso alveolar. También se reconoce un halo hipodenso en el hueso alveolar alrededor de la raíz del segundo
+premolar superior derecho, con material de endodoncia en su raíz, probablemente manifestaciones de enfermedad
+periodontal.
+Impresión:
+Examen sin hallazgos patológicos de carácter traumático agudo.
+Artrosis temporomandibular bilateral, mayor a izquierda.
+Leves cambios inflamatorios sinusales.
+Signos de enfermedad periodontal en piezas dentales superiores derechas.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

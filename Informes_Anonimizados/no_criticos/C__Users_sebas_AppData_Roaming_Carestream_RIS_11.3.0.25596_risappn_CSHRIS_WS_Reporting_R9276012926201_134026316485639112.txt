@@ -1,0 +1,13 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+RX Tórax Portátil
+Extensos infiltrados pulmonares posiblemente en contexto congestivo.
+No es posible descartar derrame pleural bilateral, con probable derrame pleural izquierdo.
+No se reconoce neumotórax.
+Endoprótesis aórtica.
+Catéter venoso central yugular izquierdo con extremo en sitio de proyección de la vena braquiocefálica izquierda.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

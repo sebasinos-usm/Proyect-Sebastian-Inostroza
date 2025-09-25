@@ -1,0 +1,14 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Rx Cráneo AP-LAT
+Estructuras óseas de morfología normal.
+No se reconocen signos sugerentes de lesión ósea traumática ni destructiva.
+Suturas craneanas de configuración habitual.
+No se demuestran calcificaciones patológicas proyectadas en la calota.
+Región sellar sin alteraciones.
+Aumento de volumen y densidad de partes blandas en región frontal.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

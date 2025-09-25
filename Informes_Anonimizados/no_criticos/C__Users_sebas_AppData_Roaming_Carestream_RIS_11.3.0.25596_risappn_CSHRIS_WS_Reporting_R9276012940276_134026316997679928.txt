@@ -1,0 +1,13 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+RX Tórax Portátil
+Se dispone de radiografías previas del [FECHA_ANONIMIZADA] para comparar.
+Se ha agregado moderado edema pulmonar intersticial y leve derrame pleural bilateral. No se han agregado consolidación
+ni neumotórax.
+Persiste catéter venoso central yugular derecho con extremo distal en aurícula derecha.
+Restos sin variación
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,49 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Este informe considera:
+AngioTC de Abdomen
+AngioTC de Tórax
+AngioTC de tórax y abdomen 
+Antecedentes clínicos:
+Aneurisma de aorta torácica tratado con endoprótesis.
+Sospecha de aneurisma abdominal.
+Hallazgos:
+Leve cardiomegalia, con prominente aurícula izquierda. No hay derrame pericárdico significativo.
+Calcificaciones ateromatosas coronarias bilaterales. Estas calcificaciones degenerativas en el plano valvular aórtico.
+Arteria pulmonar central de calibre conservado.
+Aorta torácica de calibre conservado, permeable. En concordancia con el antecedente clínico se reconoce una prótesis
+endovascular en el arco aórtico que posee su extremo distal a nivel del origen del tronco braquiocefálico y extremo distal
+en el tercio medio de la aorta descendente. Se encuentra ampliamente permeable. En la aorta descendente se reconocen
+algunas placas de ateroma blando marginales excéntricas.
+Prótesis endovascular en la porción proximal del de la arteria subclavia izquierda, permeable.
+Resto de arterias supra aórticas de calibre conservado, permeables, con trayecto levemente tortuoso, probablemente
+secuelar a HTA crónica.
+La aorta abdominal muestra un trayecto levemente tortuoso, se encuentra permeable y presenta dos dilataciones
+aneurismáticas fusiformes consecutivas en su segmento infrarrenal. La más proximal muestra un diámetro
+anteroposterior de 26 mm y se extiende por 32 mm en el eje cefalocaudal. La más distal muestra un diámetro
+anteroposterior 28 mm y se extiende por 32 mm en el eje cefalocaudal. La aorta por sobre las arterias renales y por
+debajo del aneurisma descrito, previo la bifurcación ilíaca, muestra un calibre conservado.
+Leve a moderada cantidad de placas de ateroma blando y calcificado en la aorta abdominal, que predominan en su
+segmento infrarrenal.
+Las arterias ilíacas comunes y las porciones proximales visibles de las arterias ilíacas internas y externas se encuentran
+permeables, con trayecto tortuoso. Leve compromiso ateromatosos en ambas arterias ilíacas comunes e internas visibles,
+de tipo mixto.
+Leve estenosis en el origen de la arteria ilíaca interna izquierda visible.
+Arterias renales permeables, de calibre conservado. Ambos muestran discreto arrosariada en sus porciones medias y
+distales principalmente, sugerente de displasia fibromuscular. No muestran compromiso ateromatoso significativos.
+Arteria mesentérica superior, mesentérica inferior, tronco celíaco y sus ramas de calibre conservado, permeables. Escasas
+placas de ateroma en el origen del tronco celíaco y mesentérica superior, sin estenosis significativa.
+Impresión:
+Aneurisma del arco aórtico tratado con una endoprótesis bien posicionada y ampliamente permeable.
+Prótesis en la porción proximal de la arteria subclavia izquierda, permeable.
+Dos aneurismas fusiformes incipientes consecutivos en la aorta abdominal infrarrenal según lo descrito.
+Leve moderado compromiso ateromatosa aortoilíaco.
+Los hallazgos descritos en ambas arterias renales son sugerentes de displasia fibromuscular.
+                  *El presente resultado debe correlacionarse con el cuadro clinico y ser evaluado por medico tratante*
+
+--- Fin de Página ---
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

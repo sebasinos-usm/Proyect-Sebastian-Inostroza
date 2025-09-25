@@ -1,0 +1,18 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Rodilla Derecha sin Contraste
+Fractura conminuta de espinas tibiales, con rasgo que compromete además platilla tibial medial hacia posterior.
+Presentan leve desplazmiento de los fragmentos. 
+Aumento de la densidad de la grasa adyacentes. 
+Leve a moderado derrame pleural. 
+Mineralización ósea conservada. 
+No se observan más rasgos de fractura. 
+Cambios degenerativos femorotibiales. 
+Patela Wiberg II. 
+Impresión diagnóstica: 
+Rasgo de fractura conminuto de tibia proximal. 
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

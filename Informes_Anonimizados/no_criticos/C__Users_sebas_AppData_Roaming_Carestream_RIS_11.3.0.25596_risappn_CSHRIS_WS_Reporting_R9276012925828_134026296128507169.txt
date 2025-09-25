@@ -1,0 +1,28 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Mano Izquierda sin Contraste
+HALLAZGOS:
+En el quinto dedo, falange proximal, epífisis distal, se reconoce trazo de fractura longitudinal, con mínimo desplazamiento
+en aproximadamente 0,5 mm, con compromiso de la superficie articular distal. En la falange media, a nivel de la epífisis
+proximal, se reconoce trazo de fractura oblicuo en su aspecto dorsal que se extiende hacia la superficie articular, con
+mínimo desplazamiento estimado de un fragmento óseo dorsal en 0.9 mm.
+El resto de las falanges de los dedos segundo a cuarto, así como las falanges del primer dedo, presentan morfología
+conservada, sin fracturas ni alteraciones estructurales. Las articulaciones interfalángicas y metacarpofalángicas se
+encuentran bien alineadas, sin evidencias de incongruencias ni desplazamientos.
+Los metacarpianos muestran morfología, densidad ósea y alineación conservadas, sin trazos de fractura ni lesiones líticas
+o blásticas.
+En el carpo se reconocen escafoides, semilunar, piramidal y pisiforme con morfología y densidad ósea conservadas.
+Trapecio, trapezoide, grande y ganchoso se encuentran íntegros y con adecuada relación articular. No se evidencian
+fracturas, esclerosis ni alteraciones estructurales. La disposición y alineación del carpo es habitual, con preservación de la
+altura y amplitud de los espacios articulares intercarpianos.
+Radio y cúbito distal visibles presentan morfología conservada, corticales íntegras y adecuada relación con la articulación
+radiocubital distal. No se identifican trazos de fractura ni alteraciones óseas en sus epífisis.
+La articulación radiocarpiana se encuentra bien alineada, con amplitud preservada.
+IMPRESIÓN DIAGNÓSTICA:
+Fractura longitudinal en falange proximal del quinto dedo, con compromiso articular distal.
+Fractura oblicua en falange media del quinto dedo, epífisis proximal, con extensión a la superficie articular.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

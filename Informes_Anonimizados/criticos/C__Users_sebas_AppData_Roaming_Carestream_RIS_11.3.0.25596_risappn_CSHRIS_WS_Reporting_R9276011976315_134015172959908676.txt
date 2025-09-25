@@ -1,0 +1,25 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Ecotomografía de Abdomen
+Hígado forma y tamaño normal. Ecoestructura conservada. Vía biliar intrahepática dilatada. No se observan imágenes
+agregadas.
+Vesícula  Paredes finas, distendida con un diámetro longitudinal de 115 mm en relación a vesícula hidrópica, sin
+imágenes agregadas en su interior
+Conducto hepático común dilatado de 15 mm con un colédoco dilatado de 8. 4 mm, impresionando conservada en su
+extremo distal imagen hiperecogénica que proyecta sombra acústica posterior de 5.8 mm, de difícil valoración por
+movimientos involuntarios por parte del paciente, pudiendo corresponder a litiasis.
+Páncreas  forma y  Ecoestructura conservada.
+Bazo de tamaño,  forma y estructura conservada.
+Ambos riñones de forma y tamaño normal. Ecoestructura conservada. Sistema pielocalicial no dilatado. No se observa
+litiasis en su interior.
+No se observa liquido libre intraabdominal.
+IMPRESION DIAGNOSTICA:
+Vesicular hidrópica de paredes finas, Murphy ecográfico negativo, asociado a dilatación de vía biliar intra y
+extrahepática con imagen hiperecogénica en extremo distal, según descripción que podría estar en relación a litiasis,
+sin embargo, debido a la dificultad del estudio por movimientos del paciente, se sugiere confrontar con un colangio
+resonancia.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

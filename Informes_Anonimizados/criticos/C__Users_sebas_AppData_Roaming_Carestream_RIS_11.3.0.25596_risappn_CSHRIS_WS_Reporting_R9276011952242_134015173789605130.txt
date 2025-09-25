@@ -1,0 +1,23 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Eco Doppler Vascular venoso profundo
+Lado  derecho:
+Sistema venoso profundo ( vena femoral, vena poplitea, tronco venoso tibioperoneo, vena peronea y tibial posterior)
+permeables y compresibles, sin signos evidentes de TVP.
+No se observan signos de tromboflebitis. 
+Sistema arterial de MID, se observa a nivel de arteria femoral común y arteria poplítea flujo monofásico preestenótico,
+asociado a múltiples placas de fibrocálcica  en tándem, a nivel de arteria tibial posterior y Pedia no se logra por este
+método el registro de flujo vascular.
+Por este método no se logra visualizar área de estenosis crítica, impresionando por la onda de flujo registrada a nivel
+de la arteria femoral de tipo "preestenótico" que la contusión significativas encontraría por encima de esta, sugiriendo
+si la clínica del paciente lo permite realizar angiotomografía del miembro inferior.
+IMPRESION DIAGNOSTICA:
+No se observan signos de trombosis venosa.
+Cambios hemodinámicos arterial a nivel de miembro inferior derecho, observando flujos preestenótica a nivel de
+arteria femoral común y poplítea con ausencia de flujo a nivel de arteria tibial posterior y pedia por este método,
+sugiriendo estenosis crítica por encima de arteria femoral, confrontar con angiotomografía de MMII. 
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

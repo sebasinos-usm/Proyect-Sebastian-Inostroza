@@ -1,0 +1,50 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Oído sin Contraste
+Antecedentes clínicos:
+Otorrea derecho.
+Hallazgos:
+Se ha realizado complemento con tomografía computada de cerebro contrastada dado los hallazgos de la paciente.
+Destaca en este estudio la presencia de una prominente colección ovalada hipodensa heterogénea centrada en la porción
+central del lóbulo temporal derecho. Mide 67 × 53 × 50 mm en sus ejes mayores y se encuentra delimitada por una
+cápsula bien definida que característicamente se encuentra parcialmente calcificada. Esta colección no muestra realce con
+el contraste endovenoso y se encuentra rodeada de escaso edema vasogénico, sugerente de absceso. Determina efecto
+de masa sobre las estructuras supratentoriales adyacentes, con desviación de la línea media hacia contralateral en
+aproximadamente 7 mm medio a nivel del septum pellucidum. 
+Muestra algunas áreas hiperdensas heterogéneas en su porción central. Hacia caudal impresiona de bordes mal definidos,
+con presencia de numerosas burbujas de gas, alguna de las cuales se encuentran en situación intraaxial. Hacia cefálico y
+anterior muestra una incipiente extensión a través de esta cápsula, hacia el parénquima adyacente. Esta masa impresiona
+originarse desde el oído medio, progresando en el tiempo hacia cefálico, determinando elevación significativa de la arteria
+cerebral media derecha y sus ramas, las cuales en el estudio actual aún impresionan permeables.
+Su porción caudal y lateral se encuentran en amplio contacto con la superficie interna de la fosa craneal media. El piso de
+la fosa craneal media al igual que la porción escamosa del temporal y techo del oído medio se encuentran adelgazadas en
+forma significativa y con múltiples soluciones de continuidad. En especial se reconocen soluciones de continuidad
+péqueñas y múltiples que conectan en forma fistulosa la fosa craneal media con el conducto auditivo externo y el oído
+medio.
+Distorsión de la arquitectura morfológica normal del oído medio, probablemente en parte postquirúrgica y en parte
+secuelar a la infección crónica descrita. Dentro de las alteraciones observa ausencia de la cadena osicular derecha en
+forma completa, ausencia de un claro plano timpánico y escasa neumatización de celdillas mastoideas, con abundante
+esclerosis asociada, probablemente secular inflamatoria crónica.
+Cabe señalar que se reconoce adecuada morfología de las estructuras del oído interno, entre ellas la cóclea, los canales
+semicirculares, el utrículo y sáculo al igual que el canal del nervio facial derecho y el conducto auditivo interno.
+Hace contralateral el conducto auditivo interno y externo, cóclea, canales semicirculares, oído medio, cadena circular y
+plano timpánico no muestran alteraciones morfológicas. Se observan escasas celdillas mastoideas ocupadas por líquido.
+Además llama la atención una alteración de la morfología del cóndilo mandibular derecho y de la articulación
+temporomandibular derecha, con adelgazamiento de su componente craneal, probablemente secuelar también a la
+infección crónica descrita.
+En forma incidental se observa hipodensidad de la sustancia blanca supratentorial periventricular, sugerente de cambio
+microangiopática.
+Leve ateromatosis calcita de ambos sifones carotídeos.
+Impresión:
+Hallazgos sugerentes de un extenso compromiso inflamatorio infeccioso crónico del oído medio derecho con distorsión de
+su morfología y componentes, adelgazamiento de la calota adyacente y prominente extensión hacia el lóbulo temporal
+derecho donde conforma un gran absceso crónico que muestra signos de rotura incipiente. Se sugiere estudiar con
+resonancia magnética de encéfalo contrastada para mayor caracterización.
+                  *El presente resultado debe correlacionarse con el cuadro clinico y ser evaluado por medico tratante*
+
+--- Fin de Página ---
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

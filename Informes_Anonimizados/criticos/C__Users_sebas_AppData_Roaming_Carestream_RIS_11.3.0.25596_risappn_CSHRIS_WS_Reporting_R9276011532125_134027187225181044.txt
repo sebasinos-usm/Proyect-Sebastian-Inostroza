@@ -1,0 +1,34 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Antecedentes clínicos:
+Dolor abdominal.
+Hallazgos:
+Hígado de tamaño y forma normal. Su parénquima muestra menor densidad de forma difusa, sugerente de infiltración
+grasa. No se identifican lesiones focales.
+Vesícula biliar parcialmente distendida, de pared fina, sin cálculos calcificados.
+Vía biliar no dilatada.
+Páncreas, parénquima esplénico, glándulas suprarrenales, riñones, vejiga, próstata y vesículas seminales sin alteraciones.
+No hay nefrolitiasis ni hidronefrosis.
+El ciego su ubica en la fosa iliaca derecha y de su cara medial emerge el apéndice cecal aumentado de calibre hasta 14 mm
+de eje transverso, de pared engrosada en forma difusa. Se encuentra rodeado de tejido graso de densidad aumentada, de
+aspecto inflamatorio. El peritoneo adyacente se encuentra también engrosado en el mismo contexto. Apendicolito en la
+base del apéndice, de 8 mm. No hay perforación significativa ni colecciones inflamatorias. Tampoco signos de
+tromboflebitis. Pequeñas adenopatías mesentéricas de aspecto reactivo.
+Resto de asas intestinales de adecuado calibre y realce parietal.
+Escasa ascitis pelviana. No hay neumoperitoneo libre.
+Hernia umbilical de contenido graso no complicado, con un anillo herniario de 10 mm.
+Cámara gástrica parcialmente colapsada.
+Principales estructuras vasculares abdominopélvicas permeables.
+Aorta abdominal de calibre conservado.
+Porciones caudales visibles de ambos pulmones sin hallazgos patológicos.
+No se identifican lesiones focales óseas traumáticas ni destructivas mediante esta técnica.
+Impresión:
+Apendicitis aguda no complicada.
+Pequeña hernia umbilical.
+Esteatosis hepática difusa.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

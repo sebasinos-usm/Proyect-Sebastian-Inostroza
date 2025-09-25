@@ -1,0 +1,24 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Ecotomografía Partes Blandas Inguinal Izquierda
+Hallazgos:
+En sitio de dolor y aumento de volumen referido por la paciente en la región inguinal izquierda, se reconoce una
+estructura anecogénica con flujo de alta velocidad turbulento, que mide 31 x 31 x 26 mm. Inmediatamente bajo esta
+lesión, se reconoce al extremo distal de la arteria femoral común, la que presenta un amplio defecto de continuidad de
+10 x 7 mm, a través del cual se provee aporte vascular a la lesión previamente descrita. Desde este punto hacia distal,
+la arteria femoral superficial no presenta flujo evidente, impresionando ocluida. Aumento de la ecogenicidad del tejido
+adiposo hipodérmico adyacente, sugerente de cambios inflamatorios. Extenso edema hipodérmico del muñón de la
+extremidad superior izquierda. 
+Vena femoral común izquierda permeable, con flujo levemente pulsátil, similar a lo visualizado a derecha.
+No reconozco hernias inguinales ni femorales izquierdas, en condiciones de maniobra de Valsalva subóptima lo que
+disminuye el rendimiento diagnóstico del examen.
+Impresión diagnóstica:
+Hallazgos sugerentes de un pseudoaneurisma en la región inguinal izquierda, con cambios inflamatorios circundantes
+(¿reciente?). 
+Oclusión de la arteria femoral superficial izquierda.
+Edema hipodérmico en muñón de laextremidad inferior izquierda sugerente de cambios inflamatorios.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

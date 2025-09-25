@@ -1,0 +1,24 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Ecotomografía Mamaria
+Examen de pesquisa.
+Hallazgos:
+Piel y tejido graso subcutáneo sin alteraciones.
+Parénquima presenta de ecoestructura fibroglandular homogénea.
+En cuadrante inferior interno izquierdo, hora 7, a 3 cm del pezón se observa nódulo polilobulado, de estructura
+heterogénea, con leve atenuación acústica posterior, de márgenes circunscritos, vascularizado a la evaluación
+Doppler-color, de 13 mm.
+No se reconocen otras lesiones nodulares sólidas mamarias o áreas de distorsión.
+Quiste benigno en unión de cuadrantes superiores a derecha de 5 mm.
+Regiones retroareolares sin evidencias de ectasia ductal.
+No hay adenopatías axilares.
+Impresión diagnóstica:
+Lesión nodular sólida en cuadrante inferior interno de mama izquierda, vascularizada, sospechosa. Requiere estudio
+histológico.
+Pequeño quiste benigno mamario derecho.
+Birads 4 US.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

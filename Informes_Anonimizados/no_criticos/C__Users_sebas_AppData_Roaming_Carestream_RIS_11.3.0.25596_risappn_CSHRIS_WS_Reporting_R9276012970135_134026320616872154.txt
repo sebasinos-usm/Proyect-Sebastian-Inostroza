@@ -1,0 +1,49 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Antecedente clínico:
+Sospecha de pielonefritis.
+Hallazgos:
+Hígado de tamaño, forma y realce normal. No se identifican lesiones focales en su espesor.
+Vesícula biliar distendida parcialmente, de pared fina, sin cálculos calcificados.
+Vía biliar no dilatada.
+Páncreas, glándulas suprarrenales, próstata y vesículas seminales sin alteraciones morfológicas significativas.
+El bazo muestra tamaño y realce normal, con una prominente retracción parenquimatosa en su tercio medio, que pudiese
+tener origen secuelar.
+Vejiga escasamente distendida, con escaso gas en su interior (instrumentalización reciente?).
+Riñones de tamaño, forma y grosor parenquimatoso global normal. Escasas retracciones parenquimatosas en el tercio
+caudal del riñón derecho, tercio caudal y especialmente superior del riñón izquierdo, de aspecto secuelar cicatricial. 
+No hay nefrolitiasis de hidronefrosis.
+Calcificación vascular en rama arterial renal derecha.
+Múltiples áreas parenquimatosas de menor realce con el contraste endovenoso ubicadas en el riñón derecho,
+especialmente hacia la lateral, que persisten hacia fase tardía, sugerente de focos de nefritis.
+Uréteres de trayecto y calibre conservado, no engrosados.
+Asas intestinales de calibre y realce parietal normal. Múltiples divertículos en colon descendente y especialmente
+numerosos en colon sigmoides, no complicados. Abundante contenido fecal en ampolla rectal.
+Estómago colapsado, no valorable.
+No hay ascitis ni neumoperitoneo libre.
+Principales estructuras vasculares abdominopélvicas permeables.
+Aorta abdominal de calibre conservado.
+Numerosas provenientes placas de ateroma blando en la aorta torácica caudal y aorta abdominal.
+Múltiples placas de ateroma calcificado marginales aortoilíacas y en los orígenes de las arteria renales, tronco celíaco y
+mesentérica superior.
+Pequeña hernia umbilical grasa no complicada, con un anillo herniario de 5 mm.
+Cambios degenerativos discales y facetarios multisegmentarios de la columna lumbar, especialmente facetas L4-L5 y
+lumbosacras izquierdas.
+Impresión:
+Focos de nefritis en el riñón derecho, de probable origen inflamatorio infeccioso, sin evidencias de abscesos. Correlacionar
+con examen de orina.
+Escasas cicatrices renales bilaterales.
+Severa ateromatosis aortoilíaca mixta, con prominentes placas de ateroma blandos en la aorta visible.
+Ateromatosis en el origen de ambas arterias renales, mesentérica superior y tronco celíaco.
+Severa diverticulosis del colon izquierdo.
+Retracción parenquimatosa en el bazo, de aspecto secuelar.
+Cambios degenerativos de la columna lumbar.
+                  *El presente resultado debe correlacionarse con el cuadro clinico y ser evaluado por medico tratante*
+
+--- Fin de Página ---
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

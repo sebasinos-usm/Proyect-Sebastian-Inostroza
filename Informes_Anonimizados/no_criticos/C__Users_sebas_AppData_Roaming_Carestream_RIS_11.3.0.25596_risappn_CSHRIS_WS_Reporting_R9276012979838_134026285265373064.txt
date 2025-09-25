@@ -1,0 +1,23 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Cerebro sin Contraste
+Antecedentes: Contusión frontotemporal.
+Hallazgos:
+Cerebelo y troncoencefálo no evidencian alteraciones en los índices de atenuación.
+Cuarto ventrículo de tamaño normal, ubicado en línea media.
+Cisternas de fosa posterior sin ocupaciones patológicas.
+Cerebro no evidencia alteraciones corticales ni de sustancia blanca, observando adecuada representación de núcleos
+basales.
+Sistema ventricular de tamaño normal.
+Sin colecciones, evidencias de hemorragia ni efectos de masa.
+Estudio de estructuras óseas no evidencia lesiones en base de cráneo ni calota.
+Senos paranasales y celdillas mastoideas sin alteraciones.
+Aumento de volumen y densidad de partes blandas en región supraorbitaria izquierda que se asocia a colección
+espontáneamente densa, compatible con hematoma en el espesor del tejido graso subcutáneo.
+Impresión diagnóstica:
+Tomografía computada de encéfalo, sin evidencias de lesión traumática intracraneal.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

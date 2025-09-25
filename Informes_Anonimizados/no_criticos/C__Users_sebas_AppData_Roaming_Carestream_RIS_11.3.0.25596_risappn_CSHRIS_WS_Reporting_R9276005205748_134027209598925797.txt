@@ -1,0 +1,23 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Ecotomografía de Abdomen
+Antecedentes Clínicos: Sin información
+HALLAZGOS:
+Hígado de tamaño y morfología normal, de ecoestructura homogénea y ecogenicidad conservada. No se identifican
+lesiones focales.
+Vía biliar intra/extrahepática no dilatada.
+Porta permeable de calibre normal.
+Vesícula biliar distendida de forma fisiológica, de paredes finas sin litiasis en su interior.
+Bazo homogéneo de tamaño normal.
+Páncreas parcialmente visualizado, sin evidencia de alteraciones ecoestructurales en las adquisiciones obtenidas.
+Riñones de tamaño y morfología normal, con grosor cortical conservado y bien diferenciado del seno, sin ectasia de la vía
+excretora. A nivel de región anexial derecha se observa lesión anecoica con refuerzo posterior de 47 x 29 x 45 mm
+No se identifica líquido libre intraabdominal.
+IMPRESION DIAGNOSTICA
+ Quiste simple anexial derecho
+Resto de estudio ecográfico abdominal sin hallazgos significativos
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

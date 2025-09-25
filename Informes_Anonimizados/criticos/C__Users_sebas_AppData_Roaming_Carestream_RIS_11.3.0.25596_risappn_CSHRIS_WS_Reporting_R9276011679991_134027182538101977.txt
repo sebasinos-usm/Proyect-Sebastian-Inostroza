@@ -1,0 +1,32 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Antecedentes de by-pass gástrico.
+Gastro yeyuno anastomosis permeable, de calibre conservado.
+Asa yeyunal alimentaria post anastomosis gastroyeyunal, colapsada.
+Estómago desfuncionalizado parcialmente colapsado.
+Duodeno y yeyuno proximal (asa biliar), moderadamente dilatados en forma difusa, con líquido en su interior,
+extendiéndose distalmente hasta la anastomosis yeyuno yeyunal.
+El asa yeyunal inmediatamente post anastomosis yeyuno yeyunal, colapsada.
+Distalmente, se observa otra asa de yeyuno dilatada, con material fecaloideo en su interior, impresionando corresponder
+a segundo punto obstructivo en asa ciega, probablemente por herniación interna.
+Íleon de características conservadas y parcialmente colapsado.
+Marco colónico, sin alteraciones.
+No se observa líquido libre.
+Hígado de forma, tamaño y estructura conservada, sin evidencia de lesiones focales.
+Vía biliar intra y extrahepática no dilatada.
+Vesícula ausente de aspecto postquirúrgico.
+Páncreas, bazo, glándulas suprarrenales, riñones, uréteres y vejiga, sin alteraciones.
+No se observan linfonodos de características patológicas en las distintas cadenas evaluables.
+Estructuras vasculares de calibre normal.
+Bases pulmonares libres.
+Impresión diagnóstica:
+Alteraciones morfológicas postquirúrgicas compatibles con by-pass gástrico en y de Roux.
+Obstrucción de asa biliar con punto obstructivo a nivel de la anastomosis yeyuno yeyunal.
+Obstrucción probablemente en asa cerrada de yeyuno distal a la anastomosis yeyuno yeyunal, impresionando secundario
+a hernia interna (Petersen).
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

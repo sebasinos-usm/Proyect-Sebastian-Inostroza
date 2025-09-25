@@ -1,0 +1,21 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Eco Doppler Venoso de Ambas EEII
+Se explora con transductor lineal territorios venosos femoro poplíteos y tibio peroneos de ambas extremidades inferiores,
+identificando venas femorales comunes, superficiales, profundas, poplíteas, peroneas, tibiales anteriores, posteriores,
+gemelares y soleas. 
+Se identifica en el tercio proximal de la pierna derecha, en una vena gemelar interna, contenido hipoecogénico que ocupa
+completamente el lumen, lo que se acompaña de pérdida de su compresibilidad y ausencia de flujo al Doppler color,
+hallazgo compatible con una trombosis, sin extensión hacia el sistema venoso profundo.
+Restantes estructuras venosas profundas calibre y trayecto normales, compresibles al paso del transductor, con flujo
+espontáneo al Doppler color, sin evidencias de trombosis.
+Sistema venoso superficial permeable.
+Impresión diagnóstica:
+Trombosis aguda del tercio proximal de una vena gemelar interna en pierna derecha, sin extensión hacia el sistema
+venoso profundo.
+No se demostraron otras imágenes sospechosas de trombosis venosa profunda ni superficial de extremidades inferiores.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

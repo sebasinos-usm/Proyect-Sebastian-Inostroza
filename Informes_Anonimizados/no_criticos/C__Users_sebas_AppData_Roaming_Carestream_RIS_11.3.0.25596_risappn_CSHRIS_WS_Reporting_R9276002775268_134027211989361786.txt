@@ -1,0 +1,11 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Examen: Rx Antebrazo Derecho AP-LAT
+   
+Elementos óseos bien alineados, de morfología normal.
+Articulaciones congruentes, de amplitud conservada.
+Placas fisiarias sin alteraciones.
+No se reconocen fracturas o reacción perióstica.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

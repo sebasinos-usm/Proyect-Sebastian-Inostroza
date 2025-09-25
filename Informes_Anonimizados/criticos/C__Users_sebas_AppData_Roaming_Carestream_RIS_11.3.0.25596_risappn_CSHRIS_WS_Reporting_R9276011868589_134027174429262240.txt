@@ -1,0 +1,23 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+AngioTC de Tórax
+En la fase angiográfica de arterias pulmonares se identifica defecto de llene hipodenso en rama para el segmento superior
+del LID. 
+Relación VD/VI de 0.92.
+Arteria pulmonar mide 22 mm. 
+Estudio venográfico de EEII sin evidencias de TVP en segmentos evaluados. 
+Tráquea y bronquios principales de calibres normales, permeables. 
+Bandas atelectásicas en base pulmonar izquierda.
+No se observan opacidades de condensación, nódulos pulmonares de aspecto sospechoso ni derrame pleural.
+Tiroides sin nódulos. Esófago sin engrosamientos parietales.
+Corazón de tamaño y configuración normal.
+Aorta torácica de calibre y trayecto conservado. 
+No se observan adenopatías mediastínicas, supraclaviculares, hiliares ni axilares.
+No se reconocen lesiones óseas. 
+Impresión diagnóstica: 
+Signos de TEP segmentario a derecha. 
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

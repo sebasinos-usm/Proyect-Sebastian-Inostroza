@@ -1,0 +1,26 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Mamografía Bilateral
+Paciente referida para evaluación por tumor mamario derecho.
+Examen con limitaciones técnicas por intolerancia a la compresión.
+Se dispone de examen previo.
+Ambas mamas presentan patrón de densidades fibroglandulares dispersas.
+En CSE de mama derecha se observa asimetría con distorsión del parénquima, de al menos 24 mm, en tercio medio.
+Presenta un centro denso, espiculado, de aprox. 15mm. Persiste en proyecciones complementarias rotada y lateral
+estricta. No es posible realizar proyecciones con compresión localizada ni magnificaciones para mejor evaluación por no
+tolerar compresión. 
+Nódulo de baja densidad de aprox. 9 mm en tercio posterior de CSI de mama derecha que sugiere lesión cutánea.
+No se reconoce microcalcificaciones agrupadas sospechosas.
+Calcificaciones de aspecto benigno en ambas mamas.
+En porción visible de regiones axilares no se demuestra adenopatías.
+Impresión mamográfica.
+Nódulo espiculado altamente sospechoso en CSE de mama derecha, que se requiere evaluar con estudio histológico de no
+existir antecedente de procedimiento previo. Asimetría y distorsión arquitectural del parénquima adyacente. 
+Birads 5.
+ACR B.
+Se sugiere complementar examen con ecotomografía.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

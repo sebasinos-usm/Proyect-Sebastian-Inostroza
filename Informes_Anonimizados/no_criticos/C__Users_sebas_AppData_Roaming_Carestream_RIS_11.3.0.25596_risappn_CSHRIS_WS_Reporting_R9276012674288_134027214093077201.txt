@@ -1,0 +1,20 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+RM de Cerebro sin Contraste
+Antecedentes: Sin Dg.
+Hallazgos:
+Cuarto ventrículo de forma y tamaño normal. 
+Tronco encéfalo y cerebelo sin alteraciones evidentes. 
+Cisternas de la base libres. Sistema ventricular supratentorial de amplitud normal. 
+Focos escasos de incremento de señal en la sustancia blanca subcortical de aspecto inespecífico. 
+Resto del parénquima encefálico y núcleos grises centrales sin alteraciones.
+Cuerpo calloso normal. Aracnoidocele selar.
+Espacio subaracnoideo de amplitud conservada. Sin colecciones yuxtadurales.
+Sin áreas de restricción de la difusión y sin signos de hemorragia.
+Impresión diagnostica:
+Focos de incremento de señal en la sustancia blanca supratentorial de aspecto inespecífico.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

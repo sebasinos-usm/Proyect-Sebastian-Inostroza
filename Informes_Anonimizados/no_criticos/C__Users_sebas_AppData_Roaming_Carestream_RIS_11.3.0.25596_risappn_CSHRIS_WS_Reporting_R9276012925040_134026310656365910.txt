@@ -1,0 +1,23 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Cavidades Paranasales sin Contraste
+HALLAZGOS:
+Senos frontales de desarrollo y neumatización conservados.
+Celdillas etmoidales bien conformadas, sin evidencias de ocupación patológica.
+Senos maxilares de amplitud habitual, libres de contenido patológico.
+Complejos osteomeatales con infundíbulos permeables.
+Seno esfenoidal de adecuado desarrollo y neumatización conservada.
+Tabique nasal con discreta angulación hacia la izquierda en su extremo anterior. Fracturas de los huesos propios nasales,
+con mínima depresión del lado derecho de aproximadamente 1 mm, ambos con leve angulación hacia la izquierda.
+Cornetes medios e inferiores de morfología conservada.
+Coanas amplias y permeables.
+Cavidades timpánicas y celdas mastoideas visualizadas con amplitud y neumatización habituales.
+No se identifican lesiones óseas de carácter traumático ni destructivo.
+IMPRESIÓN DIAGNÓSTICA:
+Fractura de huesos propios nasales con leve angulación hacia la izquierda, asociada a discreta angulación izquierda del
+extremo anterior del tabique nasal.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

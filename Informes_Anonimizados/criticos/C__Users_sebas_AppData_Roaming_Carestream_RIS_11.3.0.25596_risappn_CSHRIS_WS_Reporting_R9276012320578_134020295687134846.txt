@@ -1,0 +1,18 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Ecotomografía Partes Blandas Inguinal Izquierda
+Se realiza barrido ecográfico con transductor lineal en región inguinocrural izquierda, visualizando protrusión de saco
+herniario de contenido intestinal, móvil de 57  x 16 mm, protruyendo por un anillo de 10 mm. No se observa hernia crural.
+Planos subcutáneos y musculares, sin alteraciones.
+No se observa adenopatía inguinal.
+Se observa  importante ateromatosis a nivel de la arteria femoral izquierda que con evaluación Doppler, se observan
+cambios hemodinámicos significativos, observando una velocidad sistólica máxima de 235 cm/seg, sugerente de una
+estenosis significativa mayor de 70%.
+IMPRESION DIAGNOSTICA
+Hernia inguinal izquierda de contenido intestinal, móvil.
+Estenosis significativa de la arteria femoral común izquierda, surgiendo a realizar Doppler arterial bilateral de MMII.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

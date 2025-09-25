@@ -1,0 +1,17 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Ecotomografía Mamaria
+Se analizan imágenes obtenidas por TM.
+Hallazgos:
+Piel y tejido subcutáneo sin alteraciones.
+Glándulas mamarias de estructura y ecogenicidad normal.
+No se observan nódulos sólidos o quísticos en el espesor del parénquima.
+Conclusión :
+Sin hallazgos patológicos.
+Birads 1.
+EEP/gvn
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

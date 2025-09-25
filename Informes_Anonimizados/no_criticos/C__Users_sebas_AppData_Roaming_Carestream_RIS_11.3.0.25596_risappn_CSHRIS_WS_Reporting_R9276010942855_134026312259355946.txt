@@ -1,0 +1,27 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Ecotomografía de Abdomen
+Antecedentes:    control preventivo 
+Hallazgos: 
+El hígado se observa de tamaño y forma normal. La ecogenicidad del parénquima está difusamente aumentada, con
+caracteres de esteatosis, sin lesiones focales.
+Venas suprahepáticas y vena porta de calibre normal.
+Vía biliar intra y extra-hepática de calibre normal.
+Antecedente de colecistectomía.
+El páncreas se observa de tamaño, forma y estructura normal.
+Ambos riñones se observan de posición,  forma y tamaño normal. 
+En el riñón izquierdo se observan dos quistes corticales simples de 1,0 y 2,0 cm de diámetro
+Senos renales libres
+No se observa hidronefrosis
+No se observan imágenes sospechosas de cálculos.
+El bazo se observa de tamaño normal. Presenta un bazo accesorio de 1 cm de diámetro
+La aorta abdominal y la vena cava inferior presentan calibre normal.
+Impresión Diagnóstica:  
+Esteatosis hepática.
+Bazo accesorio.
+Quistes renales izquierdos
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

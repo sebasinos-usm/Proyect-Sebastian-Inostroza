@@ -1,0 +1,18 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Ecotomografía Mamaria
+Antecedentes: Examen de control , complemento de mamografía .
+Hallazgos: 
+Los planos superficiales no demuestran alteraciones  ecograficas..
+El parénquima fibroblandular se observa de ecoestructura heterogénea difusa sin evidencia de lesiones focales solidas,
+quisticas ni ectasia ductal.
+El resto de planos evaluados no demuestra alteraciones.
+Impresión Diagnóstica: 
+Ecografia mamaria   sin signos de malignidad
+BIRADS  1 US
+ Recomendacion: Mantener control según edad y antecedentes clínicos.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,28 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Cerebro sin Contraste
+Hallazgos:
+HSA en relación con el surco frontal superior izquierda y en menor extensión en el surco frontal superior derecho.
+HSA frontobasal derecha con pérdida de la definición del limite córtico subcortical.
+Cerebelo y troncoencéfalo no evidencian alteraciones en los índices de atenuación.
+Cuarto ventrículo de tamaño normal, ubicado en línea media.
+Cisternas de la fosa posterior sin ocupaciones patológicas.
+Sistema ventricular supratentorial de amplitud conservada.
+Parénquima cortical, sustancia blanca y núcleos grises centrales sin lesiones.
+Espacio subaracnoideo de la convexidad de amplitud normal.
+No se observan colecciones ni efectos de masa.
+Estudio de estructuras óseas no evidencia lesiones en base cráneo ni calota.
+Sifones carotídeos con placas de ateroma, así como también ambas arterias vertebrales.
+Impresión Diagnóstica:
+HSA en relación con los surcos frontales superiores izquierdo y derecho.
+HSA frontobasal derecha con pérdida de la definición del limite corticosubcortical adyacente.
+Si clínicamente se justifica completar estudio con RM para mayor caracterización.
+Fecha addendum:
+[FECHA_ANONIMIZADA] 22:44:36
+Se realiza addendum para notificación de hallazgo critico.
+Addendum firmado por:
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

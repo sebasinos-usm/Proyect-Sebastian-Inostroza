@@ -1,0 +1,12 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+RX Abdomen Portátil
+Asas intestinales distendidas, con abundante contenido gaseoso, sin evidencia de dilatación patológica.
+Se evidencia catéter venoso umbilical, extremo distal proyectado sobre vena cava inferior, y catéter arterial umbilical con
+extremo distal proyectado sobre aorta torácica.
+Sonda de alimentación con extremo distal proyectado sobre el fondo gástrico.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

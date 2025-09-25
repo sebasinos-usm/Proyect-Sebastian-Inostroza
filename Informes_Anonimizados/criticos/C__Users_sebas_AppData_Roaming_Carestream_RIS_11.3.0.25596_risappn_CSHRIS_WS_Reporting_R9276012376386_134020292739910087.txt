@@ -1,0 +1,20 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Eco Doppler Arterio-Venoso EESS Izquierda
+Se observa trombosis venosa parcial a nivel del tercio medio de la vena cefálica del brazo con recanalización periférica.
+Vena subclavia, axilar, braquial, basílica del brazo, radial y cubital, basílica y cefálica del antebrazo permeable, sin signos
+de trombosis venosa.
+Se observa hematoma periférico y tipo sacular con material heterogéneo difuso en su interior con ausencia de Doppler en
+su interior, midiendo 13 x 5 mm contactando íntimamente con la arteria braquial, próximo a su bifurcación en radial y
+cubital, en posible relación secuela de pseudoaneurisma, también se visualizan hematoma difuso en partes blandas
+adyacentes.
+Todo el trayecto arterial se encuentra permeable con  flujo trifásico conservado.
+Impresión diagnóstica:
+Trombosis venosa  parcial a nivel del tercio medio de la arteria cefálica del brazo.
+Imagen pseudosacular periarterial braquial en posible relación a secuela de pseudoaneurisma.
+Hematoma difuso de partes blandas en brazo y antebrazo.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

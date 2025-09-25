@@ -1,0 +1,29 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Mamografía Bilateral
+Paciente referida para control.
+Antecedente de mastectomía parcial derecha por cáncer mamario en año 2022.
+Se cuenta con mamografía de año 2011 y ecotomografías, última de año 2021.
+Ambas mamas presentan patrón de densidades fibroglandulares heterogéneamente densas.
+La mama derecha presenta menor tamaño que su contralateral, se observa con distorsión arquitectural en CSI y unión de
+cuadrantes internos, en sitio de cambios postquirúrgicos. En cuadrante superointerno, región periareolar, se observa
+nódulo denso, de margen parcialmente oscurecido, que mide aproximadamente 30 mm, compatible con origen sólido en
+ecotomografía. Se asocia a leve retracción de la piel.
+En CSE derecho se observa nódulo isodenso, ovalado circunscrito, de aprox. 13 mm, de origen sólido en ecotomografía,
+que no era evidente en estudios previos.
+Imagen nodular de baja densidad en cuadrante superointerno izquierdo de aspecto benigno, con calcificación en su
+espesor.
+No se observa con seguridad otros nódulos dominantes, tampoco microcalcificaciones agrupadas sospechosas.
+Calcificaciones de aspecto benigno en ambas mamas.
+Linfonodos axilares inespecíficos bilaterales.
+Impresión mamográfica.
+Antecedente de neoplasia mamaria derecha operada.
+Nódulo en cuadrante superointerno y CSE de mama derecha, que pueden corresponder a signos de recidiva, se sugiere
+evaluar con estudio histológico.
+Birads 4.
+ACR C.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

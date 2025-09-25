@@ -1,0 +1,21 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Mamografía Bilateral
+Se realiza mamografía por control preventivo.
+Se cuenta con estudios previos para comparar.
+Piel y pezones de grosor normal.
+Tejido celular subcutáneo y graso retromamario libres.
+Mamas constituidas por opacidades fibroglandulares heterogeneamente densas.
+Se identifican microcalcificaciones heterogèneas, agrupadas en cuadrante superior externo de la mama derecha, de
+distribución lobulillar en un área de 11 mm de je mayor. La microcalcificaciones han progresado respecto a control previo
+(en el año 2022 prácticamente no eran visibles).
+Presenta calcificaciones benignas bilaterales.
+Regiones axilares libres.
+Impresión diagnóstica:
+Microcalcificaciones sospechosa en cuadrante superior externo de la mama derecha. Se sugiere biopsia estereotaxica
+Birads 4b. ACR C.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

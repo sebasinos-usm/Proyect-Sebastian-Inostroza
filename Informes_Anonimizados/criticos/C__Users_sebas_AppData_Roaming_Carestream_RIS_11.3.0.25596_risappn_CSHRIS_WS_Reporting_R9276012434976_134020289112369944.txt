@@ -1,0 +1,18 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Rx Tórax PA-LAT Izquierdo
+Hallazgos:
+Destaca hidroneumotórax derecho de leve a moderada cuantía, con nivel hidroaéreo basal derecho. El pulmón derecho
+mantiene moderada insuflación. No hay desviación significativa del mediastino a contralateral.
+No hay signos de derrame pleural ni neumotórax izquierdo.
+Leve opacidad peribroncovascular en lóbulo inferior derecho. No se observan opacidades significativas en el pulmón
+izquierdo.
+Silueta cardiovascular de tamaño normal.
+Impresión:
+Leve a moderado hidroneumotórax derecho, sin desviación significativa del mediastino a contralateral. Para mayor
+caracterización estudiar con tomografía computada de tórax.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

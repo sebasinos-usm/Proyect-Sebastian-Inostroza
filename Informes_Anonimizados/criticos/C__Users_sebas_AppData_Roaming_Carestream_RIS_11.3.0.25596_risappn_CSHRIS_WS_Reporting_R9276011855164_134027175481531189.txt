@@ -1,0 +1,25 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Eco Doppler Venoso de Ambas EEII
+Se explora con transductor lineal territorios venosos femoro poplíteos y tibio peroneos de ambas extremidades inferiores,
+identificando venas femorales comunes, superficiales, profundas, poplíteas, peroneas, tibiales anteriores, posteriores,
+gemelares y soleas.
+Se identifica en una vena solea de pierna izquierda contenido hipoecogénico que ocupa completamente el lumen,
+asociado a pérdida de la compresibilidad y ausencia de flujo al Doppler color, compatible con trombosis aguda, sin
+extensión al territorio venoso profundo subyacente.
+En extremidad inferior derecha se reconoce contenido hipoecogénico que ocupa gran parte del lumen de las venas
+femoral común y femoral superficial , así como también importante contenido ocupando completamente el lumen de
+vena tibial posterior y peronea y algunas gemelares internas y escaso contenido en vena poplítea, lo que se asocia a
+menor / ausencia de compresibilidad y de flujo al Doppler color, hallazgo que también es compatible con una trombosis
+aguda.
+Restantes estructuras venosas profundas y superficiales de calibre y trayecto normales, compresibles al paso del
+transductor, con flujo espontáneo al Doppler color, sin evidencias de trombosis.
+Impresión diagnóstica:
+Hallazgos compatibles con extensa trombosis venosa profunda de extremidad inferior derecha comprometiendo territorio
+femoropoplíteo e infrapoplíteo.
+Trombosis de una vena solea de extremidad inferior izquierda, sin compromiso del territorio venoso profundo.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

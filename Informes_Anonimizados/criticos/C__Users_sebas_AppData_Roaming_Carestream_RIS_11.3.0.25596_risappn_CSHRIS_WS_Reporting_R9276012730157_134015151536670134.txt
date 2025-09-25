@@ -1,0 +1,20 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Mamografía Bilateral
+Se realiza mamografía por control preventivo.
+Se cuenta con estudios previos para comparar.
+Piel y pezones de grosor normal.
+Tejido celular subcutáneo y graso retromamario libres.
+Mamas constituidas por opacidades fibroglandulares dispersas.
+No se identifican imágenes nodulares dominantes.
+En el cuadrante superior externo de la mama derecha, se observa microcalcificaciones heterogéneas agrupadas en un
+área de 10 mm a 60 mm del pezón en proyección MLO.
+Linfonodos axilares bilaterales.
+Impresión diagnóstica:
+Microcalcificaciones sospechosas en cuadrante superior externo de la mama derecha que deben ser biopsiadas.
+Birads 4b. ACR B.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

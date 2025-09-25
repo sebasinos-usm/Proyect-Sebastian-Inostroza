@@ -1,0 +1,25 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+Fecha informe
+:  [FECHA_ANONIMIZADA]
+:  [FECHA_ANONIMIZADA] 10:37:45 a. m.
+Ecotomografía Mamaria
+Antecedentes: Examen de control ,. Complemento de mamografía con lesión espiculada de la mama izquierda. 
+Hallazgos: 
+Analisis de imágenes ecográficas obtenidas por TM con informe radiológico.
+Los planos superficiales no demuestran alteraciones  ecograficas..
+El parénquima fibroblandular se observa de ecoestructura heterogénea con presencia de lesión focal en la unión de
+cuadrantes internos de la mama izquierda hipoecogénica sólida de margen mal definido que mide aproximadamente 15
+mm de eje longitudinal mayor con cierta sombra acústica posterior y halo ecogénico que se correlaciona con el hallazgo
+mamográfico. 
+No hay otra lesiones focales. 
+Axilas sin hallazgos patológicos.
+El resto de planos evaluados no demuestra alteraciones.
+Impresión Diagnóstica: 
+Lesión focal de la mama izquierda sospechosa de atipia
+BIRADS  5 US
+ Recomendacion: Considerar estudio histológico mediante biopsia bajo visión ecográfica. .
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

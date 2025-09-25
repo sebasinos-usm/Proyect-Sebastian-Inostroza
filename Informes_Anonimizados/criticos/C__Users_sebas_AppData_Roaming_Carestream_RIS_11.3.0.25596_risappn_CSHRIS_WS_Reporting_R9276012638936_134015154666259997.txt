@@ -1,0 +1,25 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+AngioTC Coronario y Score de Calcio
+Antecedentes clínicos: disección coronaria tratada. No se dispone de exámenes previos para comparar.
+Hallazgos:
+La emergencia de arterias coronarias es normal. Dominancia coronaria derecha. Score de calcio coronario de 0 U.A.
+-Arteria coronaria derecha: de moderado desarrollo y trayectos normales, sin placas ni lesiones obstructivas. Adecuada
+emergencia de ramas arteriales
+-Tronco coronario izquierdo: de longitud habitual, sin lesiones.
+-Arteria descendente anterior: de calibre y trayectos normales, con stent en segmento medio permeable. Disección
+trombosada inmediatamente proximal a stent, determinando lesión obstructiva severa de hasta el 70% en segmento
+corto. No se identifica otras áreas de disección coronaria ni lesiones obstructivas. Diagonales de buen desarrollo, sin
+lesiones obstructivas ni compromiso por disección en la actualidad.
+-Arteria circunfleja: de pequeño calibre y trayectos normales. No evidencia placa ni lesiones obstructivas. Obtusas
+marginales de normal desarrollo, sin lesiones.
+IMPRESIÓN TOMOGRÁFICA:
+Disección coronaria trombosada proximal a stent en arteria descendente anterior determinando estenosis severa. Stent
+permeable. No se identifican placas ni otras lesiones obstructivas.
+CAD RADS 0 /E.
+Score de calcio coronario de 0 U.A
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,19 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Mamografía Bilateral
+Se realiza mamografía por control preventivo.
+No se cuenta con estudios previos para comparar.
+Piel y pezones de grosor normal.
+Tejido celular subcutáneo y graso retromamario libres.
+Mamas constituidas por opacidades fibroglandulares dispersas.
+En el cuadrante superior externo de la mama derecha se observa nódulo denso, espiculado, de 29 mm de eje mayor.
+No se identifican microcalcificaciones sospechosas.
+Regiones axilares libres.
+Impresión diagnóstica:
+Nódulo espiculado en CSE de la mama derecha de características altamente sospechosas que debe ser biopsiado.
+Birads 5. ACR B.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

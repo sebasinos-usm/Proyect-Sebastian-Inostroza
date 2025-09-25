@@ -1,0 +1,36 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Hallazgos:
+Hígado de forma y estructura interna normales, sin evidencias de lesiones focales.
+Venas suprahepáticas, cava inferior y eje venoso portoesplénico permeables. Se observa defecto de llene en la vena
+mesentérica y en las venas yeyunales distales, asociado a estriación de la grasa adyacente.
+Vesícula escasamente distendida, sin cálculos calcificados en su lumen. Vía biliar fina.
+Bazo, páncreas y glándulas suprarrenales sin alteraciones.
+Riñones de forma, tamaño y espesor parenquimatoso conservados. Quistes corticales renales bilaterales, de aspecto
+simple, de hasta 16 mm. No hay dilatación de los sistemas excretores ni imágenes de litiasis.
+Vejiga normalmente distendida, de pared fina, con contenido líquido homogéneo, sin cálculos.
+Próstata aumentada de tamaño, con diámetro transverso de 51 mm.
+Vesículas seminales de aspecto tomográfico normal.
+Estómago colapsado. Se observa engrosamiento parietal de aspecto trilaminar de largo segmento del yeyuno distal, lo que
+se asocia a ingurgitación vascular y estriación de la grasa peritoneal adyacente y moderada cantidad de líquido libre en la
+pelvis. Asas de colón colapsadas.
+Aorta de calibre y trayecto conservados. 
+No se reconocen adenopatías retroperitoneales, ilíacas ni mesentéricas.
+Planos musculares continuos.
+Atelectasias laminares subpleurales en ambas bases pulmonares.
+No son evidentes lesiones óseas traumáticas ni destructivas.
+Impresión diagnóstica:
+Engrosamiento parietal de largo segmentos del yeyuno distal y trombosis de la vena mesentérica superior y de la vena
+yeyunales distales. Con estos hallazgos, se sugiere considerar en el diagnóstico diferencial compromiso
+inflamatorio-infeccioso del yeyuno con tromboflebitis séptica de la vena mesentérica superior versus tromboflebitis de la
+vena mesentérica superior, con compromiso isquémico venoso de asas de yeyuno. 
+Moderada cantidad de líquido libre pelviano.
+Quistes corticales renales bilaterales, Bosniak I.
+Aumento del tamaño prostático.
+Atelectasias laminares subpleurales en ambas bases pulmonares.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,27 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Cerebro con Contraste
+INDICACION:
+Paciente de 64 años con episodio de pérdida del habla, desorientación y pérdida de la memoria.
+TECNICA:
+Con tomógrafo multidetector se realizaron cortes axiales desde la base del cráneo hasta la convexidad, antes y durante la
+administración intravenosa de contraste. Se realizan reconstrucciones multiplanares
+HALLAZGOS:
+Hay adecuada diferenciación entre sustancia blanca y gris. No se identifican lesiones focales sugestivas de proceso
+inflamatorio, tumoral o infeccioso.
+Con la administración intravenosa de contraste no se observan áreas de realce anormal.
+No hay calcificaciones anormales.
+Las estructuras de la línea media se encuentran centradas. 
+La amplitud del sistema ventricular se conserva.
+Los núcleos de la base se definen adecuadamente.
+No hay colecciones extra axiales.
+Fosa posterior sin lesiones.
+Estructuras óseas de aspecto normal. No se identifican fracturas.
+Senos paranasales y celdillas  mastoideas adecuadamente neumatizadas.
+IMPRESION
+- Tomografía de cráneo simple y contrastada dentro de límites normales.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

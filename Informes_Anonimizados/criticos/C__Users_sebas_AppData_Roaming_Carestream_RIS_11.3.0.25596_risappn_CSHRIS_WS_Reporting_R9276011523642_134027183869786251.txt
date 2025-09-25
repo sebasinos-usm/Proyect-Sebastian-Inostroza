@@ -1,0 +1,30 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Cerebro sin Contraste
+Antecedente clínico:
+Contusión parietooccipital.
+Hallazgos:
+Destaca extenso hematoma subdural parietotemporal derecho, que muestra un espesor máximo de 11 mm a nivel frontal
+posterior, medido en el plano coronal. En su mayoría impresiona hiperdenso, con escasas áreas hipodensas mixtas en su
+porción más superior. Muestra extensión hacia la hoz del cerebro y escasa de tipo laminar al tentorio cerebeloso derecho.
+Determina leve efecto de masa, desviando la línea media hacia contralateral en 5 mm a nivel del septum pelucidum.
+Pequeño hematoma subdural frontal izquierdo hipodenso, de mayor densidad que el líquido cefalorraquídeo adyacente,
+de aspecto crónico, con un espesor máximo de 10 mm. determine caso efecto de masa adyacente.
+Sistema ventricular y espacios subaracnoideos de con amplitud y configuración. No hay contenido hemático en el sistema
+ventricular.
+Parénquima encefálico de adecuada morfología y densidad parenquimatosa.
+No se reconocen hematomas intraparenquimatosos. Tampoco focos contusivos hemorrágicos.
+Leve ateromatosis cálcica de ambos sifones carotídeos y segmentos distales de ambas arterias vertebrales.
+No se reconocen fracturas.
+Ocupación de la porción ósea del conducto auditivo externo derecho, con pequeñas calcificaciones en su espesor, de
+aspecto crónico.
+Impresión:
+Extenso hematoma subdural frontoparietotemporal derecho agudo, que determina efecto de masa significativo en el
+hemisferio cerebral derecho. Dado la presencia de áreas hipodensas en su espesor, podría corresponder a resangrado
+agudo de un hematoma subdural antiguo. Para mayor caracterización estudiar con RM.
+Hematoma subdural frontal izquierdo crónico.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

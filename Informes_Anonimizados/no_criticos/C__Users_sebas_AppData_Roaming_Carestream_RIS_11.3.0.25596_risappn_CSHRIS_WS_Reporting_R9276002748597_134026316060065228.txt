@@ -1,0 +1,22 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Examen: Mamografía Bilateral
+   
+   
+Se realiza mamografía por control preventivo.
+No se cuenta con estudios previos para comparar.
+Piel y pezones grosor normal. 
+Tejido celular subcutáneo y graso retromamario libres. 
+Mamas constituidas por opaciades fibroglandulares dispersas   observando mayor confluencia en 
+zonas retroareolares. 
+No se identifican imágenes nodulares dominantes como tampoco microcalcificaciones patológicas ni 
+otros signos sugerentes de  malignidad.
+Cuerpos mamarios simétricos.
+Presenta calcificaciones benignas bilaterales.
+Impresión diagnóstica:
+Mamografía sin signos sugerentes malignidad. 
+Birads 2. ACR B.
+Se sugiere control anual con mamografía.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

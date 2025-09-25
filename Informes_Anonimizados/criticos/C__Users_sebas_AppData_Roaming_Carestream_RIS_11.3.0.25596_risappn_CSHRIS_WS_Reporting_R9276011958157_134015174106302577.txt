@@ -1,0 +1,23 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+Fecha informe
+:  [FECHA_ANONIMIZADA]
+:  [FECHA_ANONIMIZADA] 15:28:45
+Ecotomografía Mamaria
+Se analizan imágenes obtenidas por TM 
+Hallazgos :
+Piel y tejido celular subcutáneo sin alteraciones.
+Glándulas mamarias de estructura normal, con imágenes quísticas bilaterales que miden hasta 8 mm.
+En la mama derecha hora 12-1 se observa una imagen nodular sólida de contorno mal delimitado, heterogénea que
+mide 12 x 10 mm, que está ubicada a 6 cm de pezón.
+Sin otros hallazgos a destacar.
+Conclusión:
+Quistes bilaterales.
+Nódulo sólido en la mama derecha de aspecto sospechoso, que requiere confirmación diagnóstica con biopsia
+percutánea bajo Ultrasonido, y que se correlaciona con microcalcificaciones Mamográficas en examen realizado en otro
+centro.
+Birads 4 b.-
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

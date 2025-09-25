@@ -1,0 +1,52 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Hígado de tamaño normal. Nódulo hipodenso, con leve realce con contraste en el segmento 4, de 11 mm. No se
+reconocen otras lesiones focales hepáticas.
+Vesícula no se visualiza. Clips quirúrgicos en el lecho.
+Leve ectasia de vía biliar intra y extrahepática, la que mide 13 mm en el conducto hepático común. El contenido de la vía
+biliar presenta densidad homogénea sin evidencias de calcificaciones.
+En la zona caudal de la cabeza pancreática, con extensión a la pared duodenal de la tercera porción, se observa masa de
+50 x 27 mm, mostrando menor realce del parénquima pancreático. No infiltra los vasos mesentéricos superiores y no
+contacta la unión porto mesentérica. No hay infiltración de otras estructuras adyacentes.
+En los restantes segmentos pancreáticos no se observan nódulos ni realce patológico.
+Bazo de tamaño normal. Bazo accesorio adyacente al polo inferior esplénico de 13 mm.
+Glándulas suprarrenales de morfología normal no reconociendo nódulos.
+Riñones de tamaño y forma normales. Parénquima de espesor conservado. Nódulo hipodenso en el polo inferior izquierdo
+de 7 mm. No hay ectasia pielocaliciaria ni litiasis en los senos renales.
+Aorta y grandes vasos de diámetros normales.
+Pequeñas adenopatías en región aortocava, la mayor adyacente a la tercera porción del duodeno, de 13 x 7 mm.
+Pequeñas adenopatías mesentéricas centrales, la mayor adyacente a la lesión pancreatoduodenal, de 13 x 10 mm.
+No hay adenopatías pelvianas ni inguinales.
+Estómago sin engrosamiento parietal. Se observan dos burbujas de gas submucosas en el fondo, cercanas a la unión
+gastroesofágica.
+Presencia de gas adyacente a la unión gastroesofágica y la pared posterior del fondo gástrico, que se extiende hacia
+caudal, adyacente a la crura diafragmática derecha y la glándula suprarrenal izquierda. No hay colecciones líquidas
+perigástricas.
+No se visualiza líquido libre ni colecciones peritoneales.
+Asas intestinales sin engrosamiento parietal.
+Apéndice vermiforme retrocecal ascendente, sin signos inflamatorios y de 4 mm de diámetro.
+Vejiga sin engrosamiento parietal. Útero no hay en anteflexión sin nódulos. No hay lesiones anexiales.
+Planos musculares conservados sin imágenes de hernias.
+Pequeños nódulos pulmonares en las bases pulmonares de hasta 5 mm.
+No se observan lesiones óseas destructivas o escleróticas sospechosas. Alteraciones degenerativas de columna lumbar
+caracterizado por discopatías leves, leves osteofitos marginales y cambios artrósicos facetarios.
+Impresión diagnóstica:
+Antecedentes de tumor duodenal en estudio.
+Masa pancreatoduodenal, que compromete la cabeza pancreática y la tercera porción del duodeno. Impresiona de origen
+pancreático. No infiltra vasos mesentéricos superiores, unión porto-espleno-mesentérica ni otras estructuras adyacentes.
+Pequeñas adenopatías en región aortocava y mesentéricas centrales indeterminadas.
+Pequeños nódulos pulmonares en ambas bases.
+Burbuja de gas submucoso en la pared gástricas del fondo sugerente de perforación, asociado a neumo perigástrico ,
+probablemente neumoperitoneo contenido y leve componente retroperitoneal.
+Nódulo hepático sospechoso en segmento 4.
+Colecistectomizada.
+Leve ectasia de vía biliar intra y extrahepática probablemente secundaria a colecistectomía.
+                  *El presente resultado debe correlacionarse con el cuadro clinico y ser evaluado por medico tratante*
+
+--- Fin de Página ---
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

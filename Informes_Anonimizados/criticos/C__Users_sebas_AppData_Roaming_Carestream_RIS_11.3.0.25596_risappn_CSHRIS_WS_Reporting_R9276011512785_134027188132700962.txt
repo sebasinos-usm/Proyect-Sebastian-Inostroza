@@ -1,0 +1,23 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Ecotomografía Mamaria
+Paciente referida por telorragia y mastalgia derecha
+Cuento con imágenes de mamografía de [FECHA_ANONIMIZADA], sin informe donde se aprecian microcalcificaciones sospechosas en
+cuadrante superior externo de mama derecha.
+No se cuenta con estudio previo para comparar.
+Hallazgos:
+Ambas mamas presentan tejido de ecoestructura homogénea fibroglandular.
+No identifico nódulos sólidos sospechosos  en el parénquima mamario.
+Ectasia ductal en cuadrante superior externo de mama derecha desde retroareola hasta plano posterior, sin evidenciarse
+clara traducción ecográfica de las microcalcificaciones.
+Linfonodos con perdida de ecoestructura y otros con aumento de espesor cortical en nivel I de axila derecha.
+Axila izquierda libre de adenopatías.
+Impresión diagnóstica:
+Adenopatias en axila derecha, nivel I.
+BI-RADS 4.
+Se sugiere correlación histológica de hallazgos mamográficos y ecográficos.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

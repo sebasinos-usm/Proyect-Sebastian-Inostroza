@@ -1,0 +1,14 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Ecotomografía Pleural bilateral
+Se ha realizado barrido ecográfico con transductor lineal en región pleural bilateral, visualizando derrame pleural
+izquierdo y derecho, no organizado con un despegamiento anteroposterior del lado izquierdo de 14 mm y un volumen
+aproximado de 100 cc., el lado derecho, presenta un despegamiento anteroposterior de 10 mm y un volumen
+aproximado de 83 cc.
+Impresión diagnóstica:
+Derrame pleural bilateral, no organizado a  predominio izquierdo.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

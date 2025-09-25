@@ -1,0 +1,24 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Cerebro sin Contraste
+Antecedentes clínicos: Compromiso de conciencia.
+Hallazgos:
+Examen realizado sin uso de contraste intravenoso.
+No hay desviaciones de las estructuras de la línea media.
+Sistema ventricular y espacios subaracnoideos de configuración normal, levemente amplio por cambios involutivos
+encefálicos.
+Hipodensidad de la sustancia blanca supratentorial periventricular, sugerente de cambios microangiopáticos.
+Defecto parenquimatoso hipodenso subcortical frontoparietal derecho, probablemente secuelar isquémico antiguo.
+No se reconocen otras alteraciones densitométricas en el parénquima encefálico.
+No se identifican colecciones extraaxiales ni signos sugerentes de HSA.
+Ateromatosis cálcica de ambos sifones carotídeos y segmentos V4 arterias vertebrales.
+Impresión:
+Examen sin hallazgos patológicos de aspecto agudo mediante esta técnica. Para mayor caracterización estudiar con RM.
+Hallazgos sugerentes de infarto antiguo en sustancia blanca frontoparietal derecha.
+Signos de microangiopatía de la sustancia blanca supratentorial periventricular.
+Ateromatosis cálcica de arterias intracraneanas según lo descrito.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

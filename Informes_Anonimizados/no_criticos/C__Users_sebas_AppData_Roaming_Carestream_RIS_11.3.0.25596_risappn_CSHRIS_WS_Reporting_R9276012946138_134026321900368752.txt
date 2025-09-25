@@ -1,0 +1,16 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+RX Tórax Portátil
+Se realiza evaluación comparativa con RX previa del día 6 de septiembre recién pasado.
+Campos pulmonares de volúmenes conservados, sin evidencia de infiltrados ni condensaciones. No se observan nódulos ni
+masas.
+No se observa derrame pleural ni neumotórax.
+Aorta levemente elongada.
+Hilios levemente aumentados de amplitud de aspecto congestivo.
+Corazón de tamaño conservado.
+Restantes estructuras evaluables, sin alteraciones.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

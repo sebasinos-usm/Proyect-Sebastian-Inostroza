@@ -1,0 +1,38 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+RM de Hombro Derecho sin Contraste
+Antecedentes de cirugía del manguito rotador en 2014. En evaluación por luxación glenohumeral reciente.
+Acromion tipo II. No presenta inclinación anterior ni lateral. Articulación acromioclavicular con moderados cambios
+degenerativos asociado a edema óseo subcondral acromial y clavicular, leve derrame laminar e hipertrofia capsular.
+Bursa subacromial subdeltoidea moderadamente engrosada con líquido en su interior, compatible con bursitis.
+Tendón supraespinoso presenta ruptura de espesor y ancho completo que se extiende desde anterior a posterior, para
+alcanzar el tendón conjunto con el infraespinoso. Cabo proximal se ubica a 20 mm de su inserción humeral.
+Tendón infraespinoso presenta ruptura de espesor parcial de cara bursal que se extiende proximalmente como lesión
+intrasustancia. Mide 27 x 4 mm en los ejes longitudinal y transverso (ancho) del tendón. Tendinosis en el resto del tendón.
+Tendón subescapular marcadamente engrosado e hiperintenso de aspecto tendinósico y/o lesión intrasustancia,
+especialmente en fibras distales superiores. Tendón redondo menor, sin alteraciones.
+Tendón de la porción larga del bíceps con tenorrafia, observando anclaje de fijación en metáfisis proximal del húmero. 
+Labrum anterior presenta ruptura a nivel de la base, con desplazamiento medial del fragmento labral, compatible con
+lesión de Bankart cartilaginosa. Impresiona asociarse a lesión del reborde labral (Bankart óseo), lo cual se sugiere valorar
+por tomografía computada. Resto de cavidad glenoidea y labrum posterior indemnes.
+Cabeza humeral muestra en sector posterosuperior leve hundimiento, compatible con lesión de Hill-Sachs secundario a
+luxación anterior. Cambios degenerativos en tuberosidad mayor y menor secundario a tendinopatía del manguito rotador.
+Moderado derrame articular. Probable lesión capsular en receso axilar.
+Músculo subescapular con edema mío fascial y perifascial.
+Músculo supraespinoso con moderada atrofia e infiltración grasa grado II. Restantes masas musculares de características
+conservadas.
+Edema en espacio cuadrilátero, sin lesiones compresivas sobre estructuras neurales.
+Impresión diagnóstica:
+Ruptura del labrum antero inferior ( Bankart cartilaginoso), con probable lesión ósea asociada (Bankart óseo). Contusión
+de Hill-Sachs en cabeza humeral. Hallazgos compatible con luxación antero inferior reducida.
+Tendón supraespinoso con ruptura de espesor y ancho completo asociado a retracción del cabo proximal.
+Tendón infraespinoso con ruptura de espesor parcial de cara bursal, extendiéndose proximalmente como lesión
+intrasustancia. Tendón subescapular con marcada tendinopatía y/o lesión intrasustancia.
+Tendón de la porción larga del bíceps con tenorrafia antigua in situ.
+Bursitis subacromial subdeltoidea moderada. Moderado derrame articular. Probable lesión capsular en receso axilar.
+Osteoartritis acromioclavicular moderada. Cambios degenerativos en tuberosidad mayor y menor.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

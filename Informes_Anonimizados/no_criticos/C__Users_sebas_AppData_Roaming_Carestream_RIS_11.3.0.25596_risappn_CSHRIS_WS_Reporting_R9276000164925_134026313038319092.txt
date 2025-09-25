@@ -1,0 +1,29 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+ 9Años
+[ID_ANONIMIZADO]
+ 00107122-94
+ [FECHA_ANONIMIZADA]
+ [FECHA_ANONIMIZADA]
+ 
+     Eco Renal Infantil -
+   
+Hallazgos: 
+Ambos riñones se observan de posición, forma y tamaño normal.
+El riñón derecho mide    8,1 x 4,3     cm.
+El riñón izquierdo mide    8,4 x 4,4    cm.
+La estructura y el grosor del parénquima renal son normales.
+No hay evidencias de un proceso expansivo parenquimatoso. 
+Senos renales libres.
+Los sistemas pielocaliciarios son de calibre normal.
+No se observa imágenes sospechosas de corresponder a cálculos renales.
+Espacios perirrenales libres.
+No hay masas suprarrenales.
+IMPRESIÓN DIAGNÓSTICA  :
+Examen sin hallazgos patológicos
+ 
+  
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

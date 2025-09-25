@@ -1,0 +1,31 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Hígado de tamaño y forma normal. Pequeñas lesiones hipodensas hepáticas bilobares de hasta 5 mm de aspecto quístico. 
+Vesícula distendida, de pared fina.
+Vía biliar de calibre normal.
+Páncreas, bazo y glándulas suprarrenales sin alteraciones.
+Riñones de tamaño y espesor cortical normal. Adecuado comportamiento con el medio de contraste. No hay hidronefrosis
+ni nefrolitiasis.
+Uréteres de calibres y trayectos normales.
+Vejiga distendida, de pared fina, de contenido homogéneo hipodenso.
+Próstata aumentada de tamaño, alcanzando hasta 50 mm de diámetro transverso. 
+Asas intestinales de calibres normales, sin engrosamientos parietales evidentes. Estómago colapsado, no evaluable. 
+Escaso líquido libre pelviano.
+Aorta abdominal de calibre y trayecto conservado, con placas. Vena cava inferior sin alteraciones.
+No se observan adenopatías mesentéricas, retroperitoneales ni pelvianas.
+No se identifican lesiones óseas traumáticas ni destructivas.
+Presencia de trombo en VCI y eje venoso femoral e iliaco izquierdo. 
+En el omento en FII se observa lesión de densidad adiposa, con imagen cálcica asociada, que mide 15 mm.
+Impresión Diagnóstica: 
+Posibles quistes hepáticos. 
+Próstata aumentada de tamaño. 
+Escasa ascitis. 
+Ateromatosis aórtica. 
+Trombosis venosa de extremidad inferior izquierda que se extiende a VCI, ya conocido.
+Nódulo adiposo con calcificación en  omento de la fosa iliaca izquierda.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,37 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis sin Contraste
+HALLAZGOS:
+Artefactos de movimiento degradan la calidad de las imágenes.
+Hígado de tamaño y morfología conservados, no observando lesiones focales en su espesor con esta técnica sin uso de
+medio de contraste.
+Vesícula biliar sobredistendida con algunos focos de contenido hiperdenso sugerentes de litiasis.
+Vía biliar intra y extrahepática de calibres conservados.
+Páncreas, bazo y glándulas suprarrenales de morfología conservada.
+Riñón derecho con parénquima levemente adelgazado. No se reconoce dilatación  pielocaliciaria ni nefrolitiasis derecha.
+Uréter derecho con diámetros conservados, sin litiasis evidentes.
+Riñón izquierdo no identificado.
+Vejiga colapsada con balón de sonda Foley.
+Aorta abdominal de calibres y trayecto conservados. Ateromatosis cálcica aortoilíaca.
+No se reconocen adenopatías de acuerdo a criterios de tamaño a nivel del retroperitoneo lumboaórtico, mesenterio ni en
+la pelvis.
+Sonda de gastrostomía que impresiona bien posicionada.
+Asas intestinales de calibres conservados, sin signos obstructivos. 
+Divertículos en el colon sigmoides sin signos tomográficos de complicación.
+Escaso líquido libre intraperitoneal.
+Neumoperitoneo en moderada cuantía.
+Los planos parietales abdominales y pelvianos se encuentran continuos.
+No se reconocen lesiones óseas traumáticas ni destructivas. Cambios degenerativos severos de la columna lumbar.
+En los segmentos visibles del tórax no se reconoce focos de condensación. Derrame pleural izquierdo de hasta 10 mm.
+IMPRESIÓN DIAGNÓSTICA:
+Neumoperitoneo en moderada cuantía.
+Escaso líquido libre intraperitoneal.
+Sobre distensión de la vesícula biliar, inespecífico.
+Probable colelitiasis. Sugiero ecotomografía abdominal.
+Signos de nefropatía crónica derecha. Monorrena derecha.
+Diverticulosis colónica.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

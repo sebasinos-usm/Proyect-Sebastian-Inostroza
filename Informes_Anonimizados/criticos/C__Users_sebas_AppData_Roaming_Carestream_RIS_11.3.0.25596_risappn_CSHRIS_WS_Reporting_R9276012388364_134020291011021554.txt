@@ -1,0 +1,30 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Cerebro sin Contraste
+Antecedentes: Codigo ACV
+Hallazgos:
+Colección hiperdensa subdural derecha que compromete casi toda la convexidad, con espesor de 8 mm, que determina
+desviación de estructuras de línea media en 4 mm hacia la izquierda. Otra pequeña colección subdural parafalcina frontal
+derecha de 5 mm de espesor.
+Cerebelo y troncoencefálo no evidencian alteraciones en los índices de atenuación.
+Cuarto ventrículo de tamaño normal, ubicado en línea media.
+Cisternas de fosa posterior sin ocupaciones patológicas.
+Cerebro no evidencia alteraciones corticales, observando adecuada representación de núcleos basales. Hipodensidad mal
+definidas en sustancia blanca periventricular, de coronas radiadas y centros semiovales, bilateral, sugerentes de
+fenómenos de leucoaraiosis.
+Sistema ventricular de tamaño normal, levemente asimétrico por efecto de masa.
+Calcificaciones parietales en ambos sifones carotídeos y arterias vertebrales.
+Estudio de estructuras óseas no evidencia lesiones en base de cráneo ni calota.
+Senos paranasales y celdillas mastoideas sin alteraciones.
+Hematoma subgaleal derecho con espesor de hasta 12 mm.
+Impresión diagnóstica:
+Hematomas subdurales agudos a derecha, que determina leve desviación de estructuras de línea media.
+Hematoma subgaleal derecho.
+Hipodensidad mal definidas en sustancia blanca periventricular, de coronas radiadas y centros semiovales, sugerentes de
+fenómenos de leucoaraiosis.
+Ateromatosis cálcica carotídea y vertebral bilateral.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

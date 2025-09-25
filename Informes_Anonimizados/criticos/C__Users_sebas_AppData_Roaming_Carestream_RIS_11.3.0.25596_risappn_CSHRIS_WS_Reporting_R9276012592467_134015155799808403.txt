@@ -1,0 +1,36 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+AngioTC de Tórax
+HALLAZGOS:
+Tráquea y bronquios principales de calibres conservados, permeables.
+Derrame pleural bilateral mayor a la derecha, con espesores  de hasta 50 mm a la derecha y hasta 10 mm a la izquierda.
+No se reconocen neumotórax.
+Prominentes atelectasias basales y posteriores con predominio derecho. 
+En el parénquima pulmonar ventilado No se reconocen focos de condensación ni masas evidentes.
+Corazón de tamaño y configuración conservados. Índice ventricular VD/VI de 1. No se reconoce derrame pericárdico.
+Arteria pulmonar y sus ramas principales de aspecto conservado. Se reconoce adecuado realce del tronco principal de la
+arteria pulmonar, ramas principales y ramas segmentarias, no reconociendo defectos de llene categóricos que sugieran
+tromboembolismo pulmonar actual.
+Aorta torácica con diámetros y trayecto conservados, no observando aneurismas ni disecciones. Vena cava superior y
+troncos vasculares supraaórticos con diámetros habituales. 
+Port-a-Cath pectoral izquierdo con extremo del catéter en la vena cava superior.
+No se reconocen adenopatías de acuerdo a criterios de tamaño en el mediastino, regiones supraclaviculares ni axilares. 
+Planos parietales torácicos continuos.
+No se reconocen lesiones óseas traumáticas ni destructivas.
+En fase venográfica se reconoce trombosis de las venas ilíaca común, ilíaca externa y femoral común izquierdas. La
+trombosis se extiende hasta la vena cava inferior hasta alcanzar el nivel inmediatamente inferior a las venas renales. La
+determinación de los niveles comprometidos por trombosis venosa profunda en la extremidad inferior izquierda se puede
+realizar de mejor manera con ecotomografía Doppler.
+IMPRESIÓN DIAGNÓSTICA:
+Trombosis venosa profunda de las venas cava inferior, ilíaca común , ilíaca externa y femoral común izquierdas.
+Examen sin signos sugerentes de tromboembolismo pulmonar.
+Derrame pleural bilateral mayor a la derecha.
+Prominentes a atelectasias basales y posteriores bilaterales, sin descartar por este examen eventual sobreinfección.
+Fecha addendum:
+[FECHA_ANONIMIZADA] 18:57:35
+Addendum firmado por:
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

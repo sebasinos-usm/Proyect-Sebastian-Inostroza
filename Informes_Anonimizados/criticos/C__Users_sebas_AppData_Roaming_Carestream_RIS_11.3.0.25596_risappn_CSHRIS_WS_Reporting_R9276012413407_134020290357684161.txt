@@ -1,0 +1,22 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Mamografía Bilateral
+Antecedentes de nódulo mamario derecho en tomografía computada de tórax reciente.
+Examen de pesquisa.
+Hallazgos:
+Piel y celular subcutáneo sin alteraciones.
+Tejido glandular presenta patrón de densidades fibroglandulares dispersas.
+En mama derecha, en los cuadrantes externos, periareolar, se observa nódulo parcialmente definido, que en
+ecotomografía concomitante se demuestra que corresponde a lesión sólida polilobulada e hipervascularizada sospechosa
+de neoplasia.
+No se observan otros nódulos o áreas de distorsión.
+No se reconocen cúmulos de microcalcificaciones sospechosas.
+En áreas evaluables de regiones axilares no se observan adenopatías.
+Impresión diagnóstica:
+Nódulo mamario derecho sospechoso de neoplasia. Requiere estudio histológico.
+Birads 5. ACR B.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

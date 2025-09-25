@@ -1,0 +1,24 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Cerebro sin Contraste
+Contenido espontáneamente en el parénquima encefálico; frontales bilaterales, surcos de la convexidad, temporal, que se
+extiende ocupando las cisternas de la fosa posterior.
+Cerebelo y troncoencéfalo sin alteraciones de los índices de atenuación.
+Cuarto ventrículo de amplitud normal, en línea media.
+Adecuada representación de los núcleos de la base. Sistema ventricular supratentorial de amplitud y estructura
+conservada.
+No se observan colecciones ni efectos de masa.
+No se observan lesiones óseas en calota ni base de cráneo.
+No se identifican ocupaciones patológicas en los senos paranasales ni en las celdillas mastoideas.
+Impresión diagnóstica:
+Hallazgos compatibles con hemorragia subaracnoidea supra e infratentorial, según descripción.
+Se sugiere evaluación con angio-TC de encéfalo para determinar la causa aneurismática.
+Fecha addendum:
+[FECHA_ANONIMIZADA] 8:08:16
+Notifico resultado crítico.
+Addendum firmado por:
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

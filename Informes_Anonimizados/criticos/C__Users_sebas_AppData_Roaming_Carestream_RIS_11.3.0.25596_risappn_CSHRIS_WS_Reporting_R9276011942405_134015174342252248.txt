@@ -1,0 +1,21 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Antecedentes clínicos: Dolor abdominal.
+Hallazgos: 
+El ciego se ubica en la FID y de su cara medial emerge el apéndice cecal de trayecto caudal y medial aumentado de calibre
+hasta 11 mm. Sus paredes se encuentran engrosadas e hiperémicas con el contraste endovenoso, de aspecto inflamatorio.
+No se observan cambios inflamatorios periapendiculares significativos. Tampoco colecciones ni perforación.
+Resto de asas intestinales de calibre y realce parietal normales.
+Escasas adenopatías en el mesoileocólico, de aspecto reactivo.
+No hay neumoperitoneo libres. Escasa ascitis pelviana.
+Venas hepáticas, eje venoso porto espleno mesentérico, vena cava inferior y aorta abdominal permeables.
+Hígado, vesícula biliar, vía biliar, páncreas, bazo, glándulas suprarrenales, riñones, vejiga, próstata y vesículas seminales
+sin alteraciones relevantes. No hay hidronefrosis. 
+Impresión:
+Hallazgos sugerentes de apendicitis aguda incipiente.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

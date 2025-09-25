@@ -1,0 +1,41 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+examen: control.
+Descripción del estudio:
+Examen efectuado en un equipo PET/CT Siemens Biograph Truepoint (cristales LSO y TC multicorte de 64 canales).
+Aproximadamente 50 minutos de la inyección intravascular de  mCi de 9.30 FDG se obtuvieron imágenes PET/CT
+simultáneas desde la base del cráneo al tercio superior de los muslos. Estas fueron corregidas por atenuación y
+fusionadas. En el momento previo de inyección del trazador la glicemia fue de 98 mg/dl. Examen realizado con uso de
+medio de contraste yodado intravascular.
+Hallazgos:
+Encéfalo: Se aprecia distribución habitual del radio trazador en el parénquima encefálico visible. No se evidencian focos
+hipermetabólicos patológicos, sin embargo se debe tener presente que dada la intensa captación fisiológica del FDG en la
+corteza cerebral y cerebelar, se pueden enmascarar la presencia de lesiones encefálicas.
+Cabeza y Cuello: tiroides no se observa. En lecho tiroideo derecho persiste lesión hipermetabólica con un SUV max de
+8.45 vs 10.50.
+Existe captación habitual de la glucosa marcada en orofaringe y glándulas salivales. 
+Se observa adenopatía hipermetabólica en grupo III izquierdo de 10 x 8 mm con un SUV max de 19.57 vs 21.80 diferencia
+no significativa y otra en nivel IV derecho de 6 x 5 mm con un SUV max de 8.21 vs 12.50.     
+Tórax: se observa nódulo pulmonar hipermetabólico subpleural cisural del LII de 9 mm con un SUV max de 3.32. Se
+observan otros pequeños nódulos pulmonares hipometabólicos bilaterales de hasta 3 mm.
+No se observan adenopatías hipermetabólicas en regiones supraclaviculares, axilares, mediastino ni en hilios
+pulmonares.   
+Abdomen y Pelvis: Existe distribución habitual de la glucosa marcada en hígado, bazo, glándulas suprarrenales y páncreas.
+En hígado se observa en segmento 5 lesión hipodensa e hipometabólica compatible con quiste simple. Bazo accesorio.
+Vesícula no se observa. Se observa contraste en tracto urinario, vía de eliminación normal de la FDG. El tracto
+gastrointestinal no muestra focos hipermetabólicos patológicos. No se observan adenopatías hipermetabólicas
+mesentéricas, retroperitoneales ni en relación a los vasos ilíacos.   
+Esqueleto y Médula ósea: Esqueleto sin evidencias de focos hipercaptantes.   
+Extremidades: Sin evidencias de focos hipercaptantes.  
+                  *El presente resultado debe correlacionarse con el cuadro clinico y ser evaluado por medico tratante*
+
+--- Fin de Página ---
+Impresión diagnóstica:   
+1.- Antecedente de neoplasia tiroidea recidivada y diseminada.
+2.- Persiste lesión hipermetabólica en el lecho tiroideo derecho compatible con recidiva neoplásica.
+3.- Persisten adenopatías hipermetabólicas cervicales en nivel III izquierdo y IV derecho, compatibles con metástasis.
+4.- Persiste nódulo pulmonar izquierdo hipermetabólica compatible con metástasis.     
+5.- Estudio sin evidencias de nuevos focos hipermetabólicos patológicos.   
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

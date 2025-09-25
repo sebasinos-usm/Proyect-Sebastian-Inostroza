@@ -1,0 +1,28 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC Columna Cervical Completa sin Contraste
+Cuerpos vertebrales cervicales de altura normal, bien alineados en plano sagital y coronal.
+No se observan signos de lesión ósea traumática o destructiva.
+Disminución de amplitud del espacio discal C5-C6 asociado a osteofitos marginales y protrusión discoosteofítica
+posterocentral no conflictiva que se asocia a calcificación en el aspecto posterior del cuerpo vertebral de C6, secuelar.
+Restantes discos intervertebrales de amplitud normal, sin evidencias de protrusión ó de HNP.
+Disminución de amplitud de articulaciones uncovertebrales C5-C6 asociado a incipientes proliferaciones óseas
+marginales.
+Canal vertebral de diámetros conservados.
+Forámenes neurales de amplitud normal.
+Articulaciones facetarias de amplitud normal y márgenes bien definidos.
+Articulaciones atlantooccipitales de amplitud normal, con adecuada relación de sus superficies articulares.
+Relación atlanto-axoidea conservada. Cambios degenerativos de articulación atlanto odontoidea.
+Láminas y apófisis espinosas sin alteraciones.
+No se observan lesiones de partes blandas perivertebrales.
+No se reconoce aumento de volumen de partes blandas prevertebrales.
+Impresión diagnóstica:
+Examen sin evidencias de lesión traumática de columna cervical.
+Discopatía degenerativa C5-C6, asociado a protrusión discal disco osteofítica posterocentral no conflictiva.
+Incipientes cambios degenerativos de articulaciones uncovertebrales C5-C6. 
+Cambios degenerativos de articulación atlanto odontoidea.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

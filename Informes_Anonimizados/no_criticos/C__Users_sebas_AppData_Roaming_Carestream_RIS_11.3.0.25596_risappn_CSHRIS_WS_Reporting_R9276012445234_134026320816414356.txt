@@ -1,0 +1,16 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Rx Ambas Rodillas AP-LAT-AX Rotulas
+Desmineralización ósea.
+Estructuras óseas de morfología normal. Os Fabela bilateral.
+No se observan lesiones óseas traumáticas o destructivas. 
+Articulaciones femorotibiales y patelofemoral a izquierda de amplitud conservada y de superficie ósea irregular.
+Disminución de amplitud de articulación patelofemoral derecha.
+Articulaciones femorotibial y patelofemoral de amplitud conservada y superficie ósea regular.
+Rotulas tipo II.
+No se observa aumento de volumen de las partes blandas yuxtaarticulares.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

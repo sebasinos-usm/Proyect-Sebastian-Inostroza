@@ -1,0 +1,19 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Ecotomografía Renal y Pelviana Femenina
+Cursando ITU, en tratamiento.
+Ambos riñones se observan en adecuada ubicación, son de forma y tamaño normales.
+Ambos riñones presentan adecuada delimitación corticomedular y buen espesor cortical.
+Se visualiza discreta ectasia calicial derecha.
+No se observan imágenes litiásicas.
+No se observan signos de dilatación pielocalicial a izquierda.
+No se reconocen colecciones perirrenales.
+Vejiga distendida, de pared fina y contenido anecogénico homogéneo.
+Impresión ecográfica.
+Leve ectasia calicial derecha, que puede encontrarse en relación a proceso inflamatorio actual.
+Resto del examen sin hallazgos patológicos.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

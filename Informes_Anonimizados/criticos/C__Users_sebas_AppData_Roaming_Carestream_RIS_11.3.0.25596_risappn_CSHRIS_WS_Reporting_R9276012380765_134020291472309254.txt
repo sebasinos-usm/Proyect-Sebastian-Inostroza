@@ -1,0 +1,26 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Hallazgos:
+En el estudio de estructuras vasculares se observa signos de disección de la arteria mesentérica superior con lumen
+trombosado y destacando el origen del lumen verdadero de las ramas cólicas. Se asocia a marcados cambios inflamatorios
+de tejido adiposo adyacente.
+Restante vasos del abdomen y de lisis de calibre y trayectos normales, permeables.
+Hígado, vesícula biliar, vía biliar, páncreas, bazo, glándulas suprarrenales, riñones, uréteres y vejiga de carácter
+tomográficos normales.
+Eje venoso portal espleno mesentérico, venas hepáticas y vena cava inferior, permeable.
+Asas de intestino delgado y de colon de calibre y distribución normales. Divertículos en colon descendente y sigma, sin
+signos inflamatorios. Apéndice en rasgo no patológico. No líquido libre la cavidad peritoneal.
+Útero no visualizado. No se observan masas en áreas anexiales.
+Lesión trabeculada en el cuerpo vertebral de L3, que muestra el contexto de hemangioma. No se reconocen otra lesiones
+óseas traumáticas o destructivas.
+Bases pulmonares sin nódulos ni condensaciones. 
+Impresión Diagnóstica:
+Hallazgos sugerentes de disección de la arteria mesentérica superior.
+Divertículos colónicos, sin signos inflamatorios.
+Lesión trabeculada en el cuerpo de L3 sugerente de hemangioma.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

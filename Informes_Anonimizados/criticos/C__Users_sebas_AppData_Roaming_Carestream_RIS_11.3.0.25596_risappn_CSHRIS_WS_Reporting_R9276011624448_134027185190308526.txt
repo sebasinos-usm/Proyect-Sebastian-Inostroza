@@ -1,0 +1,20 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Mamografía Bilateral
+Examen de control.
+Hallazgos:
+Piel y celular subcutáneo sin alteraciones.
+Tejido glandular presentan patrón de densidades fibroglandulares dispersas, no mostrando cambios significativos
+respecto de examen del [FECHA_ANONIMIZADA].
+Se agrega cúmulo de microcalcificaciones groseras heterogéneas en el tercio anterior del cuadrante superior externo
+izquierdo.
+No se han agregado nódulos ni lesiones espiculadas.
+En áreas evaluables de regiones axilares no se observan adenopatías.
+Impresión diagnóstica:
+Se agrega cúmulo de microcalcificaciones sospechosas en el CSE de mama izquierda. Requieren estudio histológico.
+Birads 4. ACR B.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

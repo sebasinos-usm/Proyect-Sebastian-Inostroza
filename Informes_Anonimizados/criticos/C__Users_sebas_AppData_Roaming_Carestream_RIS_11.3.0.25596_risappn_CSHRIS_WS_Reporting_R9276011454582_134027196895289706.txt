@@ -1,0 +1,52 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+AngioTC de Tórax
+Se logra adecuada opacificación de arteria pulmonar y sus ramas principales, así como también ramas lobares,
+segmentarias y algunas subsegmentarias las cuales presentan diámetros normales.
+Se visualiza en el lumen de la rama derecha de la arteria pulmonar contenido hipodenso que se extiende hacia la arteria
+interlobar y la rama para lóbulo inferior ipsilateral, compatible con trombosis. Otras imágenes de trombosis se visualizan
+en ramas subsegmentarias en segmento anterior de lóbulo superior derecho y basal posterior de ambos lóbulos
+inferiores. No se visualizan otras imágenes de trombosis. El tronco principal de la arteria pulmonar mide 27 mm.
+Corazón presenta aumento de tamaño de ambas aurículas. No es posible evaluar en relación VD/VI dado presencia de
+artefactos de movimiento cardíaco. No se observa derrame pericárdico.
+Regurgitación de medio de contraste hacia venas suprahepáticas y cava inferior.
+Aorta de diámetros normales. Ateromatosis aorto-coronaria.
+Tráquea y bronquios principales de calibres normales, permeables. Escasas secreciones en lumen traqueal.
+En los pulmones no se identifican masas ni de este consolidación. Nódulo pulmonar de 6 mm en el segmento apical del
+lóbulo superior derecho. Bandas parenquimatosas atelectásicas en bases pulmonares. Extensas áreas con densidad en
+vidrio esmerilado en ambos pulmones.
+Leve derrame pleural derecho y moderado derrame pleural izquierdo de distribución posterior. Calcificaciones pleurales
+bilaterales, probablemente secuelares.
+Tiroides sin nódulos. Esófago con leve engrosamiento parietal concéntrico en su tercio distal. Pequeña hernia hiatal por
+deslizamiento.
+No se identifican adenopatías mediastínicas, hiliares ni axilares.
+Planos parietales conservados. 
+No se visualizan lesiones óseas traumáticas o destructivas.
+Insuficiente opacificación de estructuras venosas pelvianas y femoropoplíteas, no pudiendo evaluar posibilidad de
+trombosis. Hallazgo incidental de una oclusión de la arteria poplítea izquierda por contenido hipodenso de aspecto
+trombótico. En segmentos visibles del abdomen se observa en el polo superior del riñón izquierdo una lesión sólida
+exofítica con componente necrótico, de 43 mm de de mayor. Colelitiasis.
+Impresión diagnóstica:
+Hallazgos  compatibles con un tromboembolismo pulmonar bilateral, con trombo de mayor tamaño en rama derecha de
+la arteria pulmonar.
+Aumento de tamaño de ambas aurículas cardíacas. Regurgitación de medio de contraste hacia venas suprahepáticas y
+cava inferior, pudiendo corresponder a sobrecarga de cavidades derechas.
+Nódulo pulmonar inespecífico en lóbulo superior derecho. 
+Opacidades en vidrio esmerilado pulmonares bilaterales, de aspecto congestivo o inflamatorio.
+Derrame pleural bilateral, mayor a izquierda.
+Pequeña hernia hiatal por deslizamiento. Leve engrosamiento parietal del esófago distal, pudiendo ser de etiología
+inflamatoria.
+Insuficiente opacificación de estructuras venosas pelvianas y femoropoplíteas, no pudiendo evaluar posibilidad de
+trombosis. Hallazgo incidental de oclusión trombótica de arteria poplítea izquierda. Se recomienda estudio con Angiotac
+de extremidades inferiores.
+Masa en polo superior del riñón izquierdo, con aspecto de lesión tumoral primaria. Se recomienda completar su estudio
+con TC de abdomen y pelvis con contraste.
+Colelitiasis.
+                  *El presente resultado debe correlacionarse con el cuadro clinico y ser evaluado por medico tratante*
+
+--- Fin de Página ---
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

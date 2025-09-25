@@ -1,0 +1,23 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Mamografía Unilateral Derecha
+más magnificaciones.
+Paciente referida para evaluación por microcalcificaciones mamarias derechas, pesquisadas en mamografía reciente, de
+cuyo informe se dispone.
+Se habría realizado ecotomografía reciente, que no demostró hallazgos de sospecha.
+Mama derecha presenta patrón de densidades fibroglandulares heterogéneamente densas.
+Se observa microcalcificaciones agrupadas en cuadrante inferointerno, en tercio medio, que se evalúan con proyecciones
+magnificadas, donde se observan de características amorfas, con diámetro mayor aproximado de 10 mm.
+No se observa otros grupos de microcalcificaciones.
+No se reconoce nódulos dominantes ni áreas de distorsión arquitectural del parénquima.
+Región axilar baja derecha libre.
+Impresión mamográfica.
+Microcalcificaciones agrupadas de mama derecha, de aspecto indeterminado, que se sugiere como medida de precaución
+evaluar con estudio histológico por biopsia estereotáxica digital.
+Birads 4.
+ACR C.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

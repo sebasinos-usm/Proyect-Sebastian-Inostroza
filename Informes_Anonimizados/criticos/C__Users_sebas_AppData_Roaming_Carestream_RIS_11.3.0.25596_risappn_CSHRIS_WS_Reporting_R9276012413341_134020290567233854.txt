@@ -1,0 +1,14 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Eco Doppler Venoso EESS Derecha
+Se ha realizado barrido ecográfico Doppler a nivel del sistema venoso del MSD, sobre áreas de bultoma palpable,
+visualizando trombosis venosa a nivel de venas  cefálica del brazo en casi toda su extensión. 
+La vena subclavia, vena axilar, venas braquial, vena radial y cubital, vena basílica de brazo y antebrazo, vena cefálica
+del antebrazo, permeable sin signos de trombosis.
+Impresión diagnóstica:
+Trombosis venosa a nivel de vena cefálica del brazo.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

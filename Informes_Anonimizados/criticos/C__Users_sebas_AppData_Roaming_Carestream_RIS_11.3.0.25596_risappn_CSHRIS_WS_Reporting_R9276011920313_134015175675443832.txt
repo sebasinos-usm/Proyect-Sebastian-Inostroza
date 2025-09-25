@@ -1,0 +1,37 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis sin Contraste
+Hígado de tamaño y estructura normal.
+Vesícula no visualizada, con clips quirúrgicos en el lecho.
+Vía biliar intra ni extra hepática no dilatada.
+Páncreas, bazo y glándulas suprarrenales de características conservadas.
+Riñones de tamaño y espesor cortical normal. No se identifican nefrolitiasis ni hidronefrosis. Uréteres de calibre y trayecto
+normal. 
+Vejiga distendida, de pared fina, con contenido homogéneo e hipodenso en el lumen.
+Útero y región anexial izquierda de características conservadas.
+En la región anexial derecha se observa imagen redondeada heterogénea, con densidades que impresiona corresponder a
+tejido graso y a densidad de partes blandas, de margen bien definido, con algunas calcificaciones parietales, mide 43 x 49
+x 35 mm.
+En tercio proximal del colon sigmoides, inmediatamente después de transición con el colon descendente se observa
+divertículo de 8 x 8 mm, asociado a aumento de la densidad la grasa pericolónica y peridiverticular. No hay
+neumoperitoneo ni colecciones asociadas.
+Otros divertículos colónicos en la porción ascendente, sin signos de complicación. Restantes asas de colon sin hallazgos a
+destacar. Cavidad gástrica distendida y asas de intestino delgado sin hallazgos a destacar por esta técnica.
+Aorta abdominal de calibre y trayecto conservado. No hay líquido libre. No hay nódulos peritoneales. Plano parietales
+continuos. Masas musculares de densidad simétrica.
+No se observan lesiones óseas.
+Bases pulmonares sin hallazgos a destacar.
+Impresión diagnóstica:
+Hallazgos sugerentes diverticulitis aguda en fosa ilíaca izquierda, en evolución, sin signos de complicación.
+Otros divertículos en el colon descendente, no complicados.
+Lesión dependiente del anexo derecho, heterogénea, que por sus características puede corresponder a teratoma. Se
+sugiere evaluación con ecotomografía transvaginal como primera aproximación.
+Fecha addendum:
+[FECHA_ANONIMIZADA] 18:54:22
+Se notifica a paciente de resultado.
+Addendum firmado por:
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

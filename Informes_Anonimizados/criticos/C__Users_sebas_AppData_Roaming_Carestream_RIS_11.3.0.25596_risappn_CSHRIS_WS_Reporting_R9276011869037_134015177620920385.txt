@@ -1,0 +1,64 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Tórax, Abdomen y Pelvis con Contraste
+Tráquea y bronquios principales de calibres normales, permeables.
+Múltiples nódulos pulmonares bilaterales, varios de ellos de distribución subpleural y yuxtacisural, el mayor ubicado en el
+segmento basal anteromedial del lóbulo inferior izquierdo de 18 mm.
+Engrosamiento difuso de septos interlobulillares bilaterales, comprometiendo la totalidad de los lóbulos.
+Áreas de atelectasia subsegmentaria en el aspecto posterior de ambos pulmones.
+Moderado derrame pleural bilateral, mayor a derecha, lo que se asocia a múltiples áreas de engrosamiento pleural
+irregular, de hasta 7 mm de espesor.
+Esófago sin engrosamiento parietal. Pequeña hernia hiatal por deslizamiento.
+Múltiples adenopatías en mediastino (en grupos anterior, subaórtico, paratraqueales y subcarinal), hiliares bilaterales y
+epifrénicas anteriores bilaterales, de hasta 19 x 13 mm. No se identifican adenopatías axilares.
+Corazón de tamaño normal, con mínimo derrame pericárdico laminar.
+Aorta, troncos arteriales supraaórticos y vena cava superior sin alteraciones.
+Tronco principal de la arteria pulmonar de diámetro normal, midiendo 25 mm. Se observa en el lumen de algunas ramas
+subsegmentarias del lóbulo inferior derecho pequeños defectos de llene hipodensos, con aspecto de focos de trombosis.
+Hígado de tamaño normal, con múltiples nódulos y masas bilobares de comportamiento hipovascular, la mayor en el
+segmento 4 de 99 mm.
+La lesión de mayor tamaño ubicada en el segmento 4 determina compresión de las ramas derecha e izquierda de la vena
+porta, sin imágenes sospechosas de trombosis. También determina compresión de la vía biliar intrahepática central, con
+dilatación de ésta hacia su periferia.
+Vesícula parcialmente distendida, sin alteraciones. Vía biliar extrahepática de aspecto normal.
+Nódulos suprarrenales bilaterales, el mayor a izquierda de 22 mm y a derecha de 18 mm. Bazo y páncreas sin alteraciones.
+Múltiples pequeños nódulos retroperitoneales, de mayor número y tamaño a izquierda, el mayor adyacente al tercio
+medio del riñón midiendo 9 mm.
+Riñones de forma y tamaño normales. Parénquimas de espesor normal. Quistes corticales simples bilaterales, el mayor a
+derecha de 11 mm. no se observa dilatación pielocaliciaria ni ureteral a derecha. Leve ectasia pielocaliciaria y ureteral
+izquierda, asociada a una litiasis ubicada en la unión urétero vesical ipsilateral de 9 x 5 mm, con densidad máxima de 1203
+UH. 
+Vejiga en repleción parcial, con un nódulo parietal a derecha de 11 x 7 mm. Próstata aumentada de tamaño. Vesículas
+seminales simétricas.
+Estómago colapsado, de paredes no evaluables. Restantes asas de intestino delgado y grueso sin dilatación ni
+engrosamiento parietal.
+Leve ascitis perihepática, periesplénica, gotiera parietocólica derecha y en excavación pélvica. Se acompaña de múltiples
+nódulos peritoneales, comprometiendo predominantemente ambas regiones subfrénicas, omento mayor, gotieras
+parietocólicas y excavación pélvica, la de mayor tamaño en este último nivel midiendo hasta 28 mm.
+Linfonodo prominente en región portocava de 21 x 8 mm, inespecífico. No se visualizan adenopatías retroperitoneales,
+mesentéricas, pélvicas o inguinales.
+Aorta abdominal y sus ramas principales de calibres normales. Leve ateromatosis aortoilíaca.
+Múltiples nódulos subcutáneos que comprometen tórax, abdomen y pelvis, de mayor ubicado en flanco izquierdo de 13
+mm.
+Múltiples lesiones blásticas en esqueleto, comprometiendo vértebras L1, L2, L4, L5 y sacro, manubrio esternal, parrilla
+costal bilateral, huesos ilíacos y fémur proximal derecho. Cuerpos vertebrales de altura normal.
+Impresión diagnóstica:
+                  *El presente resultado debe correlacionarse con el cuadro clinico y ser evaluado por medico tratante*
+
+--- Fin de Página ---
+Antecedentes de colangiocarcinoma.
+Lesiones focales hepáticas bilobares de aspecto tumoral, que corresponden a compromiso por enfermedad de base.
+Múltiples lesiones de aspecto secundario suprarrenales bilaterales, peritoneales, retroperitoneales, nodales
+supradiafragmáticas, pulmonares bilaterales, pleurales, subcutáneas y óseas (en esqueleto axial y apendicular).
+Engrosamiento difuso de septos interlobulillares pulmonares bilaterales, pudiendo corresponder a compromiso
+congestivo o a manifestación de linfangitis carcinomatosa.
+Nódulo en pared lateral derecha de la vejiga, que en el contexto clínico puede corresponder a una lesión secundaria.
+Pequeños defectos hipodensos en ramas subsegmentarias del lóbulo inferior del pulmón derecho, con aspecto de
+trombosis.
+Moderado derrame pleural bilateral. Leve ascitis.
+Litiasis en unión urétero vesical izquierda, asociada a mínima ectasia de sistema excretor del riñón izquierdo.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

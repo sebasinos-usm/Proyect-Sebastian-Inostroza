@@ -1,0 +1,41 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Tórax con Contraste
+Antecedentes clínicos:
+Neoplasia vulvar.
+Hallazgos:
+No hay derrame pleural ni neumotórax.
+Pulmones de volumen y arquitectura parenquimatosa normal.
+No se observan focos de condensación, masas ni nódulos pulmonares sospechosos. Escasos nódulos calcificados de hasta
+3 mm.
+Incipientes opacidades reticulares subpleurales de aspecto fibrótico en el segmento anteromedial del lóbulo inferior
+izquierdo y segmento basal posterior del lóbulo inferior derecho, este último adyacente a osteofitos de la columna dorsal.
+Tráquea y bronquios principales de calibre conservado.
+Bronquiectasias arrosariadas en el segmento medial del lóbulo medio y língula inferior, asociada a secreciones y leves
+cambios inflamatorios.
+Corazón de tamaño y configuración normal. No hay derrame pericárdico significativo.
+Escasas placas de ateroma en la arteria coronaria izquierda.
+Dilatación de la arteria pulmonar central, con un eje transverso aproximado de 36 mm. Hacia distal sus ramas impresionan
+permeables en este estudio.
+Aorta torácica de calibre conservado, permeable. Múltiples placas de ateroma blando y calcificado en la aorta torácica y
+porción proximal de las arterias supraaórticas.
+Trayecto tortuoso de la porción proximal de la arteria subclavia derecha.
+La arteria vertebral izquierda se origina desde el arco aórtico.
+No se reconocen adenopatías mediastínicas, hiliares ni axilares según criterios de tamaño.
+Parte blandas del tórax sin hallazgos patológicos.
+Tiroides de morfología normal.
+Esófago sin engrosamiento focales sospechosos por esta técnica.
+Leve ascenso de la unión gastroesofágia al tórax, sugerente de incipiente hernia hiatal.
+No se identifican lesiones focales óseas, traumáticas ni destructivas mediante esta técnica.
+Moderados cambios degenerativos discales intervertebrales multisegmentarios de la columna dorsal.
+Impresión:
+Neoplasia vulvar en estudio, sin evidencias de diseminación tumoral macroscópica en el tórax.
+Bronquiectasias para el lóbulo medio y língula, con cambios inflamatorios asociados.
+Leve dilatación de la arteria pulmonar principal, como signos de hipertensión pulmonar.
+Ateromatosis aortocoronaria.
+Moderados cambios degenerativos de la columna dorsal.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

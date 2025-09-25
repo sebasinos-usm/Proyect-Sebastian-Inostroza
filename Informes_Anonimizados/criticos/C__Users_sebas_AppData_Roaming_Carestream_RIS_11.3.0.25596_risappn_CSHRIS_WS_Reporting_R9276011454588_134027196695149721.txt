@@ -1,0 +1,49 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Tórax, Abdomen y Pelvis con Contraste
+Tráquea y bronquios principales permeables.
+En los pulmones no se observan masas ni áreas de consolidación. Múltiples pequeños nódulos pulmonares, el mayor en
+lóbulo superior izquierdo de 9 mm. Bandas parenquimatosas atelectásicas bibasales. No hay derrame pleural.
+Esófago sin engrosamiento parietal.
+No se visualizan adenopatías mediastínicas, hiliares ni axilares.
+Corazón de tamaño normal, sin derrame pericárdico.
+Arteria pulmonar de diámetro normal. Trombosis en rama para segmento apicoposterior de lóbulo superior izquierdo y
+para los segmentos basales lateral y posterior del lóbulo inferior derecho.
+Aorta torácica y troncos arteriales supraaórticos de diámetros normales.
+Reservorio de quimioterapia pectoral derecho, conectado a catéter venoso central con extremo en unión atrio cava
+superior.
+Hígado aumentado de tamaño, con múltiples lesiones focales hipodensas bilobares, la mayor en segmento IV de 106 mm.
+vesícula colapsada, sin litiasis. Vía biliar, páncreas, glándula suprarrenal derecha y tubo digestivo sin alteraciones.
+Bazo de tamaño normal, con un foco de menor realce con el contraste en su aspecto superior, compatible con un área de
+infarto.
+Riñones de tamaño normal. Parénquimas de espesor conservado. Focos de ausencia de realce con contraste de
+morfología regular en ambos riñones, compatibles con áreas de infarto. No hay hidroureteronefrosis.
+Vejiga y región útero anexial sin alteraciones.
+Moderada cantidad de líquido libre intraperitoneal. Nódulos peritoneales en omento mayor a nivel de flanco izquierdo, de
+hasta 13 mm.
+Múltiples adenopatías retroperitoneales, de modo ejemplo una intercavo aórtica de 25 mm. No se visualizan adenopatías
+mesentéricas, pelvianas o inguinales.
+Aorta y ramas principales de calibres normales. Trombo en lumen de vena renal izquierda de 18 mm de longitud, sin
+alcanzar a la vena cava inferior. Trombos en venas femorales superficiales.
+Edema subcutáneo difuso. 
+Alteración de densidad del cuerpo vertebral L2, con focos escleróticos y áreas líticas destructivas. No se identifican otras
+lesiones óseas.
+Impresión diagnóstica:
+Antecedentes de cáncer de vía biliar.
+Múltiples lesiones focales hepáticas, compatible con compromiso secundario.
+Adenopatías retroperitoneales metastásicas.
+Múltiples nódulos pulmonares bilaterales, de aspecto secundario.
+Nódulos peritoneales en flanco izquierdo, compatibles con compromiso secundario. Moderada ascitis.
+Lesión heterogénea en cuerpo vertebral L2, probablemente a un implante secundario.
+Hallazgos compatibles con tromboembolismo pulmonar en ramas segmentarias del lóbulo superior izquierdo y lóbulo
+inferior derecho. Trombosis de vena renal izquierda y de ambas venas femorales superficiales.
+Infarto esplénico y focos de infarto renal bilateral.
+Edema subcutáneo difuso.
+                  *El presente resultado debe correlacionarse con el cuadro clinico y ser evaluado por medico tratante*
+
+--- Fin de Página ---
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,16 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Eco Doppler Venoso de Ambas Extremidades Inferiores
+Venas femorales común, superficial y profunda, poplítea, musculares gemelares y cayado de la safena interna del lado
+izquierdo dilatadas, con material ecogénico no compresible en el lumen. Venas peroneas y tibiales posteriores izquierdas
+sin alteraciones. 
+Venas femorales común, superficial y profunda, poplítea, musculares y peroneas a derecha permeables. Venas tibiales
+posteriores dilatadas, no compresibles. Cayado de la SI derecha permeable. 
+Impresión diagnóstica: 
+Extensa trombosis venosa profunda de la extremidad inferior izquierda. 
+Trombosis de venas tibiales posteriores a derecha. 
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

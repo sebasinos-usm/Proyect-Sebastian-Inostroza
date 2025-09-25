@@ -1,0 +1,30 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Tórax sin Contraste
+Tráquea y bronquios principales de diámetros normales. Leve engrosamiento de paredes bronquiales bilaterales.
+Opacidad de morfología triangular en el lóbulo medio, asociada a una banda parenquimatosa de aspecto atelectásico.
+No se identifican nódulos y masas pulmonares de aspecto sospechoso.
+Leve engrosamiento difuso de los septos interlobulillares bilaterales.
+Leve derrame pleural posterior derecho, asociado a compromiso atelectásico pasivo del parénquima pulmonar adyacente.
+No hay derrame pleural izquierdo.
+Cardiomegalia global, con calcificaciones coronarias comprometiendo tres vasos y leve derrame pericárdico.
+Tronco principal de la arteria pulmonar con tamaño límite máximo normal midiendo 30 mm. Restantes estructuras
+vasculares del mediastino de diámetros normales. Ateromatosis aórtica.
+Múltiples linfonodos mediastínicos prominentes, p.ej. uno paratraqueal inferior izquierdo de 10 mm en eje corto, de
+carácter inespecífico. No se visualizan adenopatías hiliares ni axilares.
+Esófago sin engrosamiento parietal.
+Planos parietales conservados.
+No se reconocen lesiones óseas traumáticas o destructivas.
+Impresión diagnóstica:
+Opacidad de morfología triangular en el su lóbulo medio, inespecífica, pudiendo corresponder a un área de atelectasia
+subsegmentaria. Se sugiere controlar.
+Engrosamiento de septos interlobulillares pulmonares bilaterales, sugerentes de edema pulmonar. Se acompaña de leve
+derrame pleural derecho.
+Cardiomegalia global.
+Ateromatosis aorto-coronaria.
+Linfonodos prominentes en el mediastino, de aspecto inespecífico.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

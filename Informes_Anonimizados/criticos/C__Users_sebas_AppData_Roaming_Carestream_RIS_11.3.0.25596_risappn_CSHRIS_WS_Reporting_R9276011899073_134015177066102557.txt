@@ -1,0 +1,20 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+examen:
+Antecedente de nódulos bilaterales en control. 
+Acude por nódulo derecho de mayor tamaño. Se compara con ecotomografía de agosto de 2024.
+Hallazgos:
+Patrón fibroglandular disperso.
+En ambas mamas, nódulos isodensos y ovalados;  en mama derecha, en la UCS de 26 mm (medía 21 mm) y en el CSI
+izquierdo de 18 mm (medía 14 mm).
+No observo lesiones espiculadas ni microcalcificaciones agrupadas.
+Linfonodos en ambas axilas.
+Impresión:
+Nódulos bilaterales presuntamente benignos, sin embargo, dos de significativo mayor tamaño respecto a ecotomografía
+previa.
+Recomiendo estudio histológico con biopsia core (UCS mama derecha y CSI mama izquierda).
+BI-RADS 4 A
+ACR B
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

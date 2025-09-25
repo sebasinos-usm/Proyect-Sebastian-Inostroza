@@ -1,0 +1,14 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Rx Hombro Izquierdo AP-Outlet-Axial
+Estructuras óseas de morfología normal, bien alineadas.
+Acromion recto tipo I de Bigliani.
+No se identifican lesiones óseas traumáticas ni destructivas.
+Espacios articulares glenohumeral y acromioclavicular de amplitud conservada y superficies óseas regulares.
+Espacios subacromial y coracoclavicular de amplitud conservada.
+No se observan hallazgos patológicos en las partes blandas.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

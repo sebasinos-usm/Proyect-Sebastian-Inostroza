@@ -1,0 +1,38 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Antecedentes clínicos:
+Sospecha de abdomen agudo.
+Hallazgos:
+Hígado de tamaño, forma y realce normal. No se identifican lesiones focales sospechosas. Pequeños quistes hepáticos
+bilaterales simples, 15 mm a izquierda.
+Vesícula biliar escasamente distendida, de pared fina, sin cálculos calcificados.
+Vía biliar no dilatada.
+Páncreas, parénquima esplénico, glándulas suprarrenales, riñones y vejiga sin alteraciones morfológicas significativas.
+Dos cálculos en el tercio medio del riñón derecho, de 5 (524 UH) y 4 mm.
+Calculo de 5 mm (737 UH) en el tercio inferior del riñón izquierdo.
+Útero ausente.
+Destaca la presencia de asas de intestino delgado dilatadas ubicadas en el hemiabdomen inferior, mostrando un cambio
+de calibre abrupto ubicado en la porción central de la pelvis mayor, en línea media, aproximadamente 5 cm caudal al
+ombligo, sin lesiones focales asociadas, probablemente secundario a bridas. Las asas mencionadas mantienen adecuado
+realce con el contraste endovenoso. Se asocian a discreto edema mesentérico.
+No hay ascitis ni neumoperitoneo libre.
+Principales estructuras vasculares abdominopélvicas permeables.
+Aorta abdominal de calibre conservado.
+Leve ateromatosis mixta aortoilíaca.
+No se identifican adenopatías mesentéricas, retroperitoneales ni pelvianas según criterios de tamaño.
+Porciones caudales visibles de ambos pulmones sin hallazgos patológicos significativos, sólo escasas atelectasias.
+No se identifican lesiones focales óseas traumáticas ni destructivas mediante esta técnica.
+Cambios degenerativos en la columna lumbar, especialmente en el espacio discal lumbosacro.
+Impresión:
+Hallazgos sugerentes de obstrucción intestinal mecánica en asas de intestino delgado, con cambio de calibre abrupto en la
+porción central de la pelvis mayor según lo descrito.
+Nefrolitiasis bilateral.
+Leve ateromatosis mixta aortoilíaca.
+Quistes hepáticos bilaterales.
+Cambios degenerativos en el espacio discal lumbosacro.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

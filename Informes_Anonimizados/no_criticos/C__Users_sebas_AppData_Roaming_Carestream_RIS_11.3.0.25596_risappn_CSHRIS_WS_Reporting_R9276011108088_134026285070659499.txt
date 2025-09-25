@@ -1,0 +1,13 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Rx Ambos Codos AP-LAT-Rot Int-ExT
+Hallazgos:
+Elementos óseos bien alineados. Línea humeral anterior y línea radiocapitelar, con trayectos habituales.
+No se reconoce desplazamiento evidente de los cojinetes adiposos anterior y posterior que pudieran sugerir derrame
+articular.
+No se reconocen lesiones óseas traumáticas ni destructivas. 
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

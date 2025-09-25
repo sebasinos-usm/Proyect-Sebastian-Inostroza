@@ -1,0 +1,22 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Cerebro con Contraste
+HALLAZGOS:
+Ventrículos laterales de volumen y configuración conservados.
+Tercer ventrículo de forma y volumen conservados, en línea media.
+En el parénquima encefálico supratentorial no se observan lesiones focales ni áreas de realce patológico luego de la
+inyección de contraste yodado endovenoso.
+En la fosa posterior el cuarto ventrículo presenta amplitud habitual y se encuentra en buena posición.
+Troncoencéfalo y cerebelo con aspecto conservado. Amígdalas cerebelosas en adecuada posición.
+Cisternas subaracnoídeas de la base con amplitud conservada al igual que los valles silvianos y surcos epicorticales.
+No se observan colecciones yuxtadurales. No se reconocen signos sugerentes de hemorragia intracraneana.
+Cavidades neumáticas paranasales, mastoídeas y timpánicas evaluables en estos cortes de amplitud y transparencia
+conservadas.
+No se observan lesiones óseas de tipo traumático ni destructivo.
+IMPRESIÓN DIAGNÓSTICA:
+Tomografía computada de cerebro sin hallazgos de significado patológico.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

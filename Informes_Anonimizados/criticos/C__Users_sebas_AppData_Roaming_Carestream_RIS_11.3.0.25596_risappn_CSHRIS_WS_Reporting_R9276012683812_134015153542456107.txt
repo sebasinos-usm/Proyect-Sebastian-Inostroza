@@ -1,0 +1,16 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+examen:
+Examen complementario a mamografía contemporánea.
+Hallazgos:
+Patrón ecográfico fibroglandular homogéneo.
+No identifico nódulos sólidos ni quistes.
+Ectasia ductal  focal retroareolar derecha, de 9 x 3.5 mm de calibre, que presenta contenido hipoecogénico, dudosamente
+vascularizado.
+Regiones axilares sin evidencia de adenopatías. 
+Impresión:
+Contenido intraductal retroareolar derecho, que podría corresponder a secreción espesa versus lesión papilar.
+BI-RADS US 4 A
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

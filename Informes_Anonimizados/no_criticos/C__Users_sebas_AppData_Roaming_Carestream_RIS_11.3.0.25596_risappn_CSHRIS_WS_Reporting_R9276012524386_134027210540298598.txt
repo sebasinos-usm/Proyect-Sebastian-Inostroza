@@ -1,0 +1,27 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Tórax con Contraste
+Antecedente de neoplasia testicular.
+No se dispone de estudios previos para comparar.
+Tráquea aunque es principal de calibre y trayecto normal, permeables.
+Adyacente a la cisura menor, en el pulmón derecho, se observa pequeño nódulo de 2 mm de diámetro, sin características
+sospechosas.
+No hay opacidad de condensación. No se observa derrame pleural ni neumotórax.
+Corazón de tamaño y configuración normal. 
+Aorta de trayecto y diámetro conservado.
+Troncos vasculares supraaórticos de disposición habitual.
+Tronco principal de arteria pulmonar calibre normal.
+No hay adenopatías supraclaviculares, axilares ni mediastínicas.
+Esófago de calibre y trayecto normal. 
+Inmediatamente caudal a la hipófisis, ejerciendo efecto de masa sobre esta axial cefálico, levemente desplazado a la y
+izquierdo en relación a la línea media se observa imagen redondeada de margen bien definido, hipodensa, de 28 x 27 mm
+de diámetro, que impresiona determinar desplazamiento de la tráquea hacia posterior y lateral derecho.
+No se observan lesiones óseas.
+Impresión diagnóstica:
+Pequeño nódulo pulmonar derecho, indeterminado, sin características de malignidad. Controlar.
+Lesión redondeada hipodensa caudal a la tiroides, según descripción. Se sugiere valoración con ecotomografía.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

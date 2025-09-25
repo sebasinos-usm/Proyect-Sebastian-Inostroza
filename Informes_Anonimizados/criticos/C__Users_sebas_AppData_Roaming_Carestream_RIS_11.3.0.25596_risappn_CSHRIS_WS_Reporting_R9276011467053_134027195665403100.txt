@@ -1,0 +1,19 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+examen:
+Antecedente de Ca de mama derecha tratado con mastectomía parcial el 4 de septiembre del presente.
+Control postquirúrgico.
+Hallazgos:
+Patrón fibroglandular disperso y cambios postquirúrgicos.
+No observo nódulos sospechosos.
+Grupo de microcalcificaciones finas-pleomórficas con extensión de 4 mm, situadas adyacentes a distosión postquirúrgica
+(hacia craneal y lateral).
+Región axilar baja libre de adenopatías.
+Impresión:
+Microcalcificaciones derechas de aspecto residual.
+Recomiendo ampliación de margen quirúrgico.
+BI-RADS 4
+ACR B
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

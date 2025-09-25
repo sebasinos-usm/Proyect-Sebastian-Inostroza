@@ -1,0 +1,24 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Tórax sin Contraste
+Antecedentes clínicos: 
+Tos.
+Hallazgos:
+Examen realizado sin uso de contraste intravenoso.
+No hay derrame pleural ni neumotórax.
+Pulmones de volumen y arquitectura normales.
+No se identifican focos de condensación, masas ni nódulos sospechosos.
+Tráquea y bronquios principales de calibres conservados, permeables.
+Leve engrosamiento difuso de paredes bronquiales principalmente lobares.
+Corazón de tamaño normal. No hay derrame pericárdico.
+Aorta torácica y tronco de la arteria pulmonar de calibres conservados.
+Pequeñas adenopatías de aspecto reactivo en el mediastino medio.
+No se reconocen adenopatías axilares según criterio de tamaño.
+No se identifican lesiones focales óseas traumáticas ni destructivas mediante esta técnica.
+Impresión:
+Hallazgos sugerentes de un compromiso inflamatorio bronquial leve.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]
