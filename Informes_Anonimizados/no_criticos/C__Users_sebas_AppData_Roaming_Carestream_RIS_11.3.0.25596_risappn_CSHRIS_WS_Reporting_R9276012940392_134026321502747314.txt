@@ -1,0 +1,43 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Antecedentes clínicos:
+Apendicectomía abierta hace una semana.
+Sospecha de complicación postquirúrgica.
+Hallazgos:
+Hígado de tamaño, forma y realce normal. No se observa lesiones focales.
+Vesícula biliar parcialmente distendida, de pared fina. Muestra contenido levemente hiperdenso, probablemente
+eliminación vicariante de medio de contraste.
+Vía biliar no dilatada.
+Páncreas, parénquima esplénico, glándulas suprarrenales, riñones, vejiga, próstata y vesícula seminales sin alteraciones
+significativas.
+No hay nefrolitiasis ni hidronefrosis.
+Asas intestinales de calibre normal. Engrosamiento y mayor realce parietal difuso de asas intestinales, de aspecto
+inflamatorio.
+Cambios inflamatorios difusos abdominopélvicos dados por aumento de densidad del tejido graso abdominal y escaso
+líquido.
+Prominente colección inflamatoria intraabdominal de morfología aplanada ubicada en la porción anterior del
+hemiabdomen inferior y hacia la cavidad pelviana. Mide 14,5 cm de eje transverso, 15 cm de eje cefalocaudal y un espesor
+anteroposterior máximo de 4,8 cm. Se encuentra bien delimitada por una pared definida que realiza con el contraste
+endovenoso, como signo de organización .
+Múltiples adenopatías mesentéricas, de aspecto reactivo.
+No hay neumoperitoneo libre significativo.
+Principales estructuras vasculares abdominopélvicas permeables.
+Aorta abdominal de calibre conservado.
+Examen limitado por artefacto de movimiento del paciente.
+En las porciones visibles del tórax se observa leve derrame pleural bilateral.
+Leve cambios inflamatorios postquirúrgicos en la pared abdominal, dados por aumento de densidad estriado del tejido
+celular subcutáneo, sin evidencias de colecciones en su espesor ni imágenes que sugieran abscesos de la pared abdominal.
+No se identifican lesiones focales óseas traumáticas ni destructivas mediante esta técnica.
+Impresión:
+Cambios postquirúrgicos de apendicectomía abierta reciente, con moderados cambios inflamatorios abdominopélvicos
+difusos,  especialmente en asas intestinales.
+Múltiples adenopatías mesentéricas de aspecto reactivo.
+Prominente colección inflamatoria intraabdominal organizada, ubicada en la porción anterior del hemiabdomen inferior y
+hacia la cavidad pelviana.
+Leve derrame pleural bilateral.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

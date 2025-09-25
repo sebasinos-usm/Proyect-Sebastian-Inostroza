@@ -1,0 +1,28 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Hallazgos:
+Hígado de forma y estructura interna normales. Nódulo hipodenso de 2 mm en el segmento VIII.
+Venas suprahepáticas, cava inferior y eje venoso porto-espleno-mesentérico permeables.
+Vesícula normalmente distendida, de pared fina, sin cálculos calcificados en su lumen. Vía biliar fina.
+Bazo, páncreas y glándulas suprarrenales sin alteraciones.
+Riñones de forma, tamaño y espesor parenquimatoso conservados. No hay dilatación de los sistemas excretores ni
+imágenes de litiasis.
+Vejiga parcialmente distendida, con contenido líquido homogéneo, sin cálculos.
+Próstata y vesículas seminales de aspecto tomográfico normal.
+Estómago y asas intestinales sin engrosamiento parietal ni dilatación patológica evidentes. En la fosa ilíaca derecha se
+reconoce el apéndice cecal distendido, con diámetro de hasta 11 mm, asociado a escasa cantidad de líquido libre
+pelviano.
+Aorta de calibre y trayecto conservados.
+No se observan adenopatías retroperitoneales, ilíacas ni mesentéricas.
+Planos musculares continuos.
+En las bases pulmonares no se identifican nódulos, focos de consolidación ni derrame pleural.
+No son evidentes lesiones óseas traumáticas ni destructivas.
+Impresión diagnóstica:
+Hallazgos sugerentes de apendicitis aguda en evolución.
+Nódulo hipodenso en lóbulo hepático derecho, muy pequeño para caracterizar.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

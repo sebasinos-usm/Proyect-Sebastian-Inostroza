@@ -1,0 +1,21 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Mamografía Bilateral
+Se realiza mamografía por control preventivo. 
+No se cuenta con mamografía previa para comparar. 
+Piel y pezones de grosor normal. 
+Tejido celular subcutáneo y graso retromamario libres. 
+Mamas constituidas por opacidades fibroglandulares heterogéneamente densas,  distribuidas fundamentalmente en
+zonas retroareolares y cuadrantes superiores externos.
+Mamas relativamente simétricas.
+Se identifican microcalcificaciones heterogéneas agrupadas en unión de cuadrantes superiores de la mama derecha, en un
+área de 9 mm, asociadas a densidad focal asimétrica.
+Linfonodos axilares. 
+Impresión diagnóstica:
+Microcalcificaciones agrupadas en unión de cuadrantes superiores de la mama derecha que deben ser biopsiadas.
+Birads 4b.  ACR C.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

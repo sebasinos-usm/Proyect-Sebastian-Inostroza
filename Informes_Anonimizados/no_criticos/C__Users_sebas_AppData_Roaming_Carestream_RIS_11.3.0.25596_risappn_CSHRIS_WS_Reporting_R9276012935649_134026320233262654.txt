@@ -1,0 +1,30 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Cerebro sin Contraste
+Ventrículos laterales y tercer ventrículo amplios, sin desplazamientos patológicos.
+Pequeñas lesiones hipodensas en cabeza de núcleo caudado, tálamo y núcleo lentiforme a derecha, con aspecto de
+secuelas de infartos lacunares. No se identifican otras lesiones focales en el parénquima encefálico supratentorial.
+Moderada hipodensidad de sustancia blanca periventricular y de centros semiovales, compatible con compromiso
+microangiopático.
+Indemnidad de estructuras de fosa posterior. Aumento de amplitud de la folia cerebelosa.
+No se reconocen colecciones yuxtadurales ni signos de HSA.
+Aumento de amplitud de los surcos de la convexidad fronto-parietotemporal, valles silvianos y cisternas subaracnoideas
+de la base.
+Placas de ateroma calcificadas en sifones carotídeos y arteria vertebral izquierda.
+No se observan lesiones óseas traumáticas o destructivas en base de cráneo ni calota.
+Leve engrosamiento mucoso del seno maxilar derecho, de aspecto inflamatorio. Restantes senos paranasales y celdillas
+mastoideas sin ocupaciones patológicas.
+Impresión diagnóstica:
+Antecedentes clínicos de observación accidente cerebrovascular.
+Lesiones hipodensas en núcleo caudado, tálamo y núcleo lentiforme a derecha, con aspecto de secuelas de infartos
+lacunares.
+No se demostraron otras lesiones focales en el parénquima encefálico, lo que no descarta posibilidad de una lesión
+isquémica encefálica reciente en evolución. Se recomienda su evaluación con RM.
+Cambios involutivos encefálicos supra e infratentoriales.
+Moderado compromiso microangiopático de sustancia blanca supratentorial.
+Ateromatosis cálcica de sifones carotídeos y arteria vertebral izquierda.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,21 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Tórax sin Contraste
+HALLAZGOS:
+Tráquea y bronquios principales de calibres conservados, permeables.
+En los pulmones no se observan opacidades de condensación, signos de enfermedad intersticial ni imágenes nodulares.
+No hay derrame pleural ni neumotórax.
+Corazón de tamaño y configuración conservados. Aorta torácica con diámetros y trayecto conservados. Arteria pulmonar
+y sus ramas principales de aspecto conservado. Vena cava superior y troncos vasculares supraaórticos con diámetros
+habituales.
+No se reconocen adenopatías de acuerdo a criterios de tamaño en el mediastino, regiones supraclaviculares ni axilares.
+Zonas visibles de la glándula tiroides y esófago torácico con aspecto conservado.
+Planos parietales torácicos continuos.
+No se reconocen lesiones óseas traumáticas ni destructivas.
+IMPRESIÓN DIAGNÓSTICA:
+Tomografía computada de tórax sin hallazgos de significado patológico.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

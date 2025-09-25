@@ -1,0 +1,41 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Hígado de tamaño normal. Parénquima sin lesiones, sin cambios respecto de examen del [FECHA_ANONIMIZADA].
+Vesícula de paredes finas sin imágenes de litiasis. Vía biliar no dilatada.
+Páncreas de contornos y grosor normales. No se han agregado lesiones.
+Bazo de tamaño normal.
+Glándulas suprarrenales sin alteraciones morfológicas.
+Riñones de tamaño normal. Parénquima sin nódulos. No hay ectasia pielocaliciaria ni litiasis. Uréteres sin cálculos.
+Aorta presenta endoprótesis en el segmento distal de la aorta ascendente, con extensión caudal hasta nivel de origen del
+tronco celíaco. Los diámetros aórticos son normales. Realce heterogéneo en venas ilíacas externa y común a izquierda.
+Cuerpo metálico adyacente a la pared posterior del cuerpo gástrico y a la aorta abdominal. No muestra variaciones
+respecto de examen anterior. Menor densidad y similar tamaño de lóbulo medio hematoma adyacente a la estructura
+metálica, no mostrando realce con contraste.
+No se han agregado adenopatías en región aortocava, pelvianas, mesentéricas ni inguinales.
+Estómago, duodeno y asas intestinales sin engrosamiento de sus paredes.
+Ya no se visualiza líquido libre peritoneal que correspondía a hemoperitoneo.
+Ha disminuido el contenido hemático de los espacios pararrenales.
+Vejiga sin engrosamiento parietal. Ya no se visualiza sonda Foley.
+Próstata de leve mayor tamaño mostrando realce heterogéneo con contraste intravascular. Vesículas seminales de
+contornos conservados.
+Lesión traumática ósea de cuerpo vertebral y de elementos posteriores de T11 sin cambios. No se han agregado nuevas
+lesiones óseas.
+Disminución de derrame pleural , siendo escaso actualmente. Disminución de áreas de atelectasia en lóbulos inferiores.
+Se agrega tromboembolismo pulmonar con defectos de llene en arteria interlobar, rama para segmento superior y para
+segmento basal posterior del lóbulo inferior izquierdo. Índice VD/VI: 0,8.
+Impresión diagnóstica:
+Antecedentes de herida por arma de fuego y de reparación aórtica reciente.
+Se mantiene sin variaciones posición de proyectil en el saco menor.
+Lesión traumática de vértebra de T11 sin variaciones.
+Endoprótesis aórtica sin cambios.
+Hematoma asociado a proyectil sin cambios.
+Se ha resuelto el hemoperitoneo y ha disminuido el contenido hemático del retroperitoneo.
+Disminución de derrame pleural bilateral y de áreas de atelectasia pulmonar.
+Se agrega tromboembolismo pulmonar a izquierda. Realce heterogéneo no categórico de trombosis en venas ilíacas
+común y externa a izquierda.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

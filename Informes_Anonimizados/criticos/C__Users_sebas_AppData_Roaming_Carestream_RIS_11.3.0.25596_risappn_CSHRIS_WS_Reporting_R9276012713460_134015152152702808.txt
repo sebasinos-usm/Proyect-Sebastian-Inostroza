@@ -1,0 +1,20 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Ecotomografía Mamaria
+Indicación del examen:
+Reevaluación.
+Hallazgos:
+Patrón ecográfico fibroglandular homogéneo.
+En el tercio posterior de la hora 10 de la mama derecha, nódulo hipoecogénico, ovalado, suavemente lobulado, de 16 x 6
+mm, el que presenta algunas áreas quísticas.
+Grupo de microquistes en región retroareolar derecha de 8 mm.
+Leve ectasia ductal retroareolar derecha.
+Regiones axilares sin evidencia de adenopatías. 
+Impresión:
+Nódulo derecho indeterminado.
+BI-RADS US 4
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

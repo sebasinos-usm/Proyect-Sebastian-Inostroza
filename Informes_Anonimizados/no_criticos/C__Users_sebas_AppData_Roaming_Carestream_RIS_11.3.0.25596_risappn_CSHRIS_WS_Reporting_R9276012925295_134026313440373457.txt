@@ -1,0 +1,31 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Antecedente clínico:
+Dolor abdominal.
+Hallazgos:
+Hígado de tamaño, forma y realce normal. No se identifican lesiones focales.
+Vesícula biliar parcialmente distendida, de pared fina, sin cálculos calcificados.
+Vía biliar no dilatada.
+Páncreas, bazo, glándulas suprarrenales, riñones, próstata y vesículas seminales sin alteraciones significativas.
+No hay nefrolitiasis ni hidronefrosis.
+Pequeño quiste cortical renal izquierdo simple de 6 mm.
+Vejiga parcialmente colapsada.
+Asas intestinales de calibre y realce parietal normal, incluyendo el apéndice cecal.
+No hay ascitis ni neumoperitoneo libre.
+Estómago escasamente distendido.
+No hay adenopatías abdominopélvicas según criterio de tamaño.
+Múltiples linfonodos aumentados en número en el mesenterio y retroperitoneo, especialmente lateroaórticos izquierdos,
+inespecíficos.
+Principales estructuras vasculares abdominopélvicas permeables.
+Aorta abdominal de calibre conservado.
+No se identifican lesiones focales óseas traumáticas ni destructivas mediante esta técnica.
+Porciones caudales visibles de ambos pulmones sin alteraciones.
+Impresión:
+Múltiples pequeños linfonodos en el mesenterio y retroperitoneo, inespecíficos. Podían tener origen reactivo a un
+compromiso enteral leve. Correlacionar con datos clínicos.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

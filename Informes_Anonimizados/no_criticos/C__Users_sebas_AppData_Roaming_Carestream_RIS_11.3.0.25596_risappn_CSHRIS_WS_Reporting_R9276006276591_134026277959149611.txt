@@ -1,0 +1,24 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Pie Izquierdo sin Contraste
+Antecedente clínico: Sospecha de inflamación metatarsofalángica.
+Hallazgos:
+Densidad mineral ósea conservada.
+No se reconocen lesiones óseas traumáticas ni destructivas.
+Articulaciones visibles congruentes.
+Leves cambios degenerativos en articulación tibio peroneo astragalina y talo calcánea posterior.
+Entesofito del calcáneo a nivel de inserción del tendón de Aquiles.
+Pequeño cuerpo óseo de 2,5 mm adyacente al reborde lateral de la articulación metatarso falángica del primer ortejo. La
+epífisis proximal del primer metatarsiano muestra bordes corticados.
+No se aprecian calcificaciones intra ni periarticulares patológicas.
+Aumento de volumen y densidad en las partes blandas del pie, de aspecto edematoso, especialmente en el dorso del
+mediopie.
+Impresión:
+Cambios edematosos en las partes blandas del pie, especialmente en la cara dorsal del mediopie.
+Leves cambios degenerativos en articulación tibio peroneo astragalina y talo calcánea posterior.
+Entesofito del calcáneo a nivel de inserción del tendón de Aquiles.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

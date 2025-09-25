@@ -1,0 +1,28 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Tórax sin Contraste
+HALLAZGOS:
+Tráquea y bronquios principales de calibres conservados, permeables.
+Focos de relleno de la vía aérea pequeña en los segmentos anterior y apical del lóbulo superior derecho, segmentos
+basales posterior y medial del lóbulo inferior derecho y posiblemente también en el segmento basal posterior izquierdo.
+Consolidación en el segmento lingular inferior izquierdo que compromete parcialmente dicho segmento.
+En el restante parénquima pulmonar no se observan opacidades de condensación, signos de enfermedad intersticial ni
+imágenes nodulares.
+No hay derrame pleural ni neumotórax.
+Corazón de tamaño y configuración conservados.
+Aorta torácica con diámetros y trayecto conservados.
+Arteria pulmonar y sus ramas principales de aspecto conservado.
+Vena cava superior y troncos vasculares supraaórticos con diámetros habituales.
+No se reconocen adenopatías de acuerdo a criterios de tamaño en el mediastino, regiones supraclaviculares ni axilares.
+Glándula tiroides y esófago torácico con aspecto conservado.
+Planos parietales torácicos continuos.
+No se reconocen lesiones óseas traumáticas ni destructivas.
+Las articulaciones esternoclaviculares impresionan de morfología tomográfica habitual, bien alineadas.
+IMPRESIÓN DIAGNÓSTICA:
+Relleno de la vía aérea pequeña sugerente de bronquiolitis.
+Opacidad de consolidación lingular izquierda posiblemente en contexto de neumonía.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

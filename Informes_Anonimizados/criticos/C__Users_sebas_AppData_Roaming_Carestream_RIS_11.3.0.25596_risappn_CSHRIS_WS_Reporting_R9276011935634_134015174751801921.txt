@@ -1,0 +1,32 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+El apéndice cecal se encuentran ubicación preileal, anterosuperior a la vejiga. Se encuentra aumentado de diámetro, mide
+10 mm. Presenta aumento del espesor parietal y mayor realce de éstas. No se observan burbujas aéreas en el lumen.
+Aumento de la densidad de la grasa periapendicular. 
+Escasa cantidad líquido libre pelviano. No se identifican colecciones. No hay neumoperitoneo.
+Adenopatías mesentéricas en fosa ilíaca derecha, de hasta 7 mm de diámetro y corto.
+Asas colónicas calibre y trayecto normal. Cavidad gástrica escasamente distendida, de pared no evaluable. Duodeno y
+restantes asas de intestino delgado sin hallazgos a destacar.
+Aorta abdominal de calibre y trayecto normal. Vena cava inferior y el eje venoso porto esplenomesentérico permeables.
+No se identifican otras adenopatías retroperitoneales, mesentéricas ni en la pelvis.
+Hígado de tamaño y estructura normal. No hay lesiones focales.
+Vesícula distendida, de pared fina, con contenido homogéneo en el lumen, sin identificar litiasis cálcica.
+Vía biliar intra y extrahepática no dilatada.
+Páncreas, bazo y glándulas suprarrenales de carácter morfológico normales.
+Riñones de tamaño y espesor cortical normal. No hay hidronefrosis ni de litiasis. Uréteres de calibre y trayecto normal.
+Vejiga distendida, de pared fina, con contenido homogéneo e hipodenso en el lumen.
+Región útero anexial sin hallazgos a destacar.
+Planos parietales continuos. Masas musculares de densidad conservada. No se observan lesiones óseas.
+Impresión diagnóstica:
+Examen con hallazgos concordantes con apendicitis aguda en evolución, sin identificar complicaciones actuales.
+Escasa cantidad líquido libre pelviano.
+Adenopatías mesentéricas en fosa ilíaca derecha, de aspecto reactivo.
+Resto de estudio sin hallazgos a destacar.
+Dra. Camila Leiva León
+Médico Radiólogo
+Informe validado por: /
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,12 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Rx de Cavidades Perinasales
+Antecedentes: Control
+Hallazgos:  Senos frontales, celdillas etmoidales, senos maxilares y seno esfenoidal neumatizados.
+Tabique nasal en buena posición. 
+Impresión Diagnóstica:  Examen sin hallazgos patológicos. 
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

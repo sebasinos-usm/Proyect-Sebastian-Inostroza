@@ -1,0 +1,31 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha examen
+: [FECHA_ANONIMIZADA]   0:05
+TC de Abdomen y Pelvis con Contraste
+Antecedentes clínicos: Cólico abdominal.
+Hallazgos:
+Hígado de tamaño y morfología normal, sin lesiones focales agresivas.
+Clips quirúrgicos en lecho vesicular. No se observa dilatación de la vía biliar intra ni extrahepática.
+Páncreas de morfología y densidad normal, realza de manera homogénea con el medio de contraste. No se observa
+lesiones focales ni dilatación de su conducto.
+Glándulas suprarrenales de morfología y densidad normal.
+Ambos riñones normosituados, de grosor parenquimatoso, morfología y tamaño dentro de rangos normales. No se
+reconoce la presencia de lesiones focales agresivas. No se observaba dilatación del aparato excretor.
+Vejiga poco distendida, sin imágenes endoluminales patológicas ni evidencias de engrosamiento parietal.
+Útero de morfología y tamaño normal. No se observa masas anexiales.
+Tubo digestivo poco distendido. Múltiples divertículos en el marco colónico. En relación a éstos se identifica un
+engrosamiento parietal segmentario en el colon sigmoides, con preservación de las capas, asociado a aumento difuso de
+la densidad del tejido adiposo adyacente sin identificar colecciones ni neumoperitoneo. Apéndice cecal de calibre normal,
+sin alteraciones en la densidad del tejido adyacente.
+Grandes vasos del retroperitoneo normosituados, de calibre normal y permeables.
+Eje porto espleno mesentérico de calibre normal, permeable.
+No se observa masas retroperitoneales ni adenopatías por criterios morfológicos.
+No existe líquido libre ni neumoperitoneo.
+No se observa alteraciones significativas en las porciones pulmonares visibles.
+Prótesis total de cadera izquierda.
+Impresión:
+Diverticulitis aguda. Se sugiere controlar.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

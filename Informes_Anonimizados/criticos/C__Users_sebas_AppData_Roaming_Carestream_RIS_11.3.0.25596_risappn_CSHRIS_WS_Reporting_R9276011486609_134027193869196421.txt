@@ -1,0 +1,28 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Ecotomografía Mamaria
+Paciente referida para evaluación, con antecedentes de cáncer mamario in situ en mama izquierda (según biopsia de 
+agosto del presente año)  y de mastectomía radical modificada derecha, por cáncer mamario en 2022.
+Se cuenta con estudios previos para comparar.
+Hallazgos:
+En relación a mastectomía derecha, sin alteraciones en huellas quirúrgicas.                                      
+Mama izquierda presenta tejido de ecoestructura heterogénea. No se observan nódulos sólidos ni quistes en el
+parénquima mamario.  Cambios cicatrizales post biopsia en hora 12.          
+Axila derecha libres de adenopatías.
+En nivel I de axila izquierda linfonodo con aumento de espesor cortical.
+Impresión diagnóstica:
+Adenopatia axilar izquierda.
+BI-RADS 4.
+Se sugiere correlación histológica de adenopatia izquierda.
+Fecha addendum:
+[FECHA_ANONIMIZADA] 13:57:01
+Addendum firmado por:
+Dra.María Cecilia Escoda Ripoll
+Médico Radiólogo
+Dra. María Cecilia Escoda Ripoll
+Médico Radiólogo
+Informe validado por: /
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

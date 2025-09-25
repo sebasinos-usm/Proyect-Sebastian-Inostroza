@@ -1,0 +1,33 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Antecedente clínico:
+Sospecha de apendicitis aguda.
+Hallazgos:
+Hígado de tamaño y forma normal. Discreto menor realce del segmento V en fase venosa, inespecífico en este estudio sin
+fase tardía. Pudiese corresponder a alteración transitoria de la perfusión.
+Vesícula biliar parcialmente distendida, de pared fina, sin cálculos calcificados.
+Vía biliar no dilatada.
+Páncreas, glándulas suprarrenales, riñones y útero sin alteraciones significativas.
+No hay nefrolitiasis ni hidronefrosis.
+Vejiga parcialmente colapsada, no es valorable.
+Cambios postquirúrgicos de esplenectomía.
+El ciego se ubica en la FID y de su cara medial emerge el apéndice cecal aumentado de calibre hasta 11 mm, de pared
+engrosada e hiperémica con el contraste endovenoso. Se rodea de cambios inflamatorios del tejido graso adyacente, el
+cual impresiona hiperdenso y heterogéneo. No se reconocen colecciones inflamatorias ni perforación significativas.
+Tampoco signos de tromboflebitis.
+Pequeñas adenopatías mesentéricas de aspecto reactivo.
+No hay ascitis ni neumoperitoneo libre.
+Cámara gástrica parcialmente distendida, sin engrosamiento sospechosos.
+Principales estructuras vasculares abdominopélvicas permeables.
+Aorta abdominal de calibre conservado.
+Porciones caudales visibles de ambos pulmones sin hallazgos patológicos.
+No se reconoce lesiones focales óseas traumáticas ni destructiva mediante esta técnica.
+Impresión:
+Apendicitis aguda.
+Cambios postquirúrgicos de esplenectomía.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

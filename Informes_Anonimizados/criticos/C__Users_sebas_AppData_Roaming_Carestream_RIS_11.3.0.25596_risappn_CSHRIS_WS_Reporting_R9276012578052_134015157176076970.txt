@@ -1,0 +1,45 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+AngioTC de Tórax
+Tras la administración del medio de contraste se logra adecuada opacificación del tronco principal de la arteria pulmonar,
+ramas principales derecha e izquierda y de las ramas segmentarias, identificando defecto hipodenso redondeado luminal
+marginal en rama de arteria para el lóbulo inferior del pulmón derecho, suboclusiva (corte 211, adquisición de angio-TC de
+tórax). No se observan otros defectos luminales.
+Fase venográfica de extremidades inferiores sin evidencia de defectos luminales en territorio venoso profundo.
+Tráquea y bronquios principales de calibre y trayecto normal, permeables.
+Opacidades en vidrio esmerilado, bilaterales, relativamente simétricas. Bronquiectasias bibasales, que predominan la
+derecha.
+Derrame pleural ni neumotórax.
+De tamaño y configuración normal. No hay derrame pericárdico. Ateromatosis coronaria. Aorta elongada, de diámetro
+normal, con placas de ateroma calcificadas en el trayecto.
+Tronco principal de arteria pulmonar de diámetro habitual.
+Imagen hipodensa redondeada prevascular, ubicada en la grasa pericárdica, de 28 x 20 mm de diámetro y calcificación
+periférica, que puede corresponder adenopatía.
+No se observan adenopatías supraclaviculares, axilares, en otros niveles mediastínicos ni en los hilios pulmonares. 
+Linfonodos mediastínicos, de hasta 4 mm de diámetro.
+Glándula tiroides sin hallazgos a destacar. Discreto ascenso de la unión gastroesofágica al tórax.
+Planos parietales continuos. No se observan lesiones óseas. Cambios degenerativos en columna vertebral.
+Incidentalmente se observan quistes corticales renales bilaterales, el mayor a derecha mide 47 mm de diámetro.
+Colecistectomizado.
+Impresión diagnóstica:
+Hallazgos sugerentes de tromboembolismo pulmonar y de arteria para el lóbulo inferior del pulmón derecho, sub
+oclusivo.
+Signos tomográficos de enfermedad pulmonar intersticial tipo NSIP. Considerar sobreinfección.
+Ateromatosis aórtica y coronaria.
+Pequeña hernia hiatal de tipo I.
+Quistes corticales afectos simples.
+Fecha addendum:
+[FECHA_ANONIMIZADA] 19:58:53
+Se debe agregar en la impresión diagnóstica:
+Adenopatía mediastínica prevascular.
+Addendum firmado por:
+Dra.Camila Leiva León
+Médico Radiólogo
+                  *El presente resultado debe correlacionarse con el cuadro clinico y ser evaluado por medico tratante*
+Dra. Camila Leiva León
+Médico Radiólogo
+Informe validado por: /
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,23 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+AngioTC de Cerebro
+Hallazgos:
+Estudio angiográfico en fase arterial no evidencia alteraciones de flujo ni de calibre de sifones carotídeos ni de sistema
+vertebrasilar. Tampoco compromiso de arterias del polígono de Willis ni sus ramas mayores.
+No se visualizan estenosis segmentarias.
+No evidencio imágenes sospechosas de malformaciones vasculares.
+Senos venosos durales permeables.
+Impresión diagnóstica:
+AngioTC de encéfalo, sin hallazgos patológicos.
+Fecha addendum:
+[FECHA_ANONIMIZADA] 2:03:05
+Adenddum:
+Se realiza nueva revisión de las imágenes, reconociendo defecto parcial de llene en el seno sigmoideo
+derecho, el cual se extiende al segmento proximal de la vena yugular interna ipsilateral.
+Se avisa telefonicamente a médico tratante a las 2:00 AM.
+Addendum firmado por:
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

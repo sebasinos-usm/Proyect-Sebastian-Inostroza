@@ -1,0 +1,18 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Eco Doppler Venoso de Extremidad Inferior Derecha
+Se explora con transductor lineal territorios venosos femoropoplíteo y tibioperoneo de extremidad inferior derecha,
+identificando venas femorales común, superficial, profundas, poplítea, peronea, tibiales anteriores, posteriores,
+gemelares y soleas.
+Material ecogénico endoluminal que no ocluye completamente la vena poplítea, la que se comprime parcialmente.
+Se identifican algunas venas gemelares trombosadas, no compresibles. 
+Restante territorio de calibre y trayecto normales, compresibles al paso del transductor, con flujo espontáneo al Doppler
+color, sin evidencias de trombosis.
+Sistema venoso superficial permeable.
+Impresión diagnóstica:
+Trombosis venosa profunda que compromete vena poplítea y ramas gemelares. 
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

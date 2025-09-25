@@ -1,0 +1,26 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+ANGELINA DEL ROSARIO  ARIAS CORVERA
+54Años
+[ID_ANONIMIZADO]
+[FECHA_ANONIMIZADA]
+ 
+Examen:      RM Intestino Delgado -
+   
+Se realiza RM de intestino delgado mediante administración de contraste oral y endovenoso 
+(Enterografia).
+Estómago, duodeno y ángulo de Treitz en ubicación normal.
+Yeyuno de distribución conservada. Presenta paredes de grosor y patrón normal,  sin imágenes 
+endoluminales, compresiones extrínsecas ni dilataciones.
+Íleon de distribución conservada. Presenta paredes de grosor y patrón normal, sin imágenes 
+endoluminales, compresiones extrínsecas ni dilataciones.
+Íleon terminal y válvula ileocecal, sin alteraciones.
+Colon evaluable, sin imágenes patológicas.
+Grasa peri intestinal, sin imágenes patológicas.
+Restantes estructuras evaluables, sin alteraciones.
+Impresión diagnóstica:
+Examen sin hallazgos patológicos.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,28 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+RM de Cerebro
+Hallazgos:
+Se observa hiperintensidad en T1 a nivel bipalidal, compatible con depósito de sustancias
+paramagneticas (manganeso).
+El resto del parénquima encefálico presenta señal conservada.
+El espacio subaracnoídeo cortical así como las cisternas de la base se conservan de
+morfología y amplitud normal.
+No hay evidencias de hemorragia subaracnoídea ni de colecciones yuxtadurales.
+Sistema ventricular de amplitud y señal conservada.
+No se demuestran  lesiones a nivel de tronco encéfalo y cerebelo.
+Ángulos pontocerebelosos libres.
+Estructuras temporomesiales conservadas.
+No se demuestra aumento de intensidad de señal  en las secuencias ponderadas en
+difusión que sugiera eventos isquémicos agudos.
+No hay artefactos de susceptibilidad magnética que sugiera la presencia de eventos
+hemorrágicos o calcificaciones patológicas.
+Sin otros hallazgos significativos que consignar.
+Impresión:
+RM encefálica sin gadolinio que evidencia hallazgos compatibles con depósito de sustancias
+paramagneticas a nivel bipalidal.
+Resto sin particularidades.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

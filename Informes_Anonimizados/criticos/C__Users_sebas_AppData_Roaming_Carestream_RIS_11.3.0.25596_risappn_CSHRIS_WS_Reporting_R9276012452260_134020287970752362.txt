@@ -1,0 +1,37 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Antecedentes clínicos:
+Sospecha de abdomen agudo.
+Hallazgos:
+Destaca neumoperitoneo libre de al menos moderada cuantía. Si bien no se logra identificar categóricamente el punto de
+perforación del tubo digestivo, se observa mayor cantidad de gas alrededor del colon transverso y adyacente a un asa de
+intestino delgado ubicada en la línea media a nivel del promontorio. 
+No hay ascitis ni hemoperitoneo.
+Hígado de tamño, forma y realce normal. No se identifican lesiones focales.
+Vesícula biliar parcialmente distendida, de pared fina, sin cálculos calcificados.
+Vía biliar no dilatada.
+Páncreas, parénquima esplénico, glándulas suprarrenales, riñones, vejiga, próstata y vesículas seminales sin alteraciones
+morfológicas.
+No hay nefrolitiasis ni hidronefrosis.
+Quiste milimétrico en el polo superior del riñón derecho.
+Asas intestinales de calibre y realce parietal normal. Escasos divertículos en el colon izquierdo, no complicados. Apéndice
+cecal normal.
+Cámara gástrica parcialmente distendida. Engrosamiento parietal del fondo gástrico, inespecífico.
+Arcada duodenal sin alteraciones.
+Elementos hiperdensos de aspecto adyacentes a la curvatura menor del estómago, de aspecto postquirúrgico.
+No se observan adenopatías mesentéricas, retroperitoneales ni pelviana según criterios de tamaño.
+Principales estructuras vasculares abdominopélvicas permeables.
+Aorta abdominal de calibre conservado.
+Leve ateromatosis mixta aortoilíaca.
+Pequeña hernia inguinal indirecta izquierda de contenido graso, no complicada.
+No se identifican lesiones focales óseas traumáticas ni destructivas mediante esta técnica.
+Impresión:
+Neumoperitoneo libre de moderada cuantía, probablemente por perforación del tubo digestivo según lo descrito.
+Incipiente diverticulosis colónica.
+Leve ateromatosis aortoilíaca.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

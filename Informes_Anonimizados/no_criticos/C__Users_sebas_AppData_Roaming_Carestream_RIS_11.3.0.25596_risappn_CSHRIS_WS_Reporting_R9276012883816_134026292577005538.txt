@@ -1,0 +1,27 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+RM de Cerebro con Contraste
+Antecedentes:
+Control de glioma frontal derecho operado. 
+Hallazgos:
+Se cuenta con RM del 13.08.25, respecto al cual se evidencia cambios regresivos de la colección yuxtadural frontoparieto
+temporal derecha, así como también de la colección epicraneana adyacente a la craneotomía. Extenso realce
+paquimeningeo adyacente a la craneotomía y del lecho quirúrgico de aspecto post operatorio.  Persiste la tumefacción e
+incremento de señal en T2/FLAIR cortico subcortical frontal precentral y del giro frontal superior a derecha con aspecto de
+remanente tumoral.  Incremento de señal T2 de la sustancia blanca adyacente al lecho quirúrgico con extensión al cuerpo
+calloso. 
+Craneotomía frontoparietal derecha. Cambios postquirúrgicos en el parénquima frontal derecho con restos hemáticos
+subagudos. 
+Focos de incremento de señal T2/FLAIR en el centro semioval y corona radiada a izquierda, de aspecto gliótico
+inespecífico. Núcleos grises centrales sin lesiones. Sistema ventricular supratentorial de amplitud conservada. Cuarto
+ventrículo de morfología normal. Tronco encefalo y cerebelo sin lesiones. Cisternas de la base libres. Disminución de
+amplitud de los surcos de la convexidad frontoparietal a derecha. 
+Impresión Diagnóstica:
+Control de glioma frontal derecho operado con tejido tumefacto, según descripción, con aspecto de remanente tumoral.
+Cambios regresivos de las colecciones yuxtadural y epicraneana adyacente a la craneotomía, respecto a RM previa. 
+Cambios postquirúrgicos. 
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,29 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Tórax sin Contraste
+En comparación con examen del [FECHA_ANONIMIZADA] se observa disminución del derrame pleural bilateral, siendo de
+ubicación posterior y caudal.
+Ha disminuido el área de atelectasia en lóbulo inferior derecho, actualmente comprometiendo los segmentos basales.
+Disminución de áreas de atelectasia subpleural en lóbulo superior derecho.
+Significativa disminución de áreas de atelectasia subpleural en lóbulo superior izquierdo.
+Se mantiene atelectasia completa del lóbulo inferior izquierdo.
+En las zonas ventiladas de ambos pulmones no se visualizan en la actualidad áreas de consolidación o nódulos.
+Tráquea y bronquios de diámetros normales. Broncogramas aéreos de mayor extensión en las zonas de atelectasia de
+lóbulos inferiores.
+No se han agregado adenopatías en el mediastino.
+Corazón de tamaño normal.
+Aorta y troncos arteriales supra aórticos de similares diámetros.
+Venas braquiocefálicas, cava superior y arteria pulmonar de diámetros normales.
+Catéter venoso vía en vena axilar izquierda con extremo distal en aurícula derecha.
+Planos musculares conservados.
+No hay adenopatías axilares ni supraclaviculares.
+No se observan lesiones óseas traumáticas o destructivas.
+Impresión diagnóstica:
+Disminución de derrame pleural bilateral.
+Disminución de áreas de atelectasia en ambos pulmones persistiendo atelectasia completa del lóbulo inferior izquierdo.
+No se han agregado áreas de condensación.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,19 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Ecotomografía de Hombro Izquierdo
+Antecedentes:  omalgia izquierda 
+Hallazgos: 
+Tendones  supraespinoso, infraespinoso, y subescapular de estructura y morfología normal.
+No se observan signos de tendinosis.
+Bursa subacromial- subdeltoídea  sin alteraciones.
+Tendón largo del bíceps de estructura normal, sin signos inflamatorios, en posición normal en la corredera, sin distensión
+de la vaina sinovial.
+Articulación acromio-clavicular de amplitud y contornosnormales
+No se observa derrame articular.
+Impresión Diagnóstica: 
+Examen sin hallazgos patológicos
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

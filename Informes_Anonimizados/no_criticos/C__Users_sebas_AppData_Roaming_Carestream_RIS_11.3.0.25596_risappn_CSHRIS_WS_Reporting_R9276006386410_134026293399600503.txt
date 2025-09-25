@@ -1,0 +1,39 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis sin Contraste
+En comparación con examen del [FECHA_ANONIMIZADA] se agrega material esponjoso o enfisematoso en la zona más
+anterior de la cavidad abdominal y pelviana, en relación a cicatriz de línea media, de 25 mm de grosor, de 120 mm de
+diámetro mayor axial a a y extensión sagital de 180 mm. Se agrega en el flanco derecho sonda de drenaje tipo ya son para
+con exteriorización en pared anterior de fosa de la cara derecha del extremo distal adyacente a la superficie hepática del
+segmento 5.
+En región subfrénica derecha se define parcialmente de colección de 45 x 15 mm de diámetro en el plano axial, la que se
+encuentra en relación al contorno de segmentos 7 y 8.
+Colección de aspecto laminar que se extiende desde el área de alteración descrita en línea media anterior y el catéter de
+drenaje, que se corresponde con colección visible en examen del 29 de diciembre 2020, actualmente laminar con espesor
+máximo de 5 mm.
+Se mantiene seudo colección en la gotera parietocólica izquierda, mal definida, de 30 mm de diámetro mayor.
+No hay otras colecciones abdominales o pelvianas.
+Hígado de tamaño normal. Se mantienen nódulos hipodensos, el mayor en el límite de segmentos 2 y 3 de 22 mm.
+Vesícula no se visualiza. Vía biliar no dilatada.
+Páncreas, bazo y suprarrenales de similar morfología. No se han agregado nódulos.
+Riñones de similar tamaño y forma. Nódulo hipodenso en polo inferior derecho sin cambios, de 47 mm. De ectasia
+pielocaliciaria ni litiasis.
+Aorta y grandes vasos de diámetro normales.
+No hay adenopatías retroperitoneales ni mesentéricas.
+Estómago y asas intestinales sin dilatación ni engrosamiento parietal. Cambios quirúrgicos por colectomía total.
+Anastomosis ileo-rectal sin nódulos ni colecciones adyacentes.
+Vejiga en escasa repleción con sonda Foley en el lumen.
+Útero en anteflexión sin nódulos aparentes. No hay masas anexiales.
+No se reconocen adenopatías inguinales.
+No se observan lesiones óseas destructivas o escleróticas.
+Impresión diagnóstica:
+Antecedentes de sepsis y de colectomía total.
+Pequeñas colecciones en flanco derecho, subfrénica derecha y en flanco izquierdo.
+Elemento con caracteres de cuerpo extraño en zona anterior ni en línea media del abdomen y pelvis.
+Se agrega sonda de drenaje a derecha.
+Quistes hepáticos y renal derecho sin variaciones.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

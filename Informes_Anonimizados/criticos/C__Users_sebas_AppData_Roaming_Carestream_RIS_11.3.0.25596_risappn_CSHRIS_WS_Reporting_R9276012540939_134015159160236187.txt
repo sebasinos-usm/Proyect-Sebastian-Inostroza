@@ -1,0 +1,24 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Ecotomografía Mamaria
+Paciente referida para control por nódulos mamarios izquierdos.
+Se dispone de serie de exámenes previos, última mamografía y ecografía de diciembre de 2024.
+Patrón fibroglandular homogéneo en ambas mamas.
+Quistes simples en mama derecha de hasta 5 mm.
+En mama izquierda en unión de cuadrantes externos se observa imagen nodular ovalada, que impresiona actualmente de
+aspecto sólido, vascularizada al estudio con Doppler power y con leve pérdida de definición de su margen anterior. Si bien
+no presenta progresión significativa en tamaño, se observa menor definición en su margen anterior respecto de exámenes
+previos y aumento de su vascularización interna. Mide 10 mm x 7 mm x 9 mm
+En mama izquierda persiste nódulo hipoecogénico en cuadrante superointerno, radio de la hora 9 - 10 a 4 cm del pezón,
+de 9 mm x 4 mm x 8 mm, sin variaciones, ovalado, de margen circunscrito y orientación paralela, sin signos de
+hipervascularización. Puede corresponder a origen sólido o quiste con contenido denso, de aspecto benigno.
+Regiones retroareolares libres.
+Regiones axilares libres de adenopatías.
+Impresión ecográfica.
+Nódulo en UCE de mama izquierda con algunos signos de sospecha, por lo que se sugiere evaluar con estudio histológico.
+Birads 4.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

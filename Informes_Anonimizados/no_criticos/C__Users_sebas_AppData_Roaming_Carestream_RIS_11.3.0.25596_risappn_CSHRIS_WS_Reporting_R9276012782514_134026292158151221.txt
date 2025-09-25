@@ -1,0 +1,13 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+RX Tórax Portátil
+Campos pulmonares de volúmenes conservados, sin evidencia de infiltrados ni condensaciones.
+Silueta cardíaca aumentada de tamaño.
+Aorta elongada.
+Hilios aumento de amplitud aspecto vascular.
+Catéter central, cuyo extremo se proyecta en vena cava superior.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

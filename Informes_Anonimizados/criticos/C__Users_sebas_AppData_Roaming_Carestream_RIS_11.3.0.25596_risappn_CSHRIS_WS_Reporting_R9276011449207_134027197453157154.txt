@@ -1,0 +1,37 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Hallazgos:
+Hígado de forma y tamaño normales, con disminución difusa de su densidad. En estas condiciones, no se identifican
+lesiones focales.
+Venas suprahepáticas, cava inferior y eje venoso porto-espleno-mesentérico permeables.
+Vesícula normalmente distendida, de pared fina, sin cálculos calcificados en su lumen. Vía biliar fina.
+Bazo, páncreas y glándulas suprarrenales sin alteraciones.
+Riñones de forma, tamaño y espesor parenquimatoso conservados. No hay dilatación de los sistemas excretores ni
+imágenes de litiasis.
+Vejiga escasamente distendida, con contenido líquido homogéneo, sin cálculos.
+Próstata aumentada de tamaño, con diámetro transverso de 50 mm.
+Vesículas seminales de aspecto tomográfico normal.
+No hay líquido libre peritoneal.
+Estómago y asas intestinales sin engrosamiento parietal ni dilatación patológica evidentes. Divertículos en colon
+descendente y sigmoides, sin signos de complicación aguda.
+En la fosa ilíaca derecha se visualiza el apéndice cecal distendido, de pared engrosada, con diámetro de hasta 22 mm,
+conteniendo apendicolitos en su lumen. Aumento de la densidad de la grasa peritoneal en la fosa ilíaca derecha.
+Aorta de calibre y trayecto conservados.
+Adenopatías en trayecto de ramas ileocólicas. No se visualizan adenopatías retroperitoneales ni ilíacas.
+Hernia umbilical, con anillo de 4 mm, sin no complicada.
+En las bases pulmonares no se identifican nódulos, focos de consolidación ni derrame pleural. Atelectasias laminares
+subpleurales bibasales.
+No son evidentes lesiones óseas traumáticas ni destructivas.
+Impresión diagnóstica:
+Hallazgos sugerentes de apendicitis aguda en evolución.
+Esteatosis hepática difusa.
+Aumento del tamaño prostático.
+Diverticulosis colónica, no complicada.
+Hernia umbilical, sin signos de complicación aguda.
+Atelectasias laminares en ambas bases pulmonares.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

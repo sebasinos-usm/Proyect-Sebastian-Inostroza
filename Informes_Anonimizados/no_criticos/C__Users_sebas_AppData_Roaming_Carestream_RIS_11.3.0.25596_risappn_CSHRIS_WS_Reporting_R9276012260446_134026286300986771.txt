@@ -1,0 +1,39 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+PET-CT
+Información Clínica:
+Cáncer de tiroides metastásico.
+Descripción del estudio:
+Adquisición: desde el vértex hasta los muslos, con contraste yodado.
+Dosis: 7,9 mCi de 18F-FDG.
+Glicemia: 97 mg/dL.
+Peso: 103 kg.
+Período de captación: 84 minutos.
+Hallazgos:
+El intenso metabolismo basal de la sustancia gris encefálica puede enmascarar lesiones. Áreas de hipodensidad en
+sustancia blanca supratentorial sin correlato metabólico.
+Nódulo hipermetabólico paratraqueal derecho en el lecho de tiroidectomía con SUVmax 10,5.
+Adenopatías hipermetabólicas cervical izquierda en grupo III con SUVmax 21,8 y cervical derecha en grupo IV con SUVmax
+12,5.
+Nódulo pulmonar hipermetabólico cisural en el segmento superior de LLI con SUVmax 3,0 y otros pequeños nódulos
+pulmonares subcentimétricos sin hipermetabolismo evidente, el mayor en el segmento basal posterior del LID con
+SUVmax 1,3.
+Estructuras mediastínicas sin alteraciones metabólicas.
+No se identifican adenopatías hipermetabólicas hiliares, mediastínicas ni axilares
+Quiste hipocaptante simple en el segmento V hepático. Resto del parénquima hepático de metabolismo normal.
+Vesícula no visualizada. Distribución habitual de la glucosa en vía biliar, bazo, glándulas suprarrenales, páncreas y tubo
+digestivo. Divertículos colónicos sin signos inflamatorios.
+Próstata levemente aumentada de tamaño, sin focos hipermetabólicos. Vesículas seminales de metabolismo normal. 
+No se visualizan adenopatías hipermetabólicas infradiafragmáticas.    
+Excreción renal habitual del radiotrazador. 
+Esqueleto y partes blandas visibles sin lesiones hipermetabólicas sospechosas.   
+Impresión diagnóstica:
+1.- Antecedentes de neoplasia de tiroides tratada y recidiva local.
+2.- Nódulo hipermetabólico en el lecho de tiroidectomía a derecha compatible con recidiva.
+3.- Adenopatías hipermetabólicas cervicales de aspecto secundario en los grupos IV derecho y III izquierdo.
+4.- Nódulo pulmonar hipermetabólico en el segmento superior del LII probablemente  metastásico. 
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,25 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+AngioTC de Cuello Carótidas
+HALLAZGOS:
+Arco aórtico de configuración habitual, con diámetros conservados, sin estenosis significativas.
+Moderada elongación de arterias cervicales sin determinar estenosis significativas.
+Orígenes de los troncos supraaórticos sin evidencias de estenosis significativas. Tronco braquiocefálico permeable, sin
+estenosis significativas.
+Arterias subclavias con trayectos y diámetros conservados, sin estenosis significativas, permeables.
+Arterias carótidas comunes con diámetros conservados, con sus lúmenes ampliamente permeables, al igual que los bulbos
+carotideos, sin reconocer estenosis significativas.
+Las arterias carótidas internas se encuentran permeables, con trayecto y diámetros conservados, sin reconocer estenosis
+significativas.
+Arterias vertebrales permeables.
+Las arterias carótidas externas y sus ramas evaluables con esta técnica también presentan diámetros conservados y
+lúmenes permeables.
+No se observan dilataciones aneurismáticas, flaps de disección ni evidencias de trombosis.
+Cambios degenerativos de la columna cervical.
+IMPRESIÓN DIAGNÓSTICA:
+Examen sin evidencias de estenosis significativas u oclusiones en arterias cervicales evaluables.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

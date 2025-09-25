@@ -1,0 +1,24 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Cerebro sin Contraste
+Extenso hematoma subdural que compromete el lóbulo frontal en lóbulo parietal a izquierda, con contenido hipodenso y
+espontáneamente denso, de hasta 17 mm de espesor. Determina desplazamiento de la línea media a la derecha en
+aproximadamente 11 mm y compresión del ventrículo lateral de este lado. Pequeña herniación temporal medial.
+Cerebelo y troncoencéfalo sin alteraciones de los índices de atenuación.
+Cuarto ventrículo de amplitud normal, en línea media.
+No se identifican ocupaciones patológicas en las cisternas de la fosa posterior.
+Cerebro con aumento de profundidad de los surcos corticales frontales, como manifestación de cambios degenrativos. 
+No se observan lesiones óseas en calota ni base de cráneo.
+No se identifican ocupaciones patológicas en los senos paranasales ni en las celdillas mastoideas.
+Ateromatosis en sifones carotídeos.
+Impresión diagnóstica:
+Hematoma subdural extenso al izquierda, que determina compresión extrínseca de estructuras encefálicas,
+desplazamiento de la línea media, disminución del espacio ventrículo lateral de este lado y herniación del lóbulo
+temporal.
+Dra. Camila Leiva León
+Médico Radiólogo
+Informe validado por: /
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

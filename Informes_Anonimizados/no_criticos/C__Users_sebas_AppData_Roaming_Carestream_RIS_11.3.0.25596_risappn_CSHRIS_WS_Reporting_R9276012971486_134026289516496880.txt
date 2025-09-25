@@ -1,0 +1,20 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Tomografía computada de columna lumbar no contrastada.
+Antecedente clínico: 
+Dolor.
+Hallazgos:
+Densidad mineral ósea conservada.
+No hay evidencia de una lesión ósea traumática mediante esta técnica.
+Cuerpos vertebrales lumbares de altura normal, bien alineados en el plano sagital y coronal.
+Espacios discales intervertebrales amplitud conservada. No se reconocen protrusiones discales significativas mediante
+esta técnica.
+Articulaciones facetarias congruentes. No hay signos de espondiloartrosis significativa.
+Procesos espinosos espacios y interespinosos dentro de límites normales.
+Impresión:
+Examen sin hallazgos patológicos.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

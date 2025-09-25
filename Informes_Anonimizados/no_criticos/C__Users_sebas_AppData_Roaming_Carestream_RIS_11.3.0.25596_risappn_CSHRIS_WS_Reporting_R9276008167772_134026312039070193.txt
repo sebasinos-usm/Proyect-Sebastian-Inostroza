@@ -1,0 +1,15 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Rx Tórax PA-LAT Izquierdo
+HALLAZGOS
+Pulmones adecuadamente insuflados.
+No se observan imágenes de condensación.
+Aumento del infiltrado intersticial de predominio perihiliar.
+No se observa derrame pleural ni neumotórax.
+Contornos mediastínicos e hiliares sin alteraciones.
+Silueta cardiaca de tamaño normal. 
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

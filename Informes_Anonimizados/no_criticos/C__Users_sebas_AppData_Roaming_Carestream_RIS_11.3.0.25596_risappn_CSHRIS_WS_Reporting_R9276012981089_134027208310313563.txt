@@ -1,0 +1,21 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+AngioTC de Cerebro
+Antecedentes clínicos:
+Cefalea atípica.
+Hallazgos:
+Arterias carótidas internas, cerebrales anteriores, cerebrales medias y cerebrales posteriores de adecuado calibre,
+permeables.
+Arterias vertebrales y tronco basilar sin alteraciones. 
+No se observan dilataciones aneurismáticas, disecciones ni malformaciones arteriovenosas.
+Discreta estenosis focal en el segmento oftálmico de la arteria carótida interna derecha distal, menor al 50%, en un
+segmento aproximado de 3 mm de largo.
+Principales senos venosos durales permeables.
+Impresión:
+Estudio angiográfico cerebral sin hallazgos patológicos agudos.
+Leve estenosis focal en segmento esternal artera carótida interna derecha distal, menor al 50%.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,66 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Flap de disección aórtico que se extiende inmediatamente distal al origen de la arteria subclavia izquierda, hasta la arteria
+ilíaca común izquierda.
+Lumen verdadero ubicado hacia medial, de menor diámetro en relación al lumen falso.
+El trayecto aórtico torácico se observa elongado.
+Arteria gástrica izquierda surge desde la arteria aorta, previo al tronco celíaco, como variante de la normalidad, sin
+identificar disección.
+Tronco celíaco emerge desde el lumen verdadero, observando menor diámetro a nivel del ostium, lo que se explica por
+compresión extrínseca del en el lumen falso.
+Arteria mesentérica superior se observa disecada, en una longitud de aproximadamente 40 mm desde la emergencia.
+Lumen verdadero ubicado en el hacia medial. Presencia medio de contraste hacia el territorio mesentérico distal y sus
+ramas.
+Arteria mesentérica inferior emerge de un verdadero, con recorrido axial laterales izquierdos, con adecuado realce tras la
+administración de contraste.
+Arteria renal derecha de menor diámetro, emerge de un verdadero. Arteria renal izquierda con ostium de salida en el
+lumen falso. También de menor diámetro. 
+El flap de disección se extiende a través de la arteria ilíaca común, en aproximadamente 32 mm de de la bifurcación
+aórtica.
+Arteria ilíaca común derecha de características conservadas. En el trayecto de la arteria ilíaca común e externa derecha se
+observa otro pequeño flap de disección, que tiene una longitud aproximada de 19 mm.
+Placas de ateroma aortoilíacas.
+Hígado presenta discreto aumento de tamaño del lóbulo derecho y del caudado. No se observan lesiones focales. Vía
+biliar intra y extrahepática no dilatada. Vesícula parcialmente distendida, de pared evaluable, sin litiasis cálcica en el
+lumen.
+Líquido libre perihepático, periportal y perivesicular.
+Páncreas, bazo y glándulas suprarrenales de características normales.
+Riñones disminuidos de tamaño, concordante con antecedente de enfermedad renal crónica en diálisis. Presenta algunos
+nódulos hipodensos redondeados, bilaterales, sugerentes de quistes.
+No hay hidronefrosis ni nefrolitiasis. Uréteres de calibre y trayecto normal. Vejiga escasamente distendida, de pared no
+evaluable.
+Próstata y vesículas seminales sin hallazgos a destacar.
+Asas colónicas de calibre y trayecto habitual. Cavidad gástrica distendida. Duodeno y restantes asas de intestino delgado
+sin hallazgos a destacar.
+Vena cava inferior y eje venoso porto esplenomesentérico permeables.
+Líquido libre periesplénico, interasa y pelviano, leve a moderado. No se observan adenopatías retroperitoneales,
+mesentéricas y pelvianas.
+Planos parietales continuos. Masas musculares y densidad simétrica.
+Lesión ósea, con persistencia de componente cortical, en el espesor del hueso pubiano derecho, adyacente a la sínfisis del
+pubis, con componente sólido, mide 19 x 16 mm de los ejes transversal y anteroposterior respectivamente.
+Cambios degenerativos en columna vertebral.
+Impresión diagnóstica:
+                  *El presente resultado debe correlacionarse con el cuadro clinico y ser evaluado por medico tratante*
+Extensa disección aórtica tipo B de la clasificación de Stanford, que se extiende hasta el territorio ilíaco común izquierdo,
+disecando además la arteria mesentérica superior, con emergencia de la arteria renal izquierda desde el lumen falso.
+Disección de la arteria ilíaca externa derecha, de pequeña extensión.
+Ateromatosis aortoilíaca.
+Hepatomegalia a expensas del lóbulo derecho y del lóbulo caudado.
+Líquido libre abdominopelviana, leve a moderado.
+Signos de nefropatía crónica bilateral, concordante con antecedente. Presencia de imágenes de aspecto quístico corticales
+renales bilaterales.
+Lesión ósea en hueso pubiano derecho, que respeta la cortical, con componente sólido en el espesor de hueso.
+Fecha addendum:
+[FECHA_ANONIMIZADA] 22:37:12
+Notifico Valor crítico a Dra. García
+Addendum firmado por:
+Dra.Camila Leiva León
+Médico Radiólogo
+Dra. Camila Leiva León
+Médico Radiólogo
+Informe validado por: /
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

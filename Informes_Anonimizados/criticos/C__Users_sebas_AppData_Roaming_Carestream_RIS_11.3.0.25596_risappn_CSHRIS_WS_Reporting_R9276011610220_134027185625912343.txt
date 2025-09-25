@@ -1,0 +1,32 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Tórax con Contraste
+Antecedente de neoplasia mamaria. Se compara con PET CT previo de agosto de 2024.
+Tráquea y bronquios principales de calibres y trayectos normales.
+Escasos opacidades atelectasias lineales bibasales.
+No se observan opacidades de condensación, nódulos pulmonares ni derrame pleural.
+Tiroides sin nódulos. Esófago sin engrosamientos parietales.
+Corazón de tamaño y configuración normal.
+Arteria pulmonar de calibre normal.
+Aorta torácica de calibre y trayecto conservado. 
+Catéter venoso subclavio derecho con extremo distal en vena cava superior.
+No se observan adenopatías mediastínicas, supraclaviculares ni axilares.
+Masa mamaria izquierda ya conocida, con diámetros de 68 x 59 mm, lo que previamente era de 49 x 52 mm.
+Mayor tamaño de adenopatías axilares izquierdas, la mayor de ellas de 45 mm de eje corto, previamente 30 mm. Se
+agrega adenopatía axilar derecha de 10 mm de eje corto.
+Mayor tamaño de adenopatías prevasculares, la mayor de ellas de 40 x 30 mm, previamente 33 x 30 mm.
+Mayor tamaño de adenopatías en cadena mamaria interna izquierda, la mayor de 13 mm de eje corto, previamente 10
+mm.
+Menor tamaño de adenopatía cervical baja izquierda, actualmente de 13 mm de eje corto, previamente 21 mm.
+Incidentalmente se observan defectos de lleno hipodensos en fase arterial en ramas arteriales para segmentos lingulares,
+segmento basal posterior del lóbulo inferior derecho e interlobar derecha.
+Impresión diagnóstica:
+Control de neoplasia mamaria, evidenciando mayor tamaño de la masa en región mamaria izquierda y de las adenopatías
+torácicas según lo descrito.
+Menor tamaño de adenopatía cervical izquierda.
+Signos de tromboembolismo pulmonar bilateral. Se sugiere estudio dirigido con angioTC de tórax.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

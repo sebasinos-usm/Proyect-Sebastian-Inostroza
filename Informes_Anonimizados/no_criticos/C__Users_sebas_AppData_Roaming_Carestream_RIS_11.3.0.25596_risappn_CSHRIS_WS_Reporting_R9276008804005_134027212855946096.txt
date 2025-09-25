@@ -1,0 +1,10 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Rx Ambas ATM Boca Abierta
+No se reconocen lesiones óseas traumáticas ni destructivas en esta proyecciones.
+Para mayor caracterización se sugiere estudio con tomografía computada.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

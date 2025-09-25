@@ -1,0 +1,40 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+AngioTC de Tórax
+Arteria pulmonar y sus ramas principales de calibre normal, permeables. El tronco principal mide 18 mm, la rama derecha
+25 mm y la izquierda 27 mm. No identifico defectos de opacificación compatibles con trombos.
+Se evalúa ramas lobares y segmentarias, sin identificar trombos.
+Se observa disminución de calibre de algunas ramas arteriales subsegmentarias bilaterales y amputación de ramas
+periféricas en segmentos apicoposterior del lóbulo superior izquierdo y basales posteriores de ambos lóbulos inferiores.
+Aorta de calibre conservado, con moderada ateromatosis.
+Corazón aumentado de tamaño. Hipertrofia concéntrica del ventrículo izquierdo, lo que altera índice VD/VI. El ventrículo
+derecho no impresiona dilatado. Calcificaciones coronarias. Marcapasos en región pectoral izquierda, con extremos en
+cavidades derechas.
+Tráquea y bronquios principales de calibre normal, permeables.
+Focos de condensación en segmentos apicoposterior del lóbulo superior izquierdo, superior del lóbulo inferior izquierdo,
+superior del lóbulo inferior derecho y basales posteriores de ambos lóbulos inferiores.
+Trazas de enfisema centrolobulillar bilateral.
+No hay derrame pleural.
+Glándula tiroides sin nódulos.
+Esófago torácico sin engrosamiento parietal.
+No observo adenopatías en el mediastino ni en los hilios pulmonares.
+Quistes corticales simples bilaterales.
+Cambios degenerativos de columna dorsal. 
+En estudio de las EEII no se observan signos de trombosis venosa profunda.
+Impresión diagnóstica:
+Hallazgos compatibles con tromboembolismo pulmonar agudo y crónico.
+Focos de condensación pulmonares bilaterales, pueden corresponder a infartos, proceso inflamatorio infeccioso asociado
+no es descartable.
+Aumento de calibre de ramas principales de la arteria pulmonar, podría estar en contexto de hipertensión pulmonar.
+Cardiomegalia, con hipertrofia concéntrica del ventrículo izquierdo.
+Trazas de enfisema centrolobulillar bilateral.
+Ateromatosis aórtica y coronaria.
+Quistes corticales simples renales bilaterales.
+Cambios degenerativos de columna dorsal.
+Dra. María Alejandra Guillon García
+Médico Radiólogo
+Informe validado por: /
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,24 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+AngioTC de Tórax
+En la fase angiográfica de arterias pulmonares, se identifica defecto de llene hipodenso en bifurcación para segmentos
+basales del LID sugerente de TEP.
+Tráquea y bronquios principales de calibres normales, permeables. 
+No se observan opacidades de condensación, nódulos pulmonares de aspecto sospechoso ni derrame pleural.
+Tiroides sin nódulos. Esófago sin engrosamientos parietales.
+Corazón de tamaño y configuración normal. Placas coronarias. No se observa sobrecarga derecha.
+Arteria pulmonar de calibre normal.
+Aorta torácica de calibre y trayecto conservado, con placas cálcicas.
+No se observan adenopatías mediastínicas, supraclaviculares, hiliares ni axilares.
+Persiste trombosis en venas femorales superficial y profunda a izquierda. 
+Esclerosis en plataforma inferior de T10, adyacente a signos de discopatía de T10-T11.
+Impresión diagnóstica: 
+TEP en bifuración para segmentos basales del LID. 
+TVP inferior izquierda.
+Ateromatosis aorto-coronaria.
+Área esclerótica en T10. ¿Degenerativo? Controlar. 
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

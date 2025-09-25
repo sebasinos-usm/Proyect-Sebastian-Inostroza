@@ -1,0 +1,40 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Este informe considera:
+RM de Columna Cervical bajo Anestesia sin contraste
+RM de Columna Dorsal bajo Anestesia sin contraste
+RM de Cerebro bajo Anestesia sin Contraste
+RM DE CEREBRO Y COLUMNA CERVICAL Y DORSAL
+Antecedentes: Politraumatizado grave.
+Técnica: Adquisición multiplanar y multisecuencial de acuerdo a protocolo de encéfalo y columna cervical y dorsal, sin
+contraste. Se dispone de TC del [FECHA_ANONIMIZADA] para comparar.
+Hallazgos: 
+Hematomas intraparenquimatosos frontales anteriores bilaterales y temporoinsular derecho. El hematoma frontal
+derecho mide aproximadamente 15 x 7 mm en los ejes axiales mayores. El hematoma temporal derecho mide
+aproximadamente 16 x 11 mm en los ejes mayores. Se asocian a hemorragia subaracnoidea de la convexidad
+frontoparietooccipital bilateral y temporal derecha. Microhemorragias parietal izquierda y periventricular occipital
+derecha. Núcleos grises centrales sin lesiones. Aracnoidocele selar. Sistema ventricular supratentorial de amplitud
+normal. Cuarto ventrículo de morfología normal. Troncoencéfalo y cerebelo sin lesiones evidentes. Cisternas basales
+libres. No se observan lesiones isquémicas agudas. Espacio subaracnoideo y surcos de la convexidad de amplitud
+conservada. No se observan colecciones yuxtadurales.
+Adecuado alineamiento de la columna en el plano sagital. Leve incurvación dorsal de convexidad derecha. Cuerpos
+vertebrales y discos intervertebrales de altura conservada. Fractura del proceso transverso derecho de C7 y T1.
+Disminución de señal de los discos intervertebrales C3-C4 y C4-C5. Pequeño hemangioma óseo del cuerpo vertebral T1.
+No se observan protrusiones discales significativas que determinan conflicto de espacio. Cordón medular visible de
+grosor y señal conservada. El canal raquídeo y los neuroforámenes son de amplitud suficiente. Articulaciones
+facetarias bien alineadas, con leves cambios degenerativos de predominio a nivel cervical. Incremento de señal en STIR
+de los ligamentos interespinosos C4-C5 y C5-C6. Incremento de señal en STIR de la musculatura paravertebral cervical
+posterior derecha. Fenómeno de condensación pulmonar bilateral, posiblemente contusivos. Fracturas costales
+múltiples, reportadas y mejor visualizadas en TC previo.
+Impresión: 
+Control de TEC complicado, con contusiones hemorrágicas frontales anteriores bilaterales y temporoinsular derecha.
+Hemorragia subaracnoidea supratentorial.
+Fractura del proceso transverso derecho de las vértebras C7 y T1.
+Edema interespinoso C4-C5 y C5-C6, sugerente de lesión ligamentaria por distensión.
+Edema de la musculatura paravertebral cervical posterior derecha.
+Leve artrosis facetaria.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

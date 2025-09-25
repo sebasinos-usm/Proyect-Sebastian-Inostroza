@@ -1,0 +1,21 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Mano Izquierda sin Contraste
+Antecedentes: Trauma con herida penetrante en palma mano izquierda. Taladro eléctrico.
+Hallazgos:
+Lesión esclerótica en cabeza del tercer metacarpiano de 5 mm de diámetro.
+No se identifican lesiones óseas traumáticas ni destructivas. 
+Espacios articulares radiocarpiano, intercarpianos, carpometacarpianos, metacarpofalángicos e interfalángicos de
+amplitud conservada.
+Masas musculares de densidad de grosor conservado. Siluetas de tendones flexores de grosor conservado.
+Contenido denso superficial al plano muscular en relación a aspecto radial de la eminencia hipotenar, que puede
+corresponder a contenido hemático.
+Impresión Diagnóstica:
+Tomografía computada de mano sin evidencia de fracturas.
+Lesión esclerótica en cabeza del tercer metacarpiano, compatible con encondroma.
+Contenido denso superficial a musculatura hipotenar, que puede corresponder a contenido hemático.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

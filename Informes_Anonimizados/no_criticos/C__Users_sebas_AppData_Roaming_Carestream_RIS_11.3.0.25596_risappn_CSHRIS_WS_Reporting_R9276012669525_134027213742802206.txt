@@ -1,0 +1,25 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Colangio RM
+Hígado de forma, tamaño y estructura conservada, sin evidencia de lesiones focales en las secuencias evaluadas.
+Vía biliar intra y extrahepática no dilatadas. Conducto hepático común mide 3 mm de diámetro. No se observan imágenes
+endoluminales ni compresiones extrínsecas. Evaluación dinámica, muestra adecuada apertura a nivel de la papila.
+Vesícula con distensión subóptima a pesar de ayuno adecuado. Mide 85 x 20 mm. No se observan imágenes litiásicas.
+Pared vesicular presenta leve engrosamiento parietal irregular y difuso, de hasta 3 mm de grosor. No se observa edema
+perivesicular. Planos grasos perivesiculares conservados. Por las características impresiona corresponder a colecistitis
+crónica alitiásica.
+Páncreas de características conservadas. Conducto de Wirsung fino.
+Bazo y glándulas suprarrenales, sin alteraciones.
+Riñones de características conservadas, sin evidencia de ectasia. Quiste simples aislados de pequeño tamaño en riñón
+izquierdo.
+No se observan linfonodos de características patológicas en las distintas cadenas evaluables.
+No se observa líquido libre.
+Tracto gastrointestinal en sus segmentos evaluables, sin alteraciones.
+Impresión diagnóstica:
+Vesícula con leve engrosamiento parietal difuso e irregular, sin evidencia de imágenes litiásicas. Por las características
+podría corresponder a colecistitis crónica alitiásica.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,58 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC-PET FDG
+Se realiza estudio con medio de contraste yodado desde vértex de cráneo a pies.
+En el encéfalo no se observan nódulos ni áreas de realce patológico con el medio de contraste.
+No se visualizan adenopatías hiper metabólicas cervicales ni supraclaviculares.
+Glándulas parótidas, submandibulares y tiroides sin lesiones.
+Moderado derrame pleural derecho e importante derrame pleural izquierdo. Múltiples nódulos pleurales izquierdos hiper
+metabólicos, el mayor a nivel del 11º espacio intercostal de 41 mm. no se identifican nódulos pleurales derechos hiper
+metabólicos.
+Compromiso atelectásico de gran parte del lóbulo inferior izquierdo con marcado hiper metabolismo difuso y en menor
+medida del sector posterior del pulmón derecho.
+Incontables nódulos pulmonares bilaterales hiper metabólicos, que tienden a la confluencia en ambas bases pulmonares,
+destacando formación de una masa hiper metabólica subpleural basal derecha de aproximadamente 84 x 29 mm. leve
+engrosamiento de septos interlobulillares bilaterales.
+Tráquea, bronquios principales y esófago sin alteraciones.
+Adenopatías hiper metabólicas en mediastino en grupos paratraqueales inferiores y subcarinal e hiliares bilaterales, p.ej.
+en la región subcarinal de 24 x 17 mm. No se reconocen adenopatías hiper metabólicas axilares.
+Corazón de tamaño normal, identificando en la aurícula derecha una imagen seudonodular de baja densidad e hiper
+metabólica de aproximadamente 37 mm. Calcificaciones en el plano valvular aórtico. Estructuras vasculares del
+mediastino sin alteraciones. Aorta de diámetros conservados. Leve ateromatosis.
+Hígado de tamaño y estructura normales, con alguna lesiones focales hepáticas levemente hiper metabólicas de hasta 29
+mm
+Vesícula distendida, con una litiasis cálcica de 26 mm, sin cambios inflamatorios. Vía biliar no dilatada. Bazo, páncreas y
+glándula suprarrenal derecha sin alteraciones.
+Leve engrosamiento nodular hiper metabólico del brazo lateral de la glándula suprarrenal izquierda de 12 mm,
+inespecífico.
+Riñones de forma y tamaño normales. Parénquimas de espesor normal. Quiste cortical simple en polo superior izquierdo
+24 mm. Quistes parapiélicos bilaterales. No hay hidroureteronefrosis ni litiasis.
+Vejiga en repleción parcial, con contenido homogéneo.
+Próstata aumentada de tamaño improntando el piso vesical, sin focos hiper metabólicos. Vesículas seminales simétricas.
+Foco de acentuado hiper metabolismo en colon ascendente, asociado a aparente engrosamiento parietal.
+Estómago y restantes asas intestinales sin dilatación, engrosamiento parietal ni focos hiper metabólicos. Múltiples
+divertículos colónicos, destacando uno de ellos en el colon sigmoides con leve engrosamiento parietal asociado a mayor
+densidad del tejido adiposo adyacente e hipermetabolismo, sugerente de un compromiso inflamatorio en evolución no
+complicado.
+No se reconocen adenopatías hiper metabólicas retroperitoneales, mesentéricas, ilíacas o inguinales.
+Lesión lítica hiper metabólica en el borde lateral de la clavícula izquierda, con componente de masa de partes blandas de
+hasta 32 mm.
+No se visualizan otras lesiones óseas líticas, escleróticas o hiper metabólicas.
+Impresión diagnóstica:
+Hallazgos compatibles con enfermedad neoplásica diseminada, con compromiso pulmonar bilateral, pleural izquierdo,
+nodal supradiafragmático, hepático y en clavícula izquierda. 
+                  *El presente resultado debe correlacionarse con el cuadro clinico y ser evaluado por medico tratante*
+Foco hiper metabólico asociado a aparente engrosamiento parietal del colon ascendente, no descartando lesión tumoral
+primaria, lo cual se recomienda evaluar mediante endoscopia.
+Compromiso atelectásico pulmonar del lóbulo inferior izquierdo, con marcado hiper metabolismo difuso, no descartando
+una lesión primaria a este nivel.
+Lesión hiper metabólica en la aurícula derecha del corazón, que puede corresponder a trombo agudo vs tejido tumoral.
+Engrosamiento focal hiper metabólico de la glándula suprarrenal izquierda, indeterminado.
+Múltiples divertículos colónicos, con signos de diverticulitis aguda en colon sigmoides, no complicada.
+Moderado derrame pleural derecho e importante a izquierda. Escasa ascitis.
+Colelitiasis.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

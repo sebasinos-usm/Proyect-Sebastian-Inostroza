@@ -1,0 +1,40 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+AngioTC de Tórax
+Antecedentes clínicos:
+Trombosis venosa profunda de extremidad inferior izquierda.
+Sospecha de tromboembolismo pulmonar.
+Hallazgos:
+Múltiples defectos de llenado hipodensos endoluminales centrales en ramas lugares y segmentarias para el lóbulo inferior
+derecho, especialmente segmento basal posterior y en menor medida en la língula y segmentos basales del lóbulo inferior
+izquierdo, especialmente basal antero medial, compatible con tromboembolismo pulmonar bilateral.
+Arteria pulmonar central de calibre conservado.
+Corazón de tamaño normal. No hay derrame pericárdico.
+Destaca rectificación y leve inversión del tabique interventricular, como signo de sobrecarga de cavidades cardíacas
+derechas. Índice ventrículo derecho ventrículo izquierdo de 1.
+Aorta ascendente prominente, con un calibre aproximado de 43 mm de eje transverso, sin criterio aneurismático.
+Resto del arco aórtico y aorta descendente de calibre conservado.
+Escasas y finas placas de ateroma blando y calcificado en la aorta, principalmente porción descendente.
+Arterias supraaórticas de trayecto proximal tortuoso.
+No se observan adenopatías mediastínicas, hiliares ni axilares según criterios de tamaño.
+Esófago sin masas.
+Partes blandas del tórax sin hallazgos patológicos.
+No hay derrame pleural ni neumotórax.
+Vía aérea central y periférica permeable, de calibre conservado, no engrosada.
+Pulmones de volumen y arquitectura global normal.
+No se observan focos de condensación, masas ni nódulos pulmonares sospechosos. Tampoco áreas parenquimatosas
+pulmonares que sugieran infarto o isquemia pulmonar.
+Múltiples atelectasias subsegmentarias en ambos lóbulos inferiores.
+No se identifican lesiones focales óseas traumáticas ni destructivas mediante esta técnica.
+Incipientes cambios degenerativos discales intervertebrales en la columna dorsal baja.
+Impresión:
+Tromboembolismo pulmonar bilateral lobar y segmentario según lo descrito, que predomina hacia el lóbulo inferior
+derecho.
+Signos de sobrecarga de cavidades cardíacas derechas.
+Leve distensión de la aorta ascendente.
+Ateromatosis mixta de la aorta torácica.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

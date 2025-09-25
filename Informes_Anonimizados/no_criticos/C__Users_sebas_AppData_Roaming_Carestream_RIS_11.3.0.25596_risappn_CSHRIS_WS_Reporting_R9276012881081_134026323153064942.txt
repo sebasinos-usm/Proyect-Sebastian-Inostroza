@@ -1,0 +1,26 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Órbitas Máxilo-Facial sin Contraste
+Antecedente clínico: Trauma orbitario izquierdo.
+Hallazgos:
+Densidad mineral ósea conservada.
+No se identifican fracturas mediante esta técnica.
+Cavidades orbitarias óseas simétricas. Globos oculares de adecuada morfología.
+Nervios ópticos y músculos extraoculares sin alteraciones. 
+Tejido adiposo postseptal intra y extraconal conservado.
+Adecuado desarrollo y neumatización de las cavidades paranasales.
+Leve engrosamiento mucoso marginal en la porción caudal de ambos senos maxilares, celdillas etmoidales anteriores y
+hemiseno frontal derecho, de aspecto inflamatorio.
+No hay desviaciones significativas del tabique nasal óseo.
+Adecuada neumatización de celdillas mastoideas y medios.
+ATMs congruentes.
+Aumento de volumen y de densidad de las partes blandas periorbitarias izquierdas, con extensión hacia la región malar
+ipsilateral.
+Impresión:
+Cambios inflamatorios postraumáticos periorbitarios y en la región malar a izquierda.
+Leves cambios inflamatorios sinusales.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

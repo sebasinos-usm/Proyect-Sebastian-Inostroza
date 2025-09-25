@@ -1,0 +1,18 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Ecotomografía Mamaria
+Patrón predominantemente glandular. 
+Masa mamaria derecha heterogénea hipoecogénica de bordes irregulares microlobulados, en hora 10 a 4 cm del pezón,
+que mide 48 x 33 x 36 mm. Contacta la pared torácica. 
+Quistes mamarios bilaterales, destacando agrupados en CSI de mama derecha, de 5 mm, y en CSE de mama izquierda, de
+11 mm. 
+Linfonodos axilares bilaterales. A derecha presentan corticales menores a 3 mm. 
+Regiones retroareolares libres. 
+Impresión diagnóstica: 
+Masa mamaria derecha de aspecto sospechoso. 
+US BIRADS 5. 
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

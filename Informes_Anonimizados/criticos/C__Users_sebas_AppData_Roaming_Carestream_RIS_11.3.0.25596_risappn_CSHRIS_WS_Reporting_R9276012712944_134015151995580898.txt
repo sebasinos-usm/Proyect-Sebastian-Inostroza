@@ -1,0 +1,25 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Ecotomografía Mamaria
+Indicación del examen:
+Secreción patológica de pezón izquierdo.
+RM reciente describe pequeñas lesiones periareolares derechas.
+Ecotomografía de segunda mirada.
+Hallazgos:
+Patrón ecográfico fibroglandular homogéneo.
+En región retroareolar derecha, nódulo hipoecogénico, ovalado y circunscrito, de 5 x 3 mm, hipervascularizado, en
+correspondencia con una de las lesiones visibles en RM. Los otros tres focos hipercaptantes en región periareolar hacia el
+CII derecho, no tienen clara representación.
+Prominencia ductal focal en región retroareolar izquierda de 8 mm que presenta contenido hipoecogénico vascularizado.
+Múltiples quistes bilaterales, simples y algunos con contenido, de hasta 36 mm en el CSE izquierdo.
+Regiones axilares sin evidencia de adenopatías. 
+Impresión:
+Pequeño nódulo retroareolar derecho, que podría corresponder a lesión papilar.
+Contenido hipoecogénico vascularizado en ducto retroareolar izquierdo.
+Recomiendo estudio histológico de ambas lesiones.
+BI-RADS US 4
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

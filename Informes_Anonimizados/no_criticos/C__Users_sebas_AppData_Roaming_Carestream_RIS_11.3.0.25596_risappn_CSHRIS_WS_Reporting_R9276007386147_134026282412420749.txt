@@ -1,0 +1,19 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Mamografía Bilateral
+Hallazgos :
+Piel y tejido celular subcutáneo sin alteraciones .
+La unidad areola y pezón normal.
+Mamas densas y con distribución relativamente simétrica aunque algo heterogénea observando algunos contornos
+nodulares parciales bilaterales.
+No se demuestran nódulos categóricos así como tampoco lesiones espiculadas o áreas de distorsión .
+No se reconocen microcalcificaciones agrupadas de manera sospechosa . 
+Conclusión :
+Mamas de aspecto heterogéneo con contornos nodulares parciales por lo que se requiere ultrasonido complementario.
+Birads 0.
+ACR  C.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

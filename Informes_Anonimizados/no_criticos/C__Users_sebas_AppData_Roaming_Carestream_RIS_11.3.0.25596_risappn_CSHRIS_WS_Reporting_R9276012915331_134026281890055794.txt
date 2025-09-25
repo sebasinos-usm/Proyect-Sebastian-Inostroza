@@ -1,0 +1,21 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Cerebro sin Contraste
+Ventrículos laterales de volumen y configuración normales, simétricos.
+Tercer ventrículo de amplitud normal, en línea media.
+En el parénquima encefálico supratentorial no se visualizan lesiones focales.
+Indemnidad de estructuras de fosa posterior.
+No se reconocen colecciones yuxtadurales ni signos de HSA.
+Surcos de la convexidad, valles silvianos y cisternas subaracnoideas de la base de amplitud normal.
+Ateromatosis en sifones carotídeos.
+No se observan lesiones traumáticas o destructivas en base de cráneo ni calota. No se visualiza hematoma subgaleal.
+Senos paranasales y celdillas mastoideas sin ocupaciones patológicas.
+Impresión diagnóstica:
+Antecedentes de traumatismo.
+Examen sin evidencias de lesiones traumáticas craneoencefálicas.
+Ateromatosis cálcica sifones carotídeos.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

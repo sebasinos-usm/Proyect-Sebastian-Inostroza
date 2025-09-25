@@ -1,0 +1,16 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Rx Tórax PA-LAT Izquierdo
+HALLAZGOS:
+Diafragmas bien definidos.
+No hay signos de derrame pleural.
+Pulmones bien expandidos sin focos de condensación.                   
+Leve engrosamiento intersticial peri bronquial peri hiliar, inespecífico.
+Silueta cardíaca  de tamaño en límite normal.                    
+Aorta torácica elongada.
+Hilios sin alteraciones.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,12 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Rx Rodilla Derecha AP-LAT-AX Rotula
+Estructura ósea de características conservadas, sin evidencia de lesiones traumáticas.
+Espacio articular femorotibial conservado.
+Rótula tipo II.  Espacio articular femoropatelar de amplitud normal.
+Restantes estructuras evaluables, sin alteraciones.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

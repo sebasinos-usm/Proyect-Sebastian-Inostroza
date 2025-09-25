@@ -1,0 +1,32 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Antecedentes clínico:
+Sospecha de obstrucción intestinal postoperatorio.
+Hallazgos:
+Destacan acentuada dilatación en rango patológico del colon, con un cambio de calibre abrupto único en el tercio medio
+del colon sigmoides. No se identifican lesiones focales a ese nivel, solo material fecal. El resto del colon sigmoides, recto,
+asas de intestino delgado y estómago se encuentran parcialmente colapsadas.
+No hay ascitis ni neumoperitoneo libre.
+Hígado, vía biliar, páncreas, bazo, glándulas suprarrenales, riñones, vejiga y vesículas seminales sin alteraciones
+significativas.
+No hay nefrolitiasis ni hidronefrosis.
+Aumento de tamaño prostático, que alcanza 58 mm de eje transverso.
+Principales estructuras vasculares abdominopélvicas permeables.
+Aorta abdominal de calibre conservado.
+Moderada ateromatosis calcificada aortoilíaca y en el origen de la arteria mesentérica superior, tronco celíaco y arteria
+renal derecha.
+No se reconocen adenopatías mesentéricas, retroperitoneales ni pelvianas según criterios de tamaño.
+Partes blandas de la pared abdominopélvica sin hallazgos patológicos.
+Porciones caudales visibles de ambos pulmones sin alteraciones significativas.
+No se identifican lesiones focales óseas traumáticas ni destructivas mediante esta técnica.
+Impresión:
+Hallazgos sugerentes de obstrucción intestinal mecánica en el tercio medio del colon sigmoides, sin lesión focal evidente
+en el punto de transición. Considerar brida.
+Aumento de tamaño prostático.
+Moderada ateromatosis mixta aortoilíaca.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

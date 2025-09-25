@@ -1,0 +1,44 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Antecedentes de obstrucción intestinal operada. Íleo postoperatorio.
+Se administran medio de contraste oral, el cual alcanza el recto.
+Estómago colapsado con sonda nasogástrica su interior.
+Duodeno colapsado, posición normal.
+Intestino delgado con leve distensión del íleon distal pre anastomótico, significativamente menor que en examen previo,
+sin signos obstructivos. Marco colónico de características conservadas.
+No se observan colecciones.
+Leve cantidad de líquido libre intra peritoneal, mayor a nivel de la pelvis. 
+Cambios inflamatorios postquirúrgicos en región inguinal derecha. Pequeñas burbujas en pared abdominal.
+Hígado de forma, tamaño y estructura conservada, sin evidencia de lesiones focales.
+Vía biliar intrahepática levemente dilatada. Vía biliar extrahepática moderadamente dilatada. Conducto hepático común
+mide 18 mm de diámetro. No se observan imágenes litiásicas ni compresiones extrínsecas.
+Vesícula ausente acorde a antecedentes quirúrgicos.
+Páncreas bazo y glándulas suprarrenales, sin alteraciones.
+Riñones de morfología conservada, sin evidencia de ectasia. Riñón derecho con depresiones corticales de aspecto
+cicatricial. Riñón derecho con cálculo de 8 mm de diámetro en grupo calicial inferior. Quistes renales simples bilaterales, el
+mayor de ellos a izquierda de 63 mm de diámetro. No muestran cambios respecto a examen previo. Uréteres de calibre
+normal.
+Vejiga medianamente distendida, con balón Foley y burbuja en su interior.
+Útero no visualizado.
+En pelvis a la izquierda de la línea media se observa quiste simple de 80 x 60 mm de diámetros transversos máximos, ya
+visible en examen previo. No presenta porciones sólidas en su interior. Impresiona de dependencia anexial. Área anexial
+derecha, sin alteraciones.
+Estructuras vasculares permeables, de calibre normal, con placas ateromatosas aisladas en paredes arteriales. 
+No se observan linfonodos de características patológicas en las distintas cadenas evaluables.
+Leve derrame pleural bilateral. Atelectasias subsegmentarias en segmentos basales posteriores de ambos lóbulos
+inferiores.
+Cambios degenerativos en columna dorsolumbar.
+Impresión diagnóstica:
+Adecuada progresión del medio de contraste oral hasta el recto, sin evidencia de obstrucción. Leve dilatación de asas de
+íleon pre anastomótico, significativamente menor que en examen previo.
+Leve cantidad de líquido libre intraperitoneal.
+Quistes renales simples bilaterales. Litiasis renal derecha obstructiva. Cicatrices corticales renales derechas.
+Lesión quística tomográficamente en área anexial izquierda, impresionando de origen ovárico.
+Vía biliar extrahepática moderadamente dilatada, sin causa obstructiva evidente.
+                  *El presente resultado debe correlacionarse con el cuadro clinico y ser evaluado por medico tratante*
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

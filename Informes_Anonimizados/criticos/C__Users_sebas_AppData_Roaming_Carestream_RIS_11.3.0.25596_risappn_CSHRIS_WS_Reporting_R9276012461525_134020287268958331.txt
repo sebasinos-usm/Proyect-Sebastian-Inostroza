@@ -1,0 +1,13 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Rx Tórax PA
+Extenso neumotórax izquierdo, con colapso del pulmón homolateral, sin desplazamiento mediastínico.
+Pulmón derecho adecuadamente ventilado, sin evidencia de neumotórax.
+Catéter de quimioterapia subclavia subclavio izquierdo, cuyo extremo se proyecta en vena cava superior. 
+Silueta cardiomediastínica, dentro de límites normales.
+Resto del examen sin imágenes patológicas.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

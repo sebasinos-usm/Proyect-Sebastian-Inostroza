@@ -1,0 +1,14 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Eco Doppler Vascular venoso profundo MII
+Se observa trombosis venosa profunda a nivel de vena poplítea, vena peronea y venas gastronemias, también se visualiza
+trombosis venosa a nivel del confluente safeno poplíteo.
+Venas femoral y tibial posterior, sin signos de trombosis venosa profunda.
+Confluente safeno femoral, sin signos de trombosis.
+IMPRESION DIAGNOSTICA:
+Trombosis venosa profunda con compromiso venoso superficial, según descripción.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

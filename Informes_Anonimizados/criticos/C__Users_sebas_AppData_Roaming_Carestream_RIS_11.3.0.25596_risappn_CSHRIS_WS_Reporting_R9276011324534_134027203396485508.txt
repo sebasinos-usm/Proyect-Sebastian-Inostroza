@@ -1,0 +1,35 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Tórax con Contraste
+Antecedentes clínico:
+Carcinomatosis peritoneal con primario desconocido.
+Hallazgos:
+No hay derrame pleural ni neumotórax.
+Vía aérea central y periférica permeable, de calibre conservado, no engrosadas.
+Pulmonares de volumen y arquitectura global normal.
+No se observan focos de condensación, masas ni nódulos pulmonares sospechosos.
+Corazón de tamaño normal. No hay derrame pericárdico significativo.
+Aorta torácica de calibre conservado, permeable, con una placa de ateroma en el arco aórtico.
+Calcificaciones coronarias ateromatosas bilaterales.
+Arteria pulmonar central permeable, de calibre conservado.
+Múltiples defectos de llenado endoluminales centrales compatibles con trombos agudos en ramas arteriales pulmonares
+para lóbulo medio y principalmente al lóbulo inferior derecho, compatibles con tromboembolismo pulmonar.
+Tabique interventricular plano y ligeramente cóncavo hacia la izquierda. El índice VD/VI es de 1,1, sugerente de
+sobrecarga de cavidades cardíacas derechas.
+Esófago sin engrosamiento sospechosos.
+No se observan adenopatías mediastínicas, hiliares ni axilares según criterios de tamaño.
+Partes blandas de la pared torácica sin hallazgos patológicos.
+Pequeñas adenopatías infraclaviculares derechas, inespecíficas.
+Lesión lítica destructiva de 15 mm en la porción lateral de la cuarta costilla izquierda, de aspecto neoplásico secundario.
+Espondilosis dorsal anterior multisegmentaria.
+Impresión:
+Signos de tromboembolismo pulmonar en ramas para lóbulo medio e inferior derecho, con signos de sobrecarga de
+cavidades cardíacas derechas.
+Lesión focal lítica de la cuarta costilla izquierda, de aspecto neoplásico secundario.
+Pequeñas adenopatías infraclaviculares derechas, inespecíficas.
+Ateromatosis aortocoronaria.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

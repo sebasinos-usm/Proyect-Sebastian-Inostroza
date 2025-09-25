@@ -1,0 +1,28 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Mamografía Bilateral
+Paciente referida para control preventivo.
+No se cuenta con estudios previos.
+Ambas mamas presentan patrón de densidades fibroglandulares dispersas.
+Se observa nódulo denso, espiculado en tercio anterior de cuadrante superointerno en mama derecha de
+aproximadamente 21 mm, asociada a distorsión arquitectural. Considerando las espículas del contorno y la distorsión
+perilesional el área afectada alcanza aproximadamente 41 mm.
+En localización posterior a este nódulo, en el mismo cuadrante, se observan una pequeña asimetría triangular sólo
+evidente en proyección craneocaudal, de 5 mm, y una dudosa imagen nodular isodensa de aproximadamente 10 mm
+(esta última visualizada aproximadamente a 23 mm del nódulo sospechoso descrito).
+No se observa otros nódulos, tampoco microcalcificaciones agrupadas sospechosas ni otras áreas de distorsión
+arquitectural parénquima.
+Calcificaciones benignas bilaterales.
+Linfonodos axilares inespecíficos bilaterales.
+Impresión mamográfica.
+Nódulo espiculado altamente sospechoso de malignidad, asociado a distorsión de arquitectura del parénquima en
+cuadrante superointerno de mama derecha, que requiere estudio histológico.
+Pequeña asimetría y dudoso nódulo reconocibles en localización posterior a dicha lesión, que se sugiere evaluar con
+ecotomografía para mayor caracterización.
+Birads 5.
+ACR B.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

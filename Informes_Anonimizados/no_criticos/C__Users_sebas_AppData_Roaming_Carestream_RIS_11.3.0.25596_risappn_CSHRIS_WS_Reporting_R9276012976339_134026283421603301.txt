@@ -1,0 +1,41 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC-PET FDG
+En el cerebro no se visualizan nódulos ni áreas de realce anormales con contraste intravascular.
+En región cervical no se visualizan adenopatías ni masas de partes blandas.
+No se observa aumento de volumen de amígdalas palatinas.
+Adenopatías hiper metabólicas en ambas regiones axilares, que se distribuyen en los niveles I y II, la mayor a izquierda, en
+el límite de los niveles I y II, de 23 x 22 mm.
+En las glándulas mamarias no se visualizan nódulos sospechosos.
+En los pulmones no se observan nódulos ni lesiones hiper metabólicas.
+Tráquea y bronquios de diámetros normales.
+No se visualiza derrame pleural.
+No hay adenopatías en el mediastino ni en los hilios pulmonares.
+Corazón de tamaño normal. Aorta y grandes vasos de diámetros normales. Catéter venoso central de acceso periférico
+con extremo en ventrículo derecho.
+Hígado de tamaño normal. Parénquima sin nódulos ni focos hiper metabólicos.
+Vesícula no se visualiza. Clips quirúrgicos en el lecho. Vía biliar no dilatada.
+Páncreas y glándulas suprarrenales sin alteraciones.
+Bazo de tamaño normal midiendo 112 mm en el plano coronal. Presenta aumento difuso del metabolismo, mayor que el
+meato metabolismo hepático. Bazo accesorio adyacente al polo inferior esplénico de 8 mm.
+Riñones de tamaño normal. Parénquima sin lesiones. No hay ectasia pielocaliciaria ni litiasis.
+Adenopatías hiper metabólicas en región aortocava, la mayor para aórtica izquierda infrarrenal, de 21 x 12 mm.
+Adenopatía hiper metabólica pelviana a derecha, distal, posterior a los vasos ilíacos externos, de 16 x 10 mm.
+No hay adenopatías mesentéricas.
+Adenopatías hiper metabólicas inguinales a derecha, la mayor adyacente y medial a los vasos femorales, de 14 x 9 mm.
+Esófago, estómago, duodeno y asas intestinales sin dilatación y sin engrosamiento parietal.
+No hay líquido libre, colecciones ni nódulos peritoneales.
+No se observan lesiones óseas destructivas o escleróticas sospechosas.
+Impresión diagnóstica:
+Antecedentes de púrpura trombocitopénico idiopático y de adenopatías en estudio.
+Adenopatías hiper metabólicas axilares, en región aortocava, pelvianas a derecha e inguinales a derecha.
+Bazo de tamaño normal con aumento difuso del metabolismo.
+Considerar proceso linfoproliferativo asociado a PTI.
+La adenopatía con mayor actividad metabólica corresponde a la adenopatía retroperitoneal para aórtica izquierda. La
+adenopatía más accesible y con mayor metabolismo corresponde a la ubicada en la región axilar izquierda, en el límite de
+los niveles I y II.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

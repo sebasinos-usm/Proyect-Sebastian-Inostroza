@@ -1,0 +1,34 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Cerebro sin Contraste
+Antecedentes: Trastorno de conciencia.
+Se cuenta para comprar con angio-TC de cerebro del 14 de febrero del 2025.
+Hallazgos:
+Se han agregado múltiples hipodensidades corticosubcorticales en ambos hemisferios en lóbulos frontales, parietales y
+occipitales, la de mayor tamaño en el lóbulo parietal derecho y que se asocian a borramiento de los surcos de la
+convexidad, que impresionan de origen isquémico.
+Se observan también lesiones hipodensas en el hemisferio cerebeloso izquierdo
+Leve dilatación asimétrica de ventrículos laterales, con menor tamaño del asta anterior del ventrículo lateral derecho.
+Tercer ventrículo dilatado, en línea media.
+En la fosa posterior el cuarto ventrículo es de amplitud normal y se encuentra en buena posición.  
+No se reconocen lesiones en troncoencéfalo.
+Cisternas subaracnoideas de la base de mayor amplitud, al igual que los valles silvianos y surcos epicorticales. No se
+observan colecciones yuxtadurales.
+Placas de ateroma calcificadas en sifones carotídeos.
+Leve engrosamiento mucoso en senos frontales, celdillas etmoidales, seno esfenoidal y seno maxilar derecho. Moderado
+engrosamiento mucoso en seno maxilar izquierdo. Cavidades neumáticas mastoideas y timpánicas, evaluables en estos
+cortes, de amplitud y transparencia normales.
+Leve desviación dextro convexa del tabique nasal.
+No se observan lesiones óseas traumáticas ni destructivas evidentes.
+Impresión diagnóstica:
+Se agregan múltiples hipodensidades corticosubcorticales en parénquima encefálico supratentorial de ambos hemisferios
+y en hemisferio cerebeloso izquierdo, de aspecto isquémico. Si clínicamente se justifica, se sugiere complementar estudio
+con RM.
+Cambios involutivos encefálicos difusos.
+Ateromatosis cálcica en arterias carótidas internas.
+Cambios inflamatorios pansinusales.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

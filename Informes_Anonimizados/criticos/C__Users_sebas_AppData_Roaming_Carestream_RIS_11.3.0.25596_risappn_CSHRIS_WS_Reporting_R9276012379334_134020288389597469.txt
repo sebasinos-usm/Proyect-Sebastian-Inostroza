@@ -1,0 +1,31 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Mamografía Bilateral
+Indicación del examen:
+Antecedente de biopsia estereotáxica izquierda con resultado benigno.
+Control. Se compara con mamografía de abril de 2024.
+Hallazgos:
+Patrón fibroglandular heterogéneamente denso.
+No observo nódulos sospechosos, lesiones espiculadas.
+Sin variaciones, microcalcificaciones con tendencia a la agrupación en el tercio posterior del CSE derecho.
+Calcificaciones de aspecto benigno en ambas mamas.
+Clip de BED en el tercio posterior de la UCS de la mama izquierda.
+Grupo de calcificaciones estromales en el tercio posterior de la región central de la mama izquierda.
+Regiones axilares bajas libres de adenopatías.
+Impresión:
+Examen sin hallazgos sugerentes de malignidad ni cambios significativos respecto a mamografía previa.
+Recomiendo evaluar con ecotomografía por la mayor densidad mamaria.
+BI-RADS 2
+ACR C
+Fecha addendum:
+[FECHA_ANONIMIZADA] 18:01:43
+Se realiza reevaluación de imágenes post adquisición de ecografía, objetivándose en CII de la mama izquierda
+un nódulo de aprox. 8mm, en tercio medio, más evidente en proyecciones localizadas, en las que se logra
+visualizar el margen espiculado observado en ecografía. Impresiona corresponder a la misma lesión en ambas
+técnicas. Se reclasifica como Birads 5, presentando indicación de estudio histológico.
+Addendum firmado por:
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

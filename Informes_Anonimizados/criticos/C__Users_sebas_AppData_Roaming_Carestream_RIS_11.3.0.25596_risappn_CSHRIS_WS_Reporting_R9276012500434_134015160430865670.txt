@@ -1,0 +1,26 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Ecotomografía de Abdomen
+Hígado forma y tamaño normal. Ecoestructura conservada, exceptuando dos quistes  simple de 15 mm.
+Vía biliar intrahepática dilatada de forma bilateral. 
+Colecistectomizado.
+Colédoco  dilatado de 13. 6 mm con múltiples imágenes litiásicas en su interior de 3 a 5 mm.
+Páncreas  forma y  Ecoestructura conservada.
+Bazo de tamaño,  forma y estructura conservada.
+Ambos riñones de forma y tamaño normal. Ecoestructura conservada, exceptuando tres quistes corticales simples en
+riñón izquierdo, midiendo el mayor 48 mm. Sistema pielocalicial no dilatado. Se observa litiasis en grupo calicial
+inferior del riñón izquierdo de 6.7 mm
+No se observa liquido libre intraabdominal.
+Dilatación fusiforme de aorta abdominal, asociado a ateromatosis.
+IMPRESION DIAGNOSTICA:
+Quiste hepático simple.
+Dilatación de la vía biliar intra y extrahepática, a expensas de múltiples imágenes litiásicas en el interior del colédoco.
+Colecistectomizado.
+Litiasis renal izquierda, no obstructiva.
+Quistes corticales simples en riñón izquierdo.
+Dilatación fusiforme de aorta abdominal, asociado a ateromatosis.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

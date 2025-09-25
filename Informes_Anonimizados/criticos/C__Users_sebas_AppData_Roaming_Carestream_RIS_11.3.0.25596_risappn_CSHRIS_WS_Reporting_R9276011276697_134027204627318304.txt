@@ -1,0 +1,34 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+RM Mamaria
+Antecedentes de lesión mamaria sospechosa de neoplasia a izquierda, de cirugía antigua por nódulos benignos y leve
+nódulos benignos mamarios.
+Hallazgos:
+cicatriz cutánea en cuadrantes externos a derecha con retracción de la piel. Restantes áreas piel y tejido graso subcutáneo
+no presentan alteraciones.
+Estructura fibroglandular homogénea.
+En la mama izquierda, en la región retroareolar y en los cuadrantes externos se observa extensa lesión polilobulada de 56
+mm, con acentuada restricción de la difusión, con realce irregular y aumentado con contraste intravascular, con áreas que
+presentan curvas de lavado y curvas de refuerzo o tipo meseta. El borde anterior de la lesión se encuentra a 15 mm del
+pezón, borde posterior a 14 mm del músculo pectoral del borde superficial a 10 mm de la piel.
+En unión de cuadrantes superiores a izquierda se observan dos áreas nodulares que muestran restricción de la difusión y
+realce aumentado con contraste, la más anterior de 6 mm y la posterior de 14 mm. La más anterior se encuentra en el
+tercio anterior de la mama, a 20 mm del pezón, la más posterior en la zona media, a 40 mm del pezón.
+No se observan otras lesiones mamarias satélites o sospechosas.
+Presencia de pequeños nódulos en mama derecha, ovales, circunscritos, con hiposeñal en secuencias T1 y T2, sin realce
+significativo con contraste intravascular, sin restricción de la difusión, el mayor en el cuadrante inferior interno,
+periareolar, de 8 mm.
+Quistes mamarios bilaterales escasos, de hasta 7 mm.
+No se observa ectasia ductal.
+No hay adenopatías mamarias internas.
+En áreas evaluables de regiones axilares se visualizan linfonodos inespecíficos.
+Impresión diagnóstica:
+Voluminosa lesión de aspecto neoplásico en la mama izquierda, abarcando región retroareolar y cuadrantes externos.
+Dos nódulos satélites en unión de cuadrantes superiores a izquierda.
+Pequeño nódulo de morfología benigna en mama derecha y escasos quistes.
+Birads 5 RM.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,27 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Este informe considera:
+TC de Tobillo Izquierdo sin Contraste
+TC de Pie Izquierdo sin Contraste
+TC de tobillo y pie Izquierdo sin Contraste
+Antecedentes clínicos:
+Trauma.
+Hallazgos:
+Densidad ósea conservada.
+Fractura multifragmentaria de la poción lateral del proceso anterior del calcáneo, con mínimos desplazamiento excéntrico
+de los fragmentos óseos.
+No se identifican otras lesiones óseas traumáticas recientes.
+Os trígono.
+Os supraclavicular.
+Os calcáneo secundario.
+Articulaciones visibles congruentes. No se observan cambios degenerativos significativos a señalar.
+Articulación tibio peroneo astragalina de amplitud conservada y márgenes regulares.
+Porción visible de la tibia y peroné de morfología normal.
+Cambios entesopaticos en el calcáneo a nivel de la inserción del tendón de Aquiles.
+Impresión:
+Fractura multifragmentaria de la porción lateral del proceso anterior del calcáneo.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,34 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Apéndice vermiforme en FID. Se encuentra dilatado en forma difusa, con diámetro de hasta 19 mm, asociado a un
+engrosamiento parietal, compatible con compromiso de tipo inflamatorio. Apendicolito en su tercio proximal de 13 mm y
+otro en su tercio medio de 4 mm.
+Importante aumento de densidad del tejido adiposo en FID, asociado a múltiples bandas de líquido ascítico confluentes
+que se extiende desde la gotiera parietocólica derecha a nivel subhepático hasta la excavación pélvica, con tendencia a
+formación de una colección adyacente al polo cecal parcialmente definida de aproximadamente 32 x 27 x 25 mm (imagen
+264) en ejes axiales y cefalocaudal (volumen estimado de 10,8 cc), con una pequeña burbuja de gas en su espesor menor
+de 2 mm.. Esto se acompaña de engrosamiento del peritoneo parietal predominantemente en FID, de aspecto
+inflamatorio. 
+No se visualiza neumoperitoneo libre.
+Engrosamiento de las paredes del íleon distal y ciego, de aspecto inflamatorio.
+Hígado, vesícula, vía biliar, bazo, páncreas, glándulas suprarrenales y riñones sin alteraciones.
+Vejiga, próstata y vesículas seminales de aspecto normal.
+Múltiples adenopatías mesentéricas, la mayor a derecha de la línea media de 25 x 18 mm. No se reconocen adenopatías
+retroperitoneales, pelvianas o inguinales.
+Aorta y grandes vasos de calibres conservados.
+Planos parietales continuos.
+No se identifican lesiones óseas traumáticas o destructivas.
+Impresión diagnóstica:
+Hallazgos compatibles con una apendicitis aguda en FID, asociada a importante compromiso de aspecto inflamatorio de
+los tejidos adyacentes.
+Destaca imagen sugerente de una colección líquida en vías de formación adyacente al polo cecal, con una pequeña
+burbuja de gas en su interior, pudiendo corresponder a una perforación contenida o secundaria a proceso infeccioso.
+Engrosamiento de las paredes del íleon distal y ciego, de aspecto inflamatorio por vecindad.
+Escasa ascitis en reflexiones peritoneales de flanco, FID y excavación pélvica.
+Múltiples adenopatías mesentéricas, de aspecto reactivo.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

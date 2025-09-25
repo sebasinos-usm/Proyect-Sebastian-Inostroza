@@ -1,0 +1,25 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+RM de Cerebro con Contraste
+Antecedentes: Primoconvulsion.
+Hallazgos:
+Voluminoso proceso expansivo extra axial con base de implantación dural a nivel temporoinsular a derecha; presenta
+restricción en difusión, estructura, señal y realce heterogéneo y mide aproximadamente 39 x 53 mm en sus diámetros
+axiales mayores y presenta hiperostosis del hueso adyacente. Presenta edema perilesional y determina efecto de masa
+sobre el parénquima adyacente, con herniación uncal, con deformación del tronco encéfalo, y desviación de la linea
+media en aproximadamente 8 mm. Disminución de amplitud de los surcos de la convexidad a derecha. Sistema
+ventricular supratentorial obliterado a derecha y amplio a izquierda. Pequeña lesión hiperintensa periatrial izquierda sin
+realce tras el uso de contraste.
+Resto del parénquima encefálico a izquierda sin lesiones focales. Pequeño quiste de la pars intermedia. 
+Cuarto ventrículo de forma y tamaño normal. Cerebelo sin lesiones focales. Resto del tronco encéfalo sin lesiones.
+Impresión diagnostica:
+Voluminoso proceso expansivo extra axial a nivel temporoinsular a derecha, con aspecto de meningioma. Determina
+efecto de masa con herniación uncal y desviación de la línea media.
+Pequeña lesión hiperintensa periatrial izquierda de aspecto incierto.
+Dra. Ingeborg Lopez Liberona
+Médico Neurorradiólogo
+Informe validado por: /
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

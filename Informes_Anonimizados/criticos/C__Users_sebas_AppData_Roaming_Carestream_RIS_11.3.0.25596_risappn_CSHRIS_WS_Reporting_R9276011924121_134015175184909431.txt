@@ -1,0 +1,29 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Eco Doppler Carotídeo Bilateral
+TERRITORIO CAROTÍDEO DERECHO:
+Carótida común permeable, no se observan lesiones obstructivas significativas. 
+Carótida externa  permeable, no se observan lesiones obstructivas significativas.
+Carótida interna permeable,  observando en su porción más distal cambios hemodinámicos significativos sugerente de
+estenosis mayor a 70% con una velocidad sistólica máxima 355 cm/seg.
+Tronco Braquiocefálico permeable, no se observan lesiones obstructivas significativas, observando placa fibrolipidica
+en pared posterior de 8 x 2 mm (L x AP).
+TERRITORIO CAROTÍDEO IZQUIERDO:
+Carótida común permeable, no se observan lesiones obstructivas significativas.  
+Carótida externa permeable, no se observan lesiones obstructivas significativas.
+Carótida interna permeable, observando en su porción más distal cambios hemodinámicos significativos sugerente de
+estenosis mayor a 70% con una velocidad sistólica máxima 256 cm/seg.
+TERRITORIO VERTEBROBASILAR:
+Ambas arterias vertebrales se encuentran permeables, sin lesiones obstructivas significativas mayor del 70%, sin
+embargo, próximo al nacimiento de la arteria vertebral derecha se observan cambios hemodinámicos que sugieren
+estenosis del 50 al 69% con una velocidad sistólica máxima de 183 cm/seg.
+IMPRESION DIAGNÓSTICA:
+Cambios hemodinámicos significativos a nivel de carótida interna derecha que izquierda que sugieran estenosis mayor
+del 70%.
+Cambios hemodinámicos a nivel del nacimiento de arteria vertebral derecha que sugieren estenosis del 50 al 69%.
+Placa plana fibrolipidica en pared posterior del tronco braquiocefálico.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

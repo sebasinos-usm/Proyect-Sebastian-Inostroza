@@ -1,0 +1,38 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Hígado de tamaño normal. No se identifican nódulos.
+Vesícula no se visualizan. Clips quirúrgicos en el lecho.
+Leve a moderada dilatación de la vía biliar intra y extrahepática, la que presenta contenido hiperdenso, correspondiendo
+a material de contraste, con escasas burbujas de aire que se distribuyen predominantemente en los segmentos 4 y 3. La
+vía biliar mide 15 mm en el conducto hepático común. Dada la hiperdensidad de la vía biliar no es posible evaluar la
+existencia de calcificaciones.
+Páncreas de contornos y grosor normales. No hay signos de necrosis pancreática. No hay dilatación del conducto
+pancreático principal. Aumento de densidad del tejido graso peripancreático, que se extiende a la raíz del mesenterio y a
+los espacios prerrenales. Engrosamiento de las fascias perirrenales y lateroconales, mayor a izquierda.
+Escasa cantidad de líquido no encapsulado adyacente al colon transverso y en el espacio pararrenal anterior izquierdo.
+Escasa cantidad de líquido libre peritoneal pelviano.
+Bazo de tamaño normal. Bazo accesorio adyacente al borde anterolateral esplénico, de 14 mm.
+Glándulas suprarrenales sin alteraciones morfológicas.
+Riñones de tamaño, forma y posición normales. Parénquima de espesor conservado. No se observan lesiones focales. No
+se visualiza ectasia pielocaliciaria ni litiasis en los senos renales. Uréteres litiasis.
+Aorta y grandes vasos de diámetros normales. Leve ateromatosis.
+No se visualizan adenopatías en región aortocava, pelvianas o mesentéricas ni inguinales.
+Estómago, duodeno y asas intestinales sin dilatación y sin engrosamiento parietal sospechoso.
+Vejiga en escasa repleción de paredes no evaluables.
+Útero en anteflexión sin nódulos. No hay lesiones anexiales.
+Planos musculares conservados sin imágenes de hernias.
+No se observan lesiones óseas traumáticas, destructivas o escleróticas.
+Impresión diagnóstica:
+Antecedentes de coledocolitiasis tratada con CPRE.
+Leve a moderada dilatación de vía biliar intra y extrahepática, asociada a escasa neumobilia, con contenido hiperdenso
+secundario a material de contraste.
+Edema del tejido graso peripancreático, de raíz del mesenterio, de las fascias retroperitoneales y de los espacios
+pararrenales. Considerar pancreatitis aguda (tipo C de Balthazar).
+Escasa cantidad de líquido libre peritoneal pelviano.
+Cambios por colecistectomía.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,21 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Tomografía computada de tórax contrastada.
+Antecedentes clínicos:
+Sospecha de neoplasia.
+Hallazgos:
+No hay derrame pleural ni neumotórax.
+Pulmones de volumen y arquitectura normales.
+No se identifican focos de condensación, masas ni nódulos sospechosos en el parénquima pulmonar.
+Tráquea y bronquios principales de calibres conservados, permeables.
+Corazón de tamaño y configuración normales. No hay derrame pericárdico.
+Aorta torácica y tronco de la arteria pulmonar de calibres conservados, permeables.
+No se reconocen adenopatías mediastínicas, hiliares ni axilares según criterio de tamaño.
+No se identifican lesiones focales óseas traumáticas ni destructivas mediante esta técnica en el esqueleto torácico.
+Impresión:
+Examen sin hallazgos patológicos en el tórax.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

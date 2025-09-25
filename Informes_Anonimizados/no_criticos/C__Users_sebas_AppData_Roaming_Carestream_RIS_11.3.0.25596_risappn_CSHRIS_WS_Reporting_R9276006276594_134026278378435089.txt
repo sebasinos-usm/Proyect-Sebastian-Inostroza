@@ -1,0 +1,48 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Antecedente de Ca de colon derecho operado.
+Se observa engrosamiento concéntrico irregular en la mitad izquierda del colon transverso, con pérdida de la definición de
+los márgenes externos observando discreto aumento de la densidad de la grasa mesentérica adyacente a hallazgo que
+impresiona como compromiso neoplásico. El segmento comprometido presenta extensión longitudinal estimada de 65
+mm.
+Se observan algunos pequeños nódulos con características de adenopatías adyacente al segmento comprometido de
+hasta 10 mm.
+No se observa dilatación patológica de asas intestinales.
+Hemicolectomía derecha con material de sutura en anastomosis íleo cólica.
+No presenta líquido libre intraabdominal.
+Se observa algunos divertículos en colon sigmoides sin cambios inflamatorios.
+Hígado de forma y tamaño normal con parénquima homogéneo se observa algunas imágenes nodulares quísticas en
+segmento 4 y segmento 2 mayor de ellos de 19 mm. No se definen imágenes nodulares sólidas. Vía biliar intra y
+extrahepática no dilatada.
+Vesícula no se visualiza.
+Páncreas de forma y tamaño normal con parénquima homogéneo sin dilación del conducto principal. Bazo de forma y
+tamaño normal. 
+Se observan imagen quística 21 mm en área proyección de la glándula suprarrenal derecha observan algunos clip
+metálicos en la vecindad. Se observa segmento de glándula suprarrenal derecha de características normales. Glándula
+suprarrenal izquierda de características tomográficas normales.
+Aorta de trayecto calibre normal. Se observa defecto nodular en el lumen aórtico proximal al tronco celíaco, de 7 mm de
+eje transverso y 7 mm de eje longitudinal impresiona como trombo.
+Ambos riñones presentan forma, tamaño y ubicación normal. Parénquima de grosor y densidad normal. Se observa
+imagen quística en tercio inferior del riñón derecho, de 55 mm, de pared fina, imperceptible, con contenido homogéneo.
+No se observan cálculos. Sistemas pielocaliciarios de morfología y calibre normal.
+Uréteres de trayecto calibre conservado, presenta normal inserción en la vejiga. Vejiga de paredes distendidas, delgadas,
+sin imágenes patológicas a su interior.
+Útero de forma y tamaño normal, en anteversión.
+No se observan hallazgos patológicos en zona de proyección de los ovarios.
+Incipientes cambios de tipo degenerativos en columna lumbar, sin evidencia de compromiso neoplásico secundario en el
+esqueleto visible.
+Impresión diagnóstica:
+Se edad de colon izquierdo operado. Anastomosis íleo cólica sin signos de recidiva local.
+Hallazgos tomográficos sugerentes de neoplasia en colon transverso con posible compromiso de linfonodos
+locorregionales.
+Quiste hepáticos simples.
+Resección parcial de glándula suprarrenal derecho, asociado a lesión quística que se interpreta como residual.
+Gran quiste en tercio inferior del riñón derecho.
+Diverticulosis colónica sigmoidea.
+                  *El presente resultado debe correlacionarse con el cuadro clinico y ser evaluado por medico tratante*
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

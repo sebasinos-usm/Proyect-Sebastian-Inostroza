@@ -1,0 +1,49 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis sin Contraste
+HALLAZGOS:
+Se compara con TC del [FECHA_ANONIMIZADA]. Examen realizado sin medio de contraste lo que disminuye su rendimiento
+diagnóstico.
+Hígado de tamaño y morfología conservados, no observando lesiones focales en su espesor con esta técnica sin uso de
+medio de contraste. 
+Vesícula biliar adecuadamente distendida, con una litiasis cálcica de 5 mm, observando en la actualidad edema
+perivesicular. Vía biliar díficil de evaluar sin medio de contraste. Prótesis en la vía biliar con extremos en el colécodo y
+tercera porción del duodeno, sin cambios significativos.
+Se agrega algunas bandas de contenido gaseoso en cercanía al hilio hepático posiblemente neumobilia.
+Páncreas atrófico. En el cuerpo presenta una masa de 40 x 20 mm, sin cambios significativos.
+Bazo y glándulas suprarrenales de morfología conservada.
+Parénquima renales de espesor conservado, con cambios de aspecto secuelar. Quistes corticales bilaterales. No hay
+hidroureteronefrosis ni litiasis. Catéter pigtail en sistema excretor renal izquierdo bien posicionado, sin cambios
+significativos. Litiasis en la unión pieloureteral izquierda de 11 mm, sin cambios significativos. Uréteres de calibres
+conservados, sin otras imágenes sugerentes de litiasis.
+Vejiga parcialmente distendida. Divertículo vesical. Próstata y vesículas seminales de morfología conservada.
+Aorta abdominal con aneurisma infrarrenal de hasta 40 mm de diámetro. Severa ateromatosis aórtica e ilíaca.
+No se reconocen adenopatías de acuerdo a criterios de tamaño a nivel del retroperitoneo lumboaórtico, mesenterio ni en
+la pelvis.
+Asas intestinales de calibres conservados, sin signos obstructivos. Apéndice cecal de morfología conservada. Diverticulosis
+colónica.
+Se agregan escasas burbujas de gas intraperitoneal a nivel epigástrico.
+Líquido libre intraperitoneal y hipodenso en mayor cuantía a nivel perihepático, periesplénico y pelviano.
+Edema hipodérmico en mayor cuantía.
+Hernias inguinal izquierda y en el extremo inferior de la línea de Spiegel izquierda, con tejido adiposo, sin cambios
+significativos. Hernia umbilical sin cambios significativos.
+No se reconocen lesiones óseas traumáticas ni destructivas. Cambios degenerativos de la columna lumbar.
+En los segmentos visibles del tórax destaca incremento del derrame pleural bilateral. Signos de bronquiolitis basal
+bilateral.
+IMPRESIÓN DIAGNÓSTICA:
+Se agrega escaso neumoperitoneo de origen no precisado.
+Incremento del derrame pleural, edema hipodérmico y del líquido libre intraperitoneal. Se agrega edema perivesicular.
+Posiblemente en contexto de síndrome edematoso.
+Masa pancreática, sin cambios significativos.
+Colelitiasis. Neumobilia.
+Signos de bronquiolitis en ambas bases pulmonares.
+Diverticulosis colónica.
+Litiasis en unión pieloureteral izquierda. Catéter doble J izquierdo bien posicionado.
+Aneurisma de la aorta abdominal.
+Hernias de la pared abdominal, sin cambios significativos.
+                  *El presente resultado debe correlacionarse con el cuadro clinico y ser evaluado por medico tratante*
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,26 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Eco Cuello Infantil
+Técnica: Examen realizado con transductor lineal de alta resolución.
+Hallazgos:
+Glándula tiroides de tamaño y morfología normal.
+El lóbulo derecho mide 56 x 13 x 11 mm.
+El lóbulo izquierdo mide 48 x 9 x 11 mm.
+Istmo mide 2. 2 mm.
+Presenta ecoestructura interna heterogénea, sin alteraciones del patrón de flujo vascular al estudio
+Doppler-color.
+En el lóbulo tiroídeo derecho, se observa la presencia de imágenes quísticas, con un diámetro de
+hasta 2 mm.
+Glándulas parótidas y submaxilares sin alteraciones.
+Se observa linfonodo con aumento de tamaño en segmento cervical V a derecha, de 11 mm. Y otro en
+segmento V a izquierda de 16 mm.
+Impresión:
+Adenitis cervical.
+Tiroides de tamaño normal consignos de tiroiditis crónica leve.
+Quiste coloídeo derecho.
+TIRADS 1. -
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

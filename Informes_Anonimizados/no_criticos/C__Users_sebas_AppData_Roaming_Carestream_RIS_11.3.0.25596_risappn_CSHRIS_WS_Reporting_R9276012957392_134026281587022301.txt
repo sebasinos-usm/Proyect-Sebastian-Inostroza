@@ -1,0 +1,14 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Rx Tórax AP-LAT Izquierdo
+Volúmenes pulmonares conservados.
+No se observan focos de consolidación.
+Hilios pulmonares sin imágenes patológicas.
+Silueta cardiomediastínica sin alteraciones.
+Discreta ocupación de los recesos costofrénicos laterales, sugerente de derrame pleural. Si clínicamente se justifica
+completar con ecografía pleural.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

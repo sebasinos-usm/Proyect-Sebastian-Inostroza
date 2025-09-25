@@ -1,0 +1,20 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Mamografía Bilateral
+Indicación del examen:
+Nódulo palpable derecho. Aporta ecotomografía reciente.
+Hallazgos:
+Patrón fibroglandular heterogéneamente denso.
+En región retroareolar derecha, nódulo isodenso, irregular, con márgenes espiculados, de 12 mm
+Calcificaciones de aspecto benigno.
+Regiones axilares bajas libres de adenopatías.
+Impresión:
+Nódulo derecho sospechoso.
+Recomiendo estudio histológico con biopsia core.
+BI-RADS 5
+ACR C
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

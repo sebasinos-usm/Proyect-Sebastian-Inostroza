@@ -1,0 +1,37 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Con antecedentes de colectomía total y sepsis.
+Se compara con tomografía computada del 5 de enero del presente año.
+Estómago escasamente distendido, no evaluable. Asas intestinales con leve engrosamiento parietal
+difuso, algunos niveles hidroaéreos y anastomosis a remanente rectal que muestra contraste oral en
+su interior, sin signos de complicación. Persistencia de colección derecha entre abdomen y pelvis con
+mayor volumen que en examen previo de 75x51x47mm y que se extiende a la porción anterior del
+abdomen, con dos drenajes y aparición de medio de contraste oral en el interior de ambos "bolsillos",
+este último hallazgo no presente en examen previo, sugerente de fístula a asa intestinal adyacente a
+la pared de la colección. Colección subfrénica derecha, posterior a segmentos 6 y 7 del hígado, de
+menor volumen que en examen previo. Dos pequeñas colecciones izquierdas, anterior a la fascia
+renal anterior y en la gotera parietocólica, entre flanco y FII. Colección laminar periesplénica.
+Persistencia de los cambios inflamatorios del tejido graso de cavidad de abdomen y pelvis. Retiro de
+esponja VAC.
+Algunas imágenes quísticas hepáticas. Cambios quirúrgicos en área de glándula suprarrenal derecha.
+Imágenes quísticas corticales renales bilaterales, con aspecto simple.
+Persistencia de derrame pleural bilateral, leve a derecha y moderado a izquierda, con fenómenos
+atelectásicos secundarios.
+Resto de examen sin cambios.
+Impresión diagnóstica:
+Aumento de volumen de colección abdominopelviana derecha y anterior, con colocación de dos
+drenajes y que estaría determinado por fístula a asa intestinal adyacente que permite paso de
+contraste oral a los "bolsillos" de la colección.
+Dos pequeñas colecciones abdominales izquierdas, según descripción.
+Colección subfrénica derecha de menor volumen que en examen previo. Colección laminar
+periesplénica.
+Leve engrosamiento parietal difuso de intestino sugerente de origen inflamatorio. Íleo intestinal con
+aspecto funcional.
+Persistencia de derrame pleural bilateral, leve a derecha y moderado a izquierda, con fenómenos
+atelectásico secundarios.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

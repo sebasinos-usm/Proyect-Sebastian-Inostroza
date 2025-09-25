@@ -1,0 +1,28 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+AngioTC Aorto-Ilíaco
+Hallazgos:
+La aorta torácica y abdominal presenta diámetros conservados, sin observar aneurismas ni disecciones. El tronco celíaco,
+arteria mesentérica superior y arteria renales presentan diámetros conservados y se encuentran permeables, sin observar
+estenosis significativas.
+Arteria mesentérica inferior no identificada.
+Arterías ilíacas comunes, internas y externas con diámetros conservados, permeables.
+Trombosis de las venas ilíacas comunes, ilíaca externa izquierda y femoral común izquierda. Trombosis de las venas ilíacas
+internas. Trombosis de la vena cava inferior desde su origen hasta el nivel inmediatamente bajo las venas renales. Venas
+hepáticas, la porta esplénica y mesentérica superior y sus tributarias principales, permeables.
+Múltiples lesiones focales hepáticas, comprometiendo todos los segmentos.
+Moderada cantidad de líquido líquido libre de predominio pelvianos. No se reconoce neumoperitoneo.
+Colostomía a nivel del flanco izquierdo. Muñón rectal. No se reconoce dilatación en grado patológico de asas intestinales.
+Impresión diagnóstica: 
+Trombosis de la vena cava inferior, venas ilíacas comunes e internas, vena ilíaca externa izquierda y vena femoral común
+izquierda.
+Múltiples lesiones focales hepáticas.
+Líquido libre intraperitoneal.
+Fecha addendum:
+[FECHA_ANONIMIZADA] 18:57:02
+Addendum firmado por:
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

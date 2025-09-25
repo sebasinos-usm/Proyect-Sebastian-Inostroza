@@ -1,0 +1,31 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Antecedente clínico:
+Dolor abdominal.
+Hallazgos:
+Hígado de tamaño, forma y realce normal. No se identifican lesiones focales.
+Vesícula biliar ausente. Vía biliar no dilatada.
+Páncreas de tamaño, forma y realce normal. Pequeño nódulo hipodenso de 6 mm con densidad grasa macroscópica de la
+cabeza pancreática, probablemente pequeño lipoma.
+Bazo, glándulas suprarrenales, riñones y vejiga y útero sin alteraciones morfológicas significativas.
+No hay nefrolitiasis ni hidronefrosis.
+Quiste cortical renal izquierdo simple de 10 mm.
+Ovario izquierdo prominente que no ha variado de tamaño ni aspecto respecto a tomografía  computada de agosto de
+2019.
+Asas intestinales de calibre y realce parietal normal, incluyendo el apéndice cecal.
+No hay ascitis ni neumoperitoneo libre.
+Estómago parcialmente colapsado.
+Principales estructuras vasculares abdominopélvicas permeables.
+No se observan adenopatías inguinales, ilíacas, retroperitoneales ni mesentéricas según criterios de tamaño.
+Porciones caudales visibles de ambos pulmones sin alteraciones.
+No se identifican lesiones focales óseas traumáticas ni destructivas mediante esta técnica.
+Leves cambios degenerativos facetarios lumbosacros bilaterales.
+Coxoartrosis bilateral, severa a izquierda donde se asocia a coxa magna.
+Impresión:
+Examen sin hallazgos patológicos de carácter agudo.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

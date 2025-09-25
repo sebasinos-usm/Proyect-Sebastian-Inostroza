@@ -1,0 +1,15 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Tobillo Izquierdo sin Contraste
+Estructuras óseas de morfología normal.
+No se observan lesiones óseas traumáticas o destructivas.
+Espacios articulares de amplitud y congruencia normales.
+Entesofitos en el aspecto posterior del calcáneo. Incipiente espolón óseo calcáneo plantar, con una longitud de 2 mm.
+Impresión diagnóstica:
+Entesofitos en el aspecto posterior del calcáneo e incipiente espolón óseo calcáneo plantar.
+Resto del examen, sin hallazgos de significado patológico.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,36 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis sin Contraste
+Antecedentes clínicos:
+Control de diverticulitis aguda.
+Se compara con tomografía computada de abdomen y pelvis sin contraste del día [FECHA_ANONIMIZADA].
+Hallazgos: 
+Hígado de tamaño, forma y densidad normal. No se identifican lesiones focales.
+Vesícula biliar ausente. Vía biliar no dilatada.
+Páncreas, parénquima esplénico, glándulas suprarrenales, vejiga y vesículas, seminales de tamaño, forma y densidad
+normal, no evaluables completamente sin uso de contraste endovenoso.
+Riñones de tamaño, forma y grosor parenquimatoso conservados. No hay nefrolitiasis ni hidronefrosis. Múltiples nódulos
+renales bilaterales de aspecto quístico en este estudio no contrastado.
+Próstata aumentada de tamaño, con un eje transverso de 57 mm.
+Asas intestinales de calibre conservado, incluyendo el apéndice cecal. Múltiples divertículos en el colon descendente y
+especialmente sigmoides. Engrosamiento parietal de un segmento corto del colon sigmoides en relación a un divertículo
+engrosado, rodeado de tejido graso de densidad aumentada, de aspecto inflamatorio. En comparación con el estudio
+previo de referencia estos cambios inflamatorios han disminuido levemente, visualizando, además menor cantidad de
+líquido asociado. No hay imágenes que sugieran colecciones inflamatorias organizadas.
+No hay ascitis ni neumoperitoneo libre.
+Estómago escasamente distendido.
+Aorta abdominal de calibre conservado. Leve ateromatosis cálcica aortoilíaca.
+No se observan adenopatías inguinales, ilíacas, retroperitoneales ni mesentéricas según criterios de tamaño.
+Porciones visibles de ambos pulmones sin alteraciones.
+No se identifican lesiones focales óseas traumáticas ni destructivas mediante esta técnica.
+Leves cambios degenerativos, discales y facetarios lumbares, que predominan a nivel L4 L5.
+Persiste estable imagen redonda hipodensa de centro moteado rodeada de un margen calcificado, de 25 mm, en el
+hemiescroto izquierdo.
+Impresión:
+Diverticulitis aguda no complicada del colon sigmoides, de evolución favorable respecto al estudio previo del [FECHA_ANONIMIZADA].
+Resto del estudio sin variaciones a señalar.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

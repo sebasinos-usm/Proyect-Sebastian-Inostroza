@@ -1,0 +1,29 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Pielotac
+Quiste renales.
+Hallazgos:
+Riñones de forma y tamaño normal, de espesor cortical adecuado. No se visualizan cálculos. A izquierda hay un quiste
+exofítico de 2,6 cm.. No hay hidronefrosis ni dilatación ureteral.
+Vejiga distendida de pared fina con contenido hipodenso homogéneo.
+Próstata aumentada de tamaño midiendo 6,2 cm en eje transversal. Vesículas seminales sin alteraciones.
+Hígado de forma y tamaño normal, de densidad levemente disminuida.
+La vesícula, la vía biliar, páncreas, suprarrenales y el bazo son de características tomográficas normales.
+En relación al tubo digestivo hay divertículos en el colon, sin cambios inflamatorios.
+Aumento de la densidad tejido adiposo mesentérico, especialmente en flanco izquierdo.
+No hay adenopatías. No hay líquido libre.
+Aorta y ramas principales de calibre trayecto conservado, con placas de ateroma mixta.
+Hernia inguinoescrotal derecha no complicada.
+Cambios degenerativos en la columna lumbar.
+Impresión:
+Examen negativo para urolitiasis. Imágenes quísticas en riñón izquierdo.
+Paniculitis mesentérica.
+Hipertrofia prostática.
+Hernia inguinoescrotal derecha. 
+Hígado graso.
+Diverticulosis del colon.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

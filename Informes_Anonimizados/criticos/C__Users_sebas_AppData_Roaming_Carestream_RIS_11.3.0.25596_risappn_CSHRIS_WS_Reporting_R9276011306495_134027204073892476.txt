@@ -1,0 +1,17 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Eco Doppler Venoso de la extremidad inferior derecha
+Hallazgos:
+Se observa extenso trombo heterogéneo, desde el cayado de la vena safena interna hasta el tobillo, el cual compromete
+además venas varicosas superficiales y perforantes de la pierna. 
+Se ha reconoce trombo de similares características en la vena poplítea, el cual es parcialmente oclusivo.
+Las venas femorales común, superficial y profunda, tibiales posteriores, peroneas y musculares presentan pared fina,
+lumen anecogénico, compresible al paso del transductor y con señal espontánea al estudio con Doppler-color.
+Impresión diagnóstica:
+Trombosis venosa profunda de la vena poplítea y de extensa tromboflebitis de la vena safena interna derechas, de
+aspecto subagudo.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

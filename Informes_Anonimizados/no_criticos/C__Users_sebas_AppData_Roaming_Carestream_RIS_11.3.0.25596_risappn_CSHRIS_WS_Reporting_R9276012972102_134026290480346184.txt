@@ -1,0 +1,45 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+RM de Rodilla Derecha sin Contraste
+Tibia proximal presenta fractura conminuta de espinas tibiales. Meseta tibial externa con rasgo transverso que
+compromete a tercio medio y posterior epifisario alcanzando el reborde posterior y lateral, sin desprendimiento de
+fragmentos. Impresiona existir mínima depresión del sector posterior de meseta tibial externa. Múltiples rasgos de
+fractura trabecular en epífisis y metáfisis adyacente, asociado a moderado edema óseo. Meseta tibial interna presenta en
+su aspecto posterior, fractura mínimamente desplazada que se extiende desde la superficie articular al borde posterior
+epifisario, con edema óseo adyacente a la fractura.
+LCA con avulsión ósea de su inserción distal, con desplazamiento del fragmento óseo 7 mm hacia cefálico. El ligamento
+propiamente tal impresiona indemne. LCP, sin alteraciones.
+Cartílago del sector posterior de meseta tibial interna con lesión postraumática en relación al rasgo de fractura, sin
+pérdida de sustancia significativa. Cartílago de superficie de carga de cóndilo femoral interno con lesión condral
+degenerativa focal grado III.
+Menisco interno con avulsión ósea de la raíz de inserción tibial del cuerno posterior, que determina extrusión parcial del
+cuerpo. El menisco propiamente tal presenta hiperintensidad de señal horizontal en cuerno posterior y cuerpo, sin con
+tacto con la superficie meniscal articular, compatible con lesión intrasustancia y/o degenerativa. Edema de la inserción
+meniscocapsular posterior, sin evidencias de lesión en rampa.
+Menisco externo con cambios degenerativos, sin evidencia de ruptura. Banda iliotibial, sin alteraciones.
+Ligamento colateral externo y tendón del bíceps con lesión parcial de fibras distales.
+Tendón poplíteo características conservadas. Marcado edema en la unión mío tendinosa, que se extiende hacia la masa
+muscular, compatible con desgarro grado I. Moderado edema del músculo gemelo externo.
+Ligamentos menisco poplíteos y peroneo poplíteo indemnes en los sectores evaluables.
+Ligamento colateral interno presenta componente superficial continuo con moderado edema periligamentario compatible
+con lesión grado I. Componente profundo menisco femoral y menisco tibial engrosados, con lesión parcial de fibras en la
+inserción proximal del ligamento menisco femoral.
+Esquina posteromedial de características conservadas. Quiste de Baker de 60 mm de diámetro longitudinal mayor.
+Retináculos rotulianos, tendón del cuádriceps y tendón patelar, sin evidencia de lesiones traumáticas.
+Rótula tipo II. Condropatía grado IV en faceta medial. Fémur sin evidencia de lesiones traumáticas.
+Derrame articular severo con contenido graso y hemorrágico. Marcado edema de la grasa de Hoffa.
+Impresión diagnóstica:
+Fractura conminuta de espinas tibiales. Fracturas en sector medio y posterior de meseta tibial externa, y en reborde
+articular posterior de meseta tibial interna. Moderado edema óseo epifisario y en metáfisis.
+LCA con avulsión ósea en su inserción tibial. 
+Menisco interno con avulsión ósea de la raíz de inserción tibial del cuerno posterior. Cuerno posterior y cuerpo con lesión
+intrasustancia y/o degenerativa.
+Ligamento colateral externo y tendón del bíceps con lesión parcial. Ligamento colateral interno con lesión grado I del
+componente superficial y grado II del componente profundo menisco femoral.
+Derrame articular severo con características de lipohemartrosis.
+Resto de hallazgos en el cuerpo del informe.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

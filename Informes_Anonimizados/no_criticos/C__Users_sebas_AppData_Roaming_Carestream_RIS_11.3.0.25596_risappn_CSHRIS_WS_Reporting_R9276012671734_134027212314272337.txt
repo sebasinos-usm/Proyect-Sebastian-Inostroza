@@ -1,0 +1,44 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC-PET FDG
+En el cerebro no se observan nódulos ni áreas de realce anormales con contraste intravascular.
+En regiones cervical y axilares no se visualizan adenopatías ni masas de partes blandas.
+Nódulo pulmonar en el segmento apicoposterior del lóbulo superior izquierdo (LSI), de 7 mm, sin aumento de
+metabolismo (imagen 92 de serie pulmonar).
+Nódulo pulmonar en segmento anterior del LSD, de 6 mm, sin aumento del metabolismo (imagen 114).
+Nódulo pulmonar en el segmento anterior del LSI, de 4 mm, sin aumento detectable del metabolismo (imagen 150).
+Nódulo pulmonar en segmento basal posterior del LII, de 5 mm, sin aumento del metabolismo (imagen 200).
+Escasos nódulos pulmonares menores de 2 mm.
+No se visualizan lesiones pulmonares hiper metabólicas.
+Tráquea y bronquios de diámetros normales. No se visualiza derrame pleural.
+No hay adenopatías en el mediastino ni en los hilios pulmonares.
+Corazón de tamaño normal. Aorta y grandes vasos de diámetros conservados.
+Hígado de tamaño normal. Parénquima sin nódulos sospechosos ni lesiones hiper metabólicas. Quistes hepáticos
+benignos, el mayor en segmento 8, de 23 mm.
+Vesícula no se visualiza. Clips quirúrgicos en el lecho. Vía biliar no dilatada.
+Páncreas presenta aumento de volumen del segmento de cabeza, con leve aumento del metabolismo, con escasas
+calcificaciones en el proceso uncinado. Existe infiltración del tejido graso peripancreático en el segmento de cabeza,
+atrapando la arteria mesentérica superior y determinando disminución de amplitud de la vena mesentérica superior, de la
+vena esplénica y de la unión porto esplénica, lo que no era visible en estudios anteriores. Dilatación del conducto
+pancreático principal predominantemente en cuerpo y cola ya presente previamente.
+Bazo y suprarrenales de morfología normal.
+Riñones de tamaño normal. Parénquima sin nódulos sospechosos. Quistes parapiélicos en ambos senos renales. No hay
+ectasia pielocaliciaria ni litiasis. Uréteres sin litiasis.
+No se visualizan adenopatías en región aortocava, pelvianas, mesentéricas ni inguinales.
+Esófago, estómago, duodeno y asas intestinales sin engrosamiento parietal.
+Cambios por hemicolectomía derecha. Anastomosis ileocólica sin nódulos.
+No se observa líquido libre, colecciones ni nódulos peritoneales.
+Vejiga sin engrosamiento parietal. Próstata y vesículas seminales sin alteraciones.
+No se observan lesiones óseas destructivas, escleróticas o hiper metabólicas.
+Impresión diagnóstica:
+Antecedentes de sospecha de neoplasia de páncreas diseminada.
+Aumento de volumen de la cabeza pancreática, con infiltración del tejido graso peripancreático, atrapando estructuras
+vasculares arteriales y venosas (arteria y vena mesentérica superior, vena esplénica y unión porto esplénica), lesión con
+leve aumento del metabolismo, con progresión respecto de estudios anteriores. Considerar progresión de neoplasia
+mucinosa, pareciendo menos probable pancreatitis crónica o adenocarcinoma pancreático.
+Nódulos pulmonares hipo metabólicos (4) probablemente benignos.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,13 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Rx Ortejo Derecho AP-LAT-OBL
+Elementos óseos bien alineados, de morfología conservada.
+Fractura oblicua en la base de la falange distal del primer ortejo derecho, borde medial, con extensión hacia superficie
+articular, sin desplazamiento significativo, menos evidente respecto de radiografía previa del 14.07.2021. Partes blandas
+adyacentes con menor volumen y densidad respecto de radiografía previa.
+Espacios articulares de amplitud conservada, con superficies óseas lisas y regulares.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,21 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis sin Contraste
+Se realiza fistulografía por sonda de drenaje vía flanco derecho para control de fístula intestinal.
+Hallazgos:
+A través del catéter de drenaje vía flanco derecho se inyecta medio de contraste yodado hidrosoluble.
+Se observa que el catéter de ubicación extra intestinal, adyacente la fístula, actualmente se encuentra dentro del lumen
+del asas de intestino delgado que se correspondía con el asa intestinal fistulizada.
+El medio de contraste administrado se distribuye en el lumen de las asas de delgado, con escasa salida de contraste a
+pequeña cavidad que se encuentra adyacente a la fístula, de 10 mm de diámetro. Esta cavidad presenta pequeña
+prolongación tubular fina hacia anterior en extensión de 30 mm sin retención de contraste administrado.
+No se identifican otras fístulas intestinales.
+No se reconocen otras colecciones peritoneales.
+En la cicatriz quirúrgica de línea media supraumbilical se observan cavidades quísticas aéreas que se ubican en el plano
+parietal músculo aponeurótico, la mayor de 23 mm.
+No se reconocen otros hallazgos significativos.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

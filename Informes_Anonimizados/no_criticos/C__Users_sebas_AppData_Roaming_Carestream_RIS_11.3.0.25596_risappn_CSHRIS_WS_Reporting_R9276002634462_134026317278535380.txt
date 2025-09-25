@@ -1,0 +1,29 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+CARLA LILIANA  SOLAR SIGALA
+35Años
+[ID_ANONIMIZADO]
+[FECHA_ANONIMIZADA]
+ 
+Examen: Ecotomografía Mamaria   
+   Paciente referida por posible nódulo mamario izquierdo.
+Actualmente dando lactancia.
+Mamas de aspecto lactacional.
+Se reconoce pequeña imagen quística con contenido espeso en CSE de la mama izquierda, de 2,2 
+mm.
+No se visualizan otros nódulos sólidos ni quísticos en esta exploración.
+Regiones retroareolares libres.
+Linfonodos axilares inespecíficos bilaterales.
+Impresión ecográfica.
+Examen sin signos sospechosos de malignidad.
+Birads 2.
+Se sugiere control mamográfico anual a partir de los 40 años.
+Dra. Claudia Díaz Medalla
+Médico Radiólogo
+  
+  
+Ecografista:  
+Informe validado / 
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

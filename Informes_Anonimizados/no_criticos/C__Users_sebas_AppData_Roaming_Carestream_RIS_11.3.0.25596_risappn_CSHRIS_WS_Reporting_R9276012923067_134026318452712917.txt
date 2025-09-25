@@ -1,0 +1,15 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Rx Pierna Izquierda AP-LAT
+Fractura oblicua diafisaria distal de la tibia, con desplazamiento lateral del fragmento distal, sin angulación, con leve
+cabalgamiento, sin conminución y sin reacción paraostal.
+Fractura diafisaria proximal del peroné, de disposición oblicua, con leve angulación posterior del fragmento distal, leve
+cabalgamiento, sin conminución ni reacción paraostal.
+No se reconocen otras lesiones óseas traumáticas.
+Articulaciones de amplitud normal con superficies conservadas.
+Espolón dorsal del calcáneo.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

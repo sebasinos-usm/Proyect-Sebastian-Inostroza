@@ -1,0 +1,36 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Tórax con Contraste
+HALLAZGOS:
+No se dispone de exámenes para comparación. Antecedente de lesión ulcerada del cuerpo gástrico Bormann IV.
+Tráquea y bronquios principales de calibres conservados, permeables.
+En el aspecto basal y posterior de ambos lóbulos inferiores se reconoce algunas opacidades, algunas laminares y otras
+centrolobulillares con morfología de árbol en brote. En el restante parénquima pulmonar no se reconoce focos de
+condensación ni nódulos de aspecto sospechoso.  
+No hay derrame pleural ni neumotórax.
+Corazón de tamaño y configuración conservados. Aorta torácica con diámetros y trayecto conservados. Ateromatosis
+aórtica y coronaria.
+Se reconoce defectos de llene compatible con trombosis en ramas de la arteria pulmonar correspondientes a arteria lobar
+media, arteria interlobar derecha y arterias segmentarias basales derechas anterior, lateral, medial y posterior. También
+se reconoce trombosis en las arterias segmentarias basales anteromedial, lateral y posterior del lóbulo inferior izquierdo.
+Tronco principal de la arteria pulmonar y sus ramas principales de morfología habitual.
+Vena cava superior y troncos vasculares supraaórticos con diámetros habituales.
+Se reconoce dos adenopatías en la cadena linfática mamaria interna izquierda, de hasta 9 x 5 mm, a nivel del primer
+espacio intercostal y segunda articulación esternocostal izquierda. Nódulo redondeado de 7 mm en el mediastino
+anterior, a la izquierda de la línea media. No se reconocen otras adenopatías de acuerdo a criterios de tamaño en el
+mediastino, regiones supraclaviculares ni axilares. En las restantes niveles linfáticos del mediastino se reconoce linfonodos
+en leve mayor cantidad respecto a lo habitual de hasta 11 x 5 mm, que se sugiere mantener en control.
+Glándula tiroides y esófago torácico con aspecto conservado.
+Planos parietales torácicos continuos.
+No se reconocen lesiones óseas traumáticas ni destructivas.
+IMPRESIÓN DIAGNÓSTICA:
+Hallazgo incidental de tromboembolismo pulmonar bilateral.
+Adenopatías en cadena linfática mamaria interna izquierda.
+Nódulo en el mediastino anterior, posiblemente una adenopatía.
+Opacidades pulmonares basales y posteriores, pudiendo corresponder a contenido aspirado en la vía aérea pequeña,
+bronquiolitis y / o atelectasias.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

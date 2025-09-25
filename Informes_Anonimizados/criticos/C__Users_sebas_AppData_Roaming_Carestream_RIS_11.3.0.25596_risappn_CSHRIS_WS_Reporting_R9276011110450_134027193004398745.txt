@@ -1,0 +1,23 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Mamografía Bilateral
+Antecedentes: Examen de control preventivo, analisis comparativo con examen anterior.. Asintomática sin antecedente
+familiar. 
+Hallazgos: 
+Los planos superficiales no demuestran alteraciones  radiológicas.
+En comparación a examen anterior realizado en el año 2022 se mantiene predominio adiposo sobre fibroglandular. Se
+demuestra una imagen nodular evolutiva de margen espiculado de 10 mm en el CSE izquierdo mejor visualizada en
+craneocaudal.
+Múltiples calcificaciones anulares bilaterales estables.
+No se evidencian microcalcificaciones patológicas.
+El resto de planos evaluados no demuestra alteraciones.
+Impresión Diagnóstica: 
+Nódulo del CSE izquierdo evolutivo sospechoso de atipia
+BIRADS   4C
+ACR A
+ Recomendacion: Considerar biopsia bajo visión ecográfica y estudio ecográfico axilar. .
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

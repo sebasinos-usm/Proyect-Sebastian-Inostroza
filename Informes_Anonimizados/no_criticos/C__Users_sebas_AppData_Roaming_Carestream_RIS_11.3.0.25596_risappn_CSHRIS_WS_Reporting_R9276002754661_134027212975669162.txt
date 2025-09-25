@@ -1,0 +1,17 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+KRISTOFFER  JIMENEZ DIAZ
+5Años
+[ID_ANONIMIZADO]
+[FECHA_ANONIMIZADA]
+ 
+Examen: Rx Dedo Mano Derecha PA-LAT-OBL
+   
+Estructuras óseas de morfología normal.
+No se visualizan signos de lesión ósea traumática o destructiva.
+Núcleos de osificación de aspecto conservado.
+Espacios articulares impresionan congruentes.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,17 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+RX Tórax Portátil
+Antecedentes: Ingresa por Disnea y dolor torácico. Cardiopata crónico 6 Stent, 4 IAM previos. Coranariografía sin hallazgos
+de caracter agudo. ICC NYHA III (basal) actualmente probable descompensación, EPA.
+Cuenta con examen previo del [FECHA_ANONIMIZADA], momento en que se diagnosticó NAC, para comparar.
+Pulmones adecuadamente insuflados, con persistencia de condensación en base pulmonar derecha. No se han agregado
+cavitaciones.
+Persiste edema pulmonar intersticial de aspecto congestivo sin cambios. Escaso derrame pleural sin variación.
+Silueta cardíaca con importante aumento de tamaño sin cambios.
+No se ha agregado neumotórax.
+Resto sin cambios.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

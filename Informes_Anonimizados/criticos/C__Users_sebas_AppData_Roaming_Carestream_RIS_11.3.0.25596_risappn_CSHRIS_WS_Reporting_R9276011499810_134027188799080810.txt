@@ -1,0 +1,40 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+AngioTC de Tórax
+Se logra adecuada opacificación de arteria pulmonar y sus ramas principales, así como también ramas lobares,
+segmentarias y algunas subsegmentarias.
+Se observan pequeños defectos hipodensos compatibles con focos de trombosis comprometiendo ramas lobares
+inferiores bilaterales y otros de mayor tamaño comprometiendo múltiples ramas segmentarias y subsegmentarias en la
+totalidad de los lóbulos pulmonares, impresionando de mayor extensión en segmentos basales del lóbulo inferior
+derecho. Otras de menor tamaño se visualiza en segmentos anterior y posterior del lóbulo superior derecho, medial y
+lateral del lóbulo medio, superior del lóbulo inferior derecho, anterior del lóbulo superior izquierdo, lingulares y superior y
+basales del lóbulo inferior izquierdo.
+El tronco principal de la arteria pulmonar mide 28 mm, su rama derecha 24 mm y la izquierda 25 mm, lo que se encuentra
+dentro de lo esperado.
+Leve aumento de tamaño de cavidades cardíacas derechas, con índice VD/VI de 1,16. No se observa derrame pericárdico.
+Aorta de diámetros normales. Ateromatosis cálcica aorto-coronaria.
+Tráquea y bronquios principales de calibres normales, permeables.
+Foco de consolidación y vidrio esmerilado comprometiendo el segmento lingular inferior del lóbulo superior izquierdo. No
+se observan otras áreas de consolidación.
+No se reconocen nódulos ni masas pulmonares.
+Escaso derrame pleural posterobasal izquierdo. No hay derrame pleural a derecha.
+Tiroides sin nódulos. Esófago sin engrosamiento parietal.
+No se identifican adenopatías mediastínicas, hiliares ni axilares.
+Tejido glandular mamario de aspecto normal.
+Planos parietales conservados. 
+No se visualizan lesiones óseas traumáticas o destructivas. Hemangioma corporal de vértebra T5 y T11. Alteraciones
+degenerativas de columna vertebral.
+Estudio venoso en fase tardía no demuestra signos de trombosis venosa pelviana ni femoropoplítea.
+Impresión diagnóstica:
+Hallazgos compatibles con extenso tromboembolismo pulmonar bilateral, según lo descrito.
+Opacidad de consolidación y vidrio esmerilado en el segmento lingular inferior del lóbulo superior izquierdo, sospechoso
+de un foco de hemorragia / infarto.
+Leve aumento de tamaño de cavidades cardíacas derechas, a considerar fenómenos de sobrecarga.
+Escaso derrame pleural izquierdo.
+Ateromatosis cálcica aorto-coronaria.
+Alteraciones degenerativas de columna vertebral.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

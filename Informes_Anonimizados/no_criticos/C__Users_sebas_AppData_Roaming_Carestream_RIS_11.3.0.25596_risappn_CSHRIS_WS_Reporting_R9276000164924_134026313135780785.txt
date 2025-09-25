@@ -1,0 +1,24 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+SEBASTIAN  CASTILLO BARRIOS
+ 9Años
+[ID_ANONIMIZADO]
+ 00107122-94
+ [FECHA_ANONIMIZADA]
+ [FECHA_ANONIMIZADA]
+ 
+     Eco Pelviana Masculina Infantil -
+   
+Hallazgos:
+Vejiga distendida, de paredes lisas, sin signos de lesión orgánica.    
+Presenta un volumen pre-miccional de 127  cc. y un residuo post-miccional de 1,5 cc.      
+La próstata se observa de tamaño, forma y estructura normal, con un volumen  aproximado  de 1,2 
+cc.
+Vesículas seminales  de morfología y estructura normal. 
+IMPRESIÓN DIAGNÓSTICA    :     
+Examen sin hallazgos patológicos. .. 
+  
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

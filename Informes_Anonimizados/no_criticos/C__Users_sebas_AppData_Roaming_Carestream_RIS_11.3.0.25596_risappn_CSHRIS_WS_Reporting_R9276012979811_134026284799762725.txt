@@ -1,0 +1,25 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Oído con Contraste
+Antecedentes: Otitis media aguda izquierda en tratamiento que evoluciona con parálisis facial izquierda.
+Hallazgos:
+Conducto auditivo derecho de calibre conservado, permeable.
+Conducto auditivo izquierdo presenta calibre conservado con leve engrosamiento de sus paredes. Engrosamiento de
+membrana timpánica izquierda.
+La cavidad timpánica derecha se encuentra bien neumatizada, observando sus huesecillos en adecuada posición.
+La cavidad timpánica izquierda presenta ocupación parcial a nivel del epitímpano, mesotímpano e hipotímpano. Sus
+huesecillos se encuentran en adecuada posición, no identificando erosiones. Scutum de morfología conservada.
+Conductos de los nervios faciales sin evidencias de dehiscencia.
+Cócleas, vestíbulos y conducto semicirculares de morfología conservada.
+CAIs simétricos.
+Ocupación parcial de celdillas mastoideas y antros, mayor a izquierda.
+No se identifican anomalías de conformación de arterias carótidas internas de golfos yugulares.
+Impresión Diagnóstica:
+Ocupación parcial de cavidad timpánica izquierda y del antro y celdillas mastoideas ipsilaterales, concordantes con
+diagnóstico clínico de otitis media aguda. Signos de otitis externa izquierda.
+Ocupación parcial de celdillas mastoideas derechas.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

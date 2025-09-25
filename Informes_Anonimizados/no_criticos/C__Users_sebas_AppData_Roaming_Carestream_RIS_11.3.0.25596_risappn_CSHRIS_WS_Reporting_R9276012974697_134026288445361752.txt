@@ -1,0 +1,23 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Tomografía computada de columna cervical no contrastada.
+Antecedente clínico: Trauma.
+Hallazgos:
+Densidad mineral ósea conservada.
+Fractura completa de posición axial del proceso transverso derecho de C6.
+Fractura completa de la porción anterior y posterior del proceso transverso derecho de C7. Su porción posterior sin
+desplazamiento y su porción anterior con leve desplazamiento del extremo del proceso transverso hacia lateral y caudal.
+Fractura completa sagital del proceso transverso derecho de T1, sin desplazamiento significativo.
+Cuerpos vertebrales cervicales de altura normal, bien alineados en el plano sagital y coronal.
+Espacios discales intervertebrales amplitud conservada. No se reconocen protrusiones discales mediante esta técnica.
+Articulaciones facetarias congruentes. No hay signos de espondiloartrosis ni uncartrosis significativa.
+Procesos espinosos espacios y interespinosos dentro de límites normales.
+Unión craneocervical congruente.
+Partes blandas prevertebrales de espesor conservado.
+Impresión:
+Fractura de los procesos transverso derechos de C6, C7 y T1.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

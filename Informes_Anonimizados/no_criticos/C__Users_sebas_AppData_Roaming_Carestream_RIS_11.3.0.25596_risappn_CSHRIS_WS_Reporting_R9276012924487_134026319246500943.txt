@@ -1,0 +1,36 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Antecedentes clínicos:
+Dolor abdominal.
+Diarrea.
+Hallazgos:
+Hígado de tamaño, forma y realce normal.
+Vesícula biliar ausente. Vía biliar no dilatada.
+Páncreas, bazo, glándulas suprarrenales y útero sin alteraciones morfológicas.
+Riñones de tamaño, forma, grosor de realce parenquimatoso normales. El riñón izquierdo se encuentra descendido y con
+su hilio rotado hacia anterior.
+No hay nefrolitiasis ni hidronefrosis.
+Vejiga parcialmente distendida, de pared levemente engrosada en forma difusa.
+No hay masas anexiales sospechosas. Ovario derecho prominente con múltiples folículos en su espesor.
+Asas intestinales de calibre y realce parietal normal, incluyendo el apéndice cecal.
+Incipientes divertículos en el ángulo esplénico del colon, no complicados.
+Estómago escasamente distendido, sin engrosamientos focales sospechosos por esta técnica.
+No hay ascitis ni neumoperitoneo libre.
+Principales estructuras vasculares abdominopélvica es permeables.
+Aorta abdominal de calibre conservado.
+Escaso volumen de la vena cava inferior, lo que sugiere menor volumen intravascular efectivo.
+No se reconocen adenopatías inguinales, ilíacas, retroperitoneales ni mesentéricas según criterios de tamaño.
+Porciones caudales visibles de ambos pulmones sin alteraciones.
+No se identifican lesiones focales óseas traumáticas ni destructivas mediante esta técnica.
+Impresión:
+Leve engrosamiento difuso de la pared vesical. Se sugiere descartar un compromiso inflamatorio infeccioso con examen
+de orina.
+Descenso y rotación hacia anterior del riñón izquierdo según lo descrito.
+Vena cava inferior parcialmente colapsada, como signo de menor volumen intravascular efectivo.
+Incipiente diverticulosis en el ángulo esplénico del colon.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

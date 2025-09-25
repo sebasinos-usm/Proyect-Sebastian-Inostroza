@@ -1,0 +1,38 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Antecedentes clínicos:
+Neoplasia e colon.
+Hallazgos:
+Hígado de tamaño, forma realce normal. Prominente, masa de aspecto neoplásico secundario centrada en el lóbulo
+hepático derecho, que mide 13 × 10 × 8.8 cm en sus ejes mayores. Muestra cinética hipovascular con el contraste
+endovenoso, bordes lobulados y múltiples pequeñas calcificaciones en su espesor.
+Vesícula biliar ausente. Vía biliar no dilatada.
+Páncreas, parénquima esplénico, glándulas suprarrenales, riñones, vejiga y útero sin alteraciones morfológicas
+significativas.
+Pequeños quistes corticales renales bilaterales de aspecto simple, con uno dominante a izquierda de 40 mm.
+No hay nefrolitiasis ni hidronefrosis.
+Prominente formación quística simple de 7,2 cm de diámetro en la pelvis menor, lateralizada a derecha, probablemente
+de origen anexial.
+Asas intestinales de calibre conservado. Engrosamiento parietal abollonado de un segmento de 5,9 cm de largo en el
+tercio medio del colon transverso, de aspecto neoplásico primario. Se asocia a algunas adenopatías adyacentes, la más
+prominente de 15 × 10 mm, con pequeñas calcificaciones puntiformes en su espesor.
+Principales estructuras vasculares abdominopélvicas permeables.
+Aorta abdominal de calibre conservado.
+Moderada ateromatosis, cálcica aortoilíaca.
+No se identifican adenopatías, inguinales, ilíacas ni retroperitoneales según criterios de tamaño.
+Estómago parcialmente colapsado.
+No hay ascitis ni neumoperitoneo libre.
+Pared abdominal sin alteraciones.
+Cambios degenerativos en la columna lumbar, especialmente facetarios L4 L5 y lumbosacros bilaterales.
+Impresión:
+Engrosamiento parietal de aspecto neoplásico primario del tercio medio del colon transverso, con algunas adenopatías
+satélites.
+Prominente masa de aspecto neoplásico secundario centrada en el lóbulo hepático derecho.
+Moderada ateromatosis aortoilíaca.
+Formación quística en la pelvis menor, probablemente de origen anexial.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

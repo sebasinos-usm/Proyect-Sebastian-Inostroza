@@ -1,0 +1,24 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Eco Doppler venoso de la extremidad inferior derecha 
+Hallazgos:
+Cambios postquirúrgicos por safenectomía interna.
+Venas femorales común, superficial y profunda, poplítea, peroneas, tibiales posteriores, sólidas, safena externa y una de
+las gemelares presenta en pared fina, lumen anecogénico, compresible al paso del transductor y con señal espontánea al
+estudio con Doppler-color.
+Una de las venas gemelares mediales presenta pared fina y trombo heterogéneo, levemente ecogénico, el cual se
+extiende a una comunicante con vena safena externa.
+Al estudio, con maniobras de Valsalva y compresión gemelar observan tipos de reflujo superiores a los 5 segundos en las
+venas femorales común y superficial y en la vena poplítea.
+En la evaluación en bipedestación se observan comunicantes femorocutáneas dilatadas a 4 cm bajo la ingle y a 2 cm por
+sobre la rodilla. Comunicantes tibio-cutáneas dilatadas a 2, 6 y 8 cm sobre el tobillo y colaterales dilatadas de la vena
+safena externa a 8 y 10 cm bajo la rodilla.
+Impresión diagnóstica:
+Trombosis de aspecto subagudo en una de las venas gemelares mediales y en comunicante con la vena safena externa
+derecha.
+Insuficiencia venosa profunda y superficial en la extremidad inferior derecha.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

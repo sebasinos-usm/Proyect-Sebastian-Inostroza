@@ -1,0 +1,24 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Abdomen y Pelvis con Contraste
+Antecedentes clínicos:
+Dolor abdominal. Sospecha de apendicitis aguda.
+Hallazgos:
+Hígado de morfología normal, sin lesiones focales de aspecto agresivo en su espesor.
+Eje venoso porto espleno mesentérico y venas suprahepáticas permeables.
+Vesícula colapsada, no evaluable. 
+Vía biliar, bazo, páncreas, glándulas suprarrenales y riñones con sus sistemas excretores sin alteraciones morfológicas.
+Vejiga colapsada, no evaluable.
+Asas intestinales y apéndice cecal de calibre y distribución normales.
+Vena cava inferior, aorta abdominal y origen de sus ramas principales permeables.
+No se reconocen adenopatías retroperitoneales, mesentéricas ni pelvianas según criterio de tamaño.
+Útero de morfología normal para la edad. No hay masas anexiales.
+No se observa líquido libre intraabdominal, tampoco neumoperitoneo.
+No se identifican lesiones focales óseas traumáticas ni destructivas mediante esta técnica.
+Impresión:
+Examen sin hallazgos patológicos de carácter agudo.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

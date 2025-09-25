@@ -1,0 +1,13 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Eco Doppler Venoso EEII Derecha
+Se observa trombosis venosa profunda a nivel de vena femoral en todo su recorrido, vena poplítea, tronco venoso
+tibioperoneo, vena peronea y solea, y tercio proximal de vena tibial posterior. 
+Confluente safeno poplíteo y safeno femoral comprometidos.
+Impresión diagnóstica:
+Trombosis venosa profunda derecha, según descripción.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

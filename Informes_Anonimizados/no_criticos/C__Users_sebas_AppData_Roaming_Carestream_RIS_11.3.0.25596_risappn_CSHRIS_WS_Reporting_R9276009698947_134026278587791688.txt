@@ -1,0 +1,30 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Tórax con Contraste
+En comparación con examen del [FECHA_ANONIMIZADA] no se visualizan cambios significativos.
+En los pulmones no se han agregado nódulos sospechosos de metástasis.
+No hay áreas de condensación ni signos de enfermedad intersticial.
+Finas bandas parenquimatosas pulmonares en la base sin variaciones.
+Tráquea y bronquios de diámetro normales.
+No se observa derrame pleural, lo que no ha variado.
+No se han agregado adenopatías en el mediastino ni en hilios pulmonares.
+Corazón de tamaño normal.
+Aorta y troncos arteriales supra aórticos de trayecto y diámetros conservados.
+Venas braquiocefálicas, cava superior y arteria pulmonar sin alteraciones.
+Esófago sin engrosamiento parietal.
+No se observan adenopatías axilares ni supraclaviculares, lo que no ha variado.
+En regiones mamarias no se identifican nódulos.
+Masas musculares conservadas.
+No se han agregado lesiones óseas destructivas o escleróticas sospechosas. Se mantienen leve proliferaciones óseas en los
+márgenes de las plataformas vertebrales dorsales. Persiste leve hundimiento de la zona central de la plataforma superior
+de T11.
+Impresión diagnóstica:
+Antecedentes de neoplasia de colon tratada en control.
+No se observan signos de compromiso metastásico torácico, lo que no ha variado.
+Finas bandas parenquimatosas pulmonares basales sin variaciones probablemente cicatriciales.
+Leve espondilosis dorsal.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

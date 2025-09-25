@@ -1,0 +1,39 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+MARIA ELBA  ACEVEDO GONZALEZ
+73Años
+[ID_ANONIMIZADO]
+[FECHA_ANONIMIZADA]
+  
+Examen:     RM de Rodilla Izquierda sin Contraste  
+LCA y LCP sin alteración sus fibras, no evidenciando lesiones.
+Menisco interno de superficies lisas y regulares, sin evidencia de rotura, observando aumento de 
+señal en la porción corporal y cuerno posterior compatible con degeneración intrasustancia. Menisco 
+externo sin alteraciones.
+LCI de grosor y señal conservadas, observando leve edema periligamentario.
+LCE y banda iliotibial sin alteraciones.
+En superficie de carga del cóndilo femoral interno se observa fisura con delaminación condral focal 
+de aproximadamente 5 mm de diámetro, alcanza la cortical ósea, sin edema subyacente. Fibrilación y 
+discreta heterogeneidad de señal de cartílago de platillo tibial externo.
+Tróclea femoral conservada.
+Rótula tipo II. Cartílago rotuliano de espesor normal con señal heterogénea.
+Retináculo rotuliano medial no se reconoce. Retináculo rotuliano lateral, sin alteraciones. 
+Cuerpo de Hoffa, sin alteraciones. 
+Tendón del cuádriceps y tendón rotuliano sin alteraciones.
+Ganglión o bursa de aproximadamente 27 x 18 mm profundo a inserción del tendón 
+semimembranoso.
+Estructuras de esquinas posteromedial y  posterolateral sin alteraciones.
+Quiste de Baker de 38 x 14 x 5 mm de diámetros.
+Moderado derrame articular femorotibial con distensión del receso supra patelar.
+Moderado edema del tejido celular subcutáneo prerrotuliano lateral.
+Impresión diagnóstica:
+Degeneración intrasustancia en menisco medial.
+Lesión grado I de ligamento colateral medial.
+Lesión condral focal en superficie carga de cóndilo femoral interno, grado 4.
+Condromalacia rotuliana grado 1.
+Quiste de Baker.
+Moderado derrame articular femorotibial.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

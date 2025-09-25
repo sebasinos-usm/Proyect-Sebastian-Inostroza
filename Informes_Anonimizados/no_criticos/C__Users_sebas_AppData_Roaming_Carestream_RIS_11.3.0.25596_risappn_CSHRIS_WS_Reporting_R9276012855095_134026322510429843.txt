@@ -1,0 +1,47 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Tórax sin Contraste
+Antecedentes: Síndrome edematoso en contexto de paciente oncológico por linfoma testicular.
+Se compara con estudio del 20 de mayo del 2025.
+Hallazgos:
+Tráquea y bronquios principales de calibre conservado, permeables.
+Leve engrosamiento difuso de la vía aérea intrapulmonar, de carácter inespecífico.
+Escasas cavidades quísticas aéreas en lóbulo superior derecho de hasta 6 mm y sin cambios.
+Bandas atelectásicas subsegmentarias a predominio bibasal.
+No se reconocen opacidades de consolidación ni nódulos sospechosos.
+Se agrega derrame pleural laminar izquierdo.
+No hay neumotórax.
+Corazón aumentado de tamaño. Escasas calcificaciones parietales coronarias y en anillo valvular aórtico. No hay derrame
+pericárdico.
+Arteria pulmonar dilatada, con un calibre de 30 mm.
+Aorta elongada, de calibre conservado. Presenta algunas placas de ateroma calcificadas en su trayecto.
+Vena cava superior y troncos vasculares supraaórticos de calibre normal.
+Se agrega reservorio de quimioterapia en región pectoral derecha, con extremo distal de catéter en vena cava superior.
+Se mantiene marcapasos en región pectoral izquierda, con extremo distal de electrodos en cavidades cardiacas derechas.
+Se agregan adenopatías paraesofágicas y retrocrurales en forma bilateral de hasta aproximadamente 21 mm de eje
+menor.
+Tiroides y esófago torácico sin alteraciones tomográficas.
+Ascenso de la unión gastroesofágica a la cavidad torácica.
+Planos parietales continuos.
+Se agrega leve edema difuso del tejido adiposo subcutáneo.
+No se reconocen lesiones óseas traumáticas ni destructivas evidentes. Cambios degenerativos en columna dorsal.
+Impresión diagnóstica:
+Antecedente de linfoma testicular.
+Se han agregado adenopatías en cadenas paraesofágica y retrocrurales en forma bilateral.
+Bandas atelectásicas subsegmentarias a predominio bibasal.
+Cardiomegalia. Marcapasos bicameral.
+Dilatación del tronco de la arteria pulmonar, signo tomográfico de hipertensión pulmonar.
+Hernia hiatal tipo I.
+Leve ateromatosis cálcica aortocoronaria.
+Se agrega leve edema difuso subcutáneo.
+Espondilosis dorsal.
+                  *El presente resultado debe correlacionarse con el cuadro clinico y ser evaluado por medico tratante*
+Fecha addendum:
+[FECHA_ANONIMIZADA] 21:59:26
+Se debe agregar en la impresión diagnóstica: "Se agrega derrame pleural laminar izquierdo".
+Addendum firmado por:
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

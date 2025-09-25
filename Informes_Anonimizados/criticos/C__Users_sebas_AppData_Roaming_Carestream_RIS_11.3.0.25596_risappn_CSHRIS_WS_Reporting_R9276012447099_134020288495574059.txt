@@ -1,0 +1,23 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Ecotomografía Mamaria
+Paciente referida para evaluación por mamas densas.
+Antecedente de BED en mama izquierda, con resultado benigno.
+Se dispone de mamografías de años 2023, 2024 y mayo de 2025.
+Mamas con patrón fibroglandular homogéneo.
+En cuadrante inferointerno de mama izquierda, en radio de la hora 8-9 a 4 cm del pezón se observa nódulo sólido,
+hipoecogénico, de margen espiculado, que mide 8 mm por 8 mm por 6 mm. Adyacente, en radio de la hora 8, se observa
+área hipoecogénica de tipo no masa, de aproximadamente 10 mm.
+Las lesiones descritas no presentan signos de hipervascularización.
+Pequeños quistes simples aislados en ambas mamas de hasta 4 mm, uno de ellos en la región retroareolar de MI.
+Múltiples nódulos ecogénicos con aspecto de lipomas en ambas mamas, de hasta 18 mm.
+Linfonodos axilares inespecíficos izquierdos.
+Impresión ecográfica.
+Nódulo espiculado de mama izquierda, altamente sospechoso, y lesión adyacente tipo no masa, se requiere estudio
+histológico.
+Birads 5.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,12 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Rx Calcáneo Izquierdo Axial-LAT
+Estructuras óseas de morfología normal.
+No se reconocen signos de lesión osea traumática.
+Espacios articulares de amplitud conservada.
+Calcificación en la inserción distal del tendón de Aquiles.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

@@ -1,0 +1,17 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Ecotomografía de Tobillo Izquierdo
+Antecedentes: dolor en estudio
+Hallazgos:
+Tendón de Aquiles de grosor y ecogenicidad normal.
+Tendones tibial posterior, flexor de los ortejos, de grosor y ecogenicidad normal.
+No hay signos de derrame articular.
+Venas tibiales posteriores presentan contenido hipoecogénico, no compresible sin señal a la
+evaluación con Doppler.
+Impresión:
+Trombosis venosa profunda de venas tibiales posteriores
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

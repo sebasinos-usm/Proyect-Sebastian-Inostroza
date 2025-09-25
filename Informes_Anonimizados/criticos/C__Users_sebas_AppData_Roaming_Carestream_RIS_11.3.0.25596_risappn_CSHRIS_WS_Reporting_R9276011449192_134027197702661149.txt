@@ -1,0 +1,23 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Eco Doppler Testicular
+Antecedentes: Dolor testicular izquierdo.
+Hallazgos:
+Ambos testículos se encuentran en las cavidades correspondientes del saco escrotal, alcanzando diámetros mayores de 47
+mm el derecho y 48 mm el izquierdo. Presentan estructura parenquimatosa homogénea, conservada, sin lesiones focales.
+Epidídimos de caracteres morfológicos conservados.
+Escasa cantidad líquido libre en ambas cavidades escrotales.
+Al estudio Doppler color se observa conservación de flujos sanguíneos intratesticular a derecha y ausencia de flujo
+sanguíneo intratesticular a izquierda.
+Se visualiza torsión del cordon izquierdo, identificando curvas arteriales de alta resistencia bifásicas en segmento proximal
+a la torsión y la ausencia de flujo hacia distal al estudio Doppler espectral. 
+A derecha el cordón presenta flujos monofásicos de baja resistencia.
+No se observa dilatación de plexos venosos pampiniformes que sugiera varicocele.
+Impresión Diagnóstica:
+Hallazgos sugerentes de torsión testicular izquierda.
+Escaso hidrocele bilateral.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

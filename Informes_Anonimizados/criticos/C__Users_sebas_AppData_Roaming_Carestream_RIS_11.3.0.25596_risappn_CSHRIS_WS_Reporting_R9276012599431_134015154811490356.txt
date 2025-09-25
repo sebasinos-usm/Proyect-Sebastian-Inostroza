@@ -1,0 +1,27 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Mamografía Bilateral
+Se realiza mamografía por control preventivo.
+No se cuenta con estudios previos para comparar.
+Piel y pezones de grosor normal.
+Tejido celular subcutáneo y graso retromamario libres.
+Mamas constituidas por opacidades fibroglandulares dispersas.
+No se identifican imágenes nodulares.
+Clip de marcaje en cuadrante superior externo de la mama derecha.
+Presencia de dos grupos de microcalcificaciones pleomorfas en proximidad al clip de marcaje. Un grupo se sitúa a 25 mm
+medial al clip y el otro grupo a 35 mm medial-posterior y cefàlico  al clip de marcaje.
+Mamas simétricas.
+Linfonodos axilares bilaterales.
+Impresión diagnóstica:
+Grupos de microcalcificaciones en proximidad a clip de marcaje en mama derecha que por su morfología impresionan
+como sospechosos. Dado que no se cuenta con estudios previos para comparar se presumen de reciente aparición siendo
+aconsejable realizar estudio histológico de los mismos.
+Birads 4b. ACR B.
+Fecha addendum:
+[FECHA_ANONIMIZADA] 18:44:30
+Addendum firmado por:
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

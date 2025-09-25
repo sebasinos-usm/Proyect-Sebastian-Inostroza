@@ -1,0 +1,27 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Cerebro sin Contraste
+Antecedente clínico:
+Sospecha de accidente cerebrovascular.
+Hallazgos:
+Destaca en este estudio abundante material hiperdenso de aspecto hemático agudo centrado en la porción posterior del
+hemisferio cerebral derecho, especialmente a nivel parietotemporal. Impresiona irregular y disgregado, con un nivel
+liquido liquido y rodeado de abundante edema vasogénico. Determina importante efecto de masa sobre las estructuras
+adyacentes, visualizando obliteración de los surcos de la convexidad, desviación de las estructuras de la línea media hacia
+controlateral en aproximadamente 19 mm a nivel del septum pelucidum. Además determina característicamente
+herniación subfalcina y uncal bilateral. En estas condiciones el VL derecho se encuentra colapsado casi de forma completa,
+a excepción de su cuerno temporal. El VL izquierdo por su lado se encuentra dilatado, especialmente el antro y cuerno
+temporal, sugerente de hidrocefalia aguda. El tercer ventrículo se encuentra colapsado y el cuarto ventrículo ocupado de
+forma completa por material hemático agudo. También se reconoce contenido hemático proyectado al mesencéfalo. Las
+cisternas ambiens se encuentran colapsadas.
+No se reconocen procesos expansivos extraaxiales.
+Impresión:
+Prominente hematoma agudo principalmente parieto temporal derecho, que determina acentuado efecto de masa
+supratentorial según lo descrito, herniación subfalcina, uncal bilateral y signos de hidrocefalia aguda. Si bien pudiese estar
+en contexto de una hemorragia amiloídea, de otra etiología o lesión subyacente no es descartable. Para mayor
+caracterización y de estimarse clínicamente necesario complementar estudio con RM.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

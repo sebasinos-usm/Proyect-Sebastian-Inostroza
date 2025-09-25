@@ -1,0 +1,23 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+RM de Cerebro
+Se realizaron secuencias axiales, sagitales y coronales ponderadas en T1, T2, FLAIR y difusión, con uso de contraste
+endovenoso.
+Antecedentes clínicos: Cefalea. 
+Hallazgos:    
+Sistema ventricular y espacio subaracnoideo de amplitud y configuración normal. 
+Focos puntiformes aislados de hiperseñal en secuencias T2/FLAIR en la sustancia blanca supratentorial de aspecto
+glióticos inespecíficos.
+No se observan lesiones corticales así como tampoco en sustancia blanca profunda ni núcleos de la base.
+Tronco encéfalo y cerebelo sin alteraciones. Amígdalas cerebelosas normosituadas.
+Ángulos pontocerebelosos y cisternas de la base libres.
+No se observan colecciones extraxiales.
+Con uso de contraste endovenoso no se observaron reforzamientos patológicos.
+IMPRESIÓN:  
+Focos glióticos inespecíficos aislados en la sustancia blanca supratentorial.
+Resto del estudio contestado encéfalo sin hallazgos destacables.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

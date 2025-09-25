@@ -1,0 +1,32 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Cerebro sin Contraste
+Antecedentes: Compromiso de conciencia en estudio.
+Hallazgos:
+Foco espontáneamente denso en hemisferio cerebeloso izquierdo de aproximadamente 24 x 21 mm, de aspecto hemático
+y que se asocia a hipodensidad periférica, sugerente de edema. No se observa herniación amigdalina significativa
+Se acompaña de contenido espontaneamente denso a nivel de cuarto ventrículo.
+En el parénquima encefálico supratentorial se observan algunas hipodensidades en sustancia blanca periventricular en
+ambos hemisferios a nivel de corona radiadas y centros semiovales.
+Pequeño nódulo hipodenso de 5 mm en el tálamo izquierdo.
+No se reconocen otras lesiones en el parénquima encefálico supratentorial.
+Moderada dilatación simétrica de ventrículos laterales y del tercer ventrículo, este último encontrándose en línea media.
+En troncoencéfalo no se reconocen lesiones focales.
+Cisternas subaracnoideas de la base de mayor amplitud, al igual que los valles silvianos y surcos epicorticales. No se
+observan colecciones yuxtadurales.
+Placas ateroma calcificadas en sifones carotídeos.
+Escaso engrosamiento mucoso en celdillas etmoidales y senos maxilares. Restantes cavidades neumáticas paranasales,
+mastoideas y timpánicas, evaluables en estos cortes, de amplitud y transparencia normales.
+No se observan lesiones óseas traumáticas ni destructivas evidentes.
+Impresión diagnóstica:
+Foco hemorrágico en hemisferio cerebeloso izquierdo, que se asocia a contenido hemático en cuarto ventrículo.
+Pequeño nódulo hipodenso en el tálamo izquierdo, sugerente de infarto lacunar.
+Hipodensidades en sustancia blanca periventricular bilateral, sugerente de leucoaraiosis (angiopatía de pequeño vaso).
+Cambios involutivos encefálicos difusos.
+Ateromatosis cálcica carotídea interna bilateral.
+Escasos cambios inflamatorios sinusales, según descripción.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

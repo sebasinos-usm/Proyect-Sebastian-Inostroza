@@ -1,0 +1,13 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Rx Cráneo AP-LAT-Towne
+Estructura ósea conservada.
+Líneas suturales e impresiones vasculares normales.
+No hay signos de lesión ósea traumática ni destructiva en las proyecciones evaluadas.
+Silla turca de configuración normal. No se visualizan calcificaciones intracraneales.
+Celdillas mastoideas adecuadamente neumatizadas.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

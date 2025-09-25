@@ -1,0 +1,36 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Tórax con Contraste
+Se cuenta con PET/CT FDG del [FECHA_ANONIMIZADA].
+Tráquea y bronquios principales de diámetros normales, permeables.
+En los pulmones no se han agregado nódulos, masas ni áreas de consolidación sospechosas.
+Escasas opacidad residuales subpleurales en ambos lóbulos inferiores, estables.
+No se observa derrame pleural.
+Corazón de similar tamaño, con leve prominencia del ventrículo derecho (índice VD/VI de 1,1). Mínimo derrame
+pericárdico laminar. Calcificaciones valvulares y coronarias.
+Ectasia fusiforme de la aorta torácica ascendente de hasta 42 mm. Restantes segmentos aórticos de diámetro normales.
+Elongación aórtica. Múltiples placas de ateroma blandas y calcificadas en aorta y troncos arteriales supraaórticos, de
+disposición excéntrica.
+Tronco principal de la arteria pulmonar de calibre normal, con diámetro de 28 mm. 
+Se identifica en la rama para el segmento anterior de lóbulo superior derecho con contenido hipodenso compatible con
+trombosis que ocupa gran parte del lumen, con extensión de una lengüeta de trombo hacia el lumen de la arteria
+interlobar. Otras imágenes de similares características se visualizan en ramas para el segmento medial del lóbulo medio.
+segmento basal anterior del lóbulo inferior derecho y lingular inferior. Vena cava superior de aspecto normal.
+Esófago sin engrosamiento parietal.
+No se identifican adenopatías mediastínicas, hiliares ni axilares.
+Planos parietales conservados.
+No se reconocen lesiones óseas traumáticas o destructivas.
+Impresión diagnóstica:
+Control de cáncer de colon en tratamiento.
+Examen sin lesiones sospechosas de compromiso secundario en el tórax, lo que no ha variado.
+Se agregan signos de tromboembolismo pulmonar comprometiendo rama para el segmento anterior de lóbulo superior
+derecho y parcialmente la arteria interlobar adyacente y ramas para segmentos medial de lóbulo medio, basal anterior de
+lóbulo inferior derecho y lingular inferior.
+Leve dilatación del ventrículo derecho.
+Ectasia fusiforme de la aorta torácica ascendente.
+Elongación y ateromatosis aórtica.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

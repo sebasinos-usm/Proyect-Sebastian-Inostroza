@@ -1,0 +1,20 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+Ecotomografía de Muñeca Derecha
+Antecedentes:  dolor y aumento de volumen en la cara dorsal de la muñeca 
+Hallazgos: 
+Compartimientos extensores C1 a C6 de morfología normal sin distensión de las vainas sinoviales
+Tendones extensores y flexores radiales y cubitales del carpo de caracteres normales.
+Tendones flexores de los dedos de grosor y estructura normal.
+No se observa fluido en las vainas sinoviales.
+En el dorso de la muñeca se observa un quiste artrosinovial de origen articular radiocarpiano de 16,2 x 8,2 mm
+No se observa derrame articular radiocarpiano
+Retináculo flexor de grosor y ecogenicidad normal.
+Nervio mediano de estructura, forma y diámetro transversal  normal.
+Impresión Diagnóstica: 
+Quiste artrosinovial radiocarpiano dorsal
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]

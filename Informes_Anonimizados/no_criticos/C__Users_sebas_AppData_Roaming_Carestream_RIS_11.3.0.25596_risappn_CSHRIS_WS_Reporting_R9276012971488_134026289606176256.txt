@@ -1,0 +1,23 @@
+[BLOQUE DE DATOS DEL PACIENTE ANONIMIZADO]
+----------------------------------------
+Fecha Examen
+: [FECHA_ANONIMIZADA]
+TC de Tórax sin Contraste
+Antecedentes clínicos: 
+Dolor.
+Hallazgos:
+Examen realizado sin uso de contraste intravenoso.
+No hay derrame pleural ni neumotórax.
+Pulmones de volumen y arquitectura normales.
+No se identifican focos de condensación, masas ni nódulos sospechosos.
+Tráquea y bronquios principales de calibres conservados, permeables.
+Corazón de tamaño normal. No hay derrame pericárdico.
+Aorta torácica y tronco de la arteria pulmonar de calibres conservados.
+No se reconocen adenopatías mediastínicas ni axilares según criterio de tamaño.
+No se identifican lesiones focales óseas sospechosas.
+Foco de enostosis en la porción anterior de la segunda costilla derecha.
+Impresión:
+Examen sin hallazgos patológicos significativos.
+
+----------------------------------------
+[BLOQUE DE FIRMA Y DATOS DEL MÉDICO ANONIMIZADO]
