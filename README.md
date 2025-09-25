@@ -19,7 +19,13 @@ PASO DE PDF A TXT para maenjo de archivos. Se realiza con Codigo
 [https://github.com/sebasinos-usm/Proyect-Sebastian-Inostroza/blob/main/pdf_a_txt.ipynb]
 
 PASO 2:
-PASO DE ELIMAR ARCHIVOS DUPLICADOS
+PASO DE ELIMINAR ARCHIVOS DUPLICADOS
 Se realiza con codigo.
-### Eliminar_duplicados
+### Eliminar_duplicados.ipynb
+[https://github.com/sebasinos-usm/Proyect-Sebastian-Inostroza/blob/main/Eliminiar_duplicados.ipynb]
+
+PASO 3:
+PASO DE ANONIMIZAR INFROMES EN TXT
+Se realiza con codigo
+### Anonimizador_txt.ipynb
 [
