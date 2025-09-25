@@ -8,44 +8,70 @@ Para abordar este desafío, el presente proyecto se centra en el desarrollo de u
 
 ## POR TEMAS DE PRIVACIDAD DE DATOS SOLO SE COMPARTE EL DATASET YA ANONIMIZADO. POR LO QUE SOLO SE EXPLICA Y SE COMPARTE CODIGO DE COMO SE PROCESARON LOS ARCHIVOS ORIGINALES.
 
+# Clasificador de Informes Radiológicos Basado en Criticidad
 
-## DATABASE - RECOLECCION DE DATOS
-606 archivos en PDF de informes radiologicos de pacientes reales de una clinica de la Region (Anonimizada)
-Para el uso de los archivos fue necesario crear un programa de anonimizacion especial para este tipo de archivos, demostrando ante los encargados el producto final y generando asi lu verde para el uso de los archivos.
+Este proyecto utiliza técnicas de Procesamiento del Lenguaje Natural (NLP) y Machine Learning para clasificar automáticamente informes radiológicos médicos como "Críticos" o "No Críticos". El objetivo principal es desarrollar una herramienta que ayude a Radiologos a la toma de desicion y revision retrospectiva para Aalisis de Calidad, optimizando el flujo de trabajo de los profesionales de la salud.
 
-## PROCESAMIENTO DE DATOS
-Se decide trabajar el procesamiento inicial en archivos separados para demostrar resulados a nivel de Clinica.
-PASO 1:
-PASO DE PDF A TXT para maenjo de archivos. Se realiza con Codigo 
-### pdf_a_txt-ipynb
-[https://github.com/sebasinos-usm/Proyect-Sebastian-Inostroza/blob/main/pdf_a_txt.ipynb]
+## 📜 Descripción del Proyecto
 
-PASO 2:
-PASO DE ELIMINAR ARCHIVOS DUPLICADOS
-Se realiza con codigo.
-### Eliminar_duplicados.ipynb
-[https://github.com/sebasinos-usm/Proyect-Sebastian-Inostroza/blob/main/Eliminiar_duplicados.ipynb]
+El sistema se entrena con un conjunto de informes en formato PDF, previamente etiquetados. A través de un pipeline de procesamiento de datos, los informes son extraídos, limpiados, anonimizados y transformados en un formato numérico (TF-IDF) para alimentar a los modelos de clasificación. Se entrenan y comparan dos modelos (Regresión Logística y Naive Bayes), seleccionando el más adecuado en función de métricas clave para el contexto médico, como la reducción de Falsos Negativos.
 
-PASO 3:
-PASO DE ANONIMIZAR INFROMES EN TXT
-Se realiza con codigo
-### Anonimizador_txt.ipynb
-[https://github.com/sebasinos-usm/Proyect-Sebastian-Inostroza/blob/main/Anonimizador_txt.ipynb]
+## ✨ Características Principales
 
-## IMPLEMENTACION MODELO DE ML Y METRICAS ASOCIADAS
-Se realiza un modelelado con Regresion Logistica comparado con un modelo de Naive Bayes. 
-Se aplican metricas en el mismo archivo.
-### Proyecto_oficial.ipynb
-[https://github.com/sebasinos-usm/Proyect-Sebastian-Inostroza/blob/main/Proyecto_oficial.ipynb]
-En este mismo archivo se guadan los modelos para correciones y Evaluacion.
+- **Pipeline Completo de Datos:** Un flujo de trabajo de extremo a extremo que convierte informes PDF en datos limpios y listos para el modelo.
+- **Procesamiento de Texto Avanzado:** Incluye extracción de texto desde PDF conversion a TXT, eliminación de duplicados, anonimización por bloques y limpieza de texto estándar (stopwords, acentos, etc.).
+- **Entrenamiento y Evaluación de Modelos:** Entrena y evalúa modelos de `Regresión Logística` y `Naive Bayes`, guardando el mejor modelo para su uso posterior.
+- **Métricas de Evaluación Robustas:** Utiliza métricas como la Matriz de Confusión, Curva ROC-AUC, Curva PR y Recall@k para una evaluación completa y adecuada al problema.
+- **Aplicación Final:** Incluye un script final para clasificar nuevos informes en PDF y obtener un diagnóstico de criticidad con su respectivo porcentaje de confianza.
 
-## ESTRUCTURA DE TESTEO 
-En este archivo se busca mejorar el rendimiento del modelo revisando los archivos mal clasificados tomando los modelos guarados
-- datos_de_prueba.pkl
-- pipeline_naive_bayes.pkl
-- pipeline_regresion_logistica.pkl
-Revision.
-### Evaluar_analiza_error.ipynb
-[https://github.com/sebasinos-usm/Proyect-Sebastian-Inostroza/blob/main/Evalua_analiza_error.ipynb]
+## 🛠️ Tecnologías y Librerías Utilizadas
 
+- **Python 3**
+- **Jupyter Notebook**
+- **Pandas y NumPy:** para la manipulación y análisis de datos.
+- **Scikit-learn:** para el pipeline de Machine Learning (TF-IDF, modelos, métricas).
+- **PyMuPDF (fitz):** para la extracción de texto desde archivos PDF.
+- **NLTK:** para el preprocesamiento de texto en español (stopwords).
+- **Matplotlib y Seaborn:** para la visualización de resultados.
+- **Joblib:** para guardar y cargar los modelos entrenados.
 
+## 📂 Estructura del Proyecto
+/
+├── Informes_pdf/              # (Opcional) Carpeta para los PDF originales (no incluida en Git).
+├── Informes_Para_Testear/     # Carpeta donde se colocan los nuevos PDF a clasificar.
+├── Proyecto_oficial.ipynb     # Notebook principal con todo el análisis y código.
+├── pipeline_naive_bayes.pkl   # Modelo final entrenado y guardado.
+├── Informes_Anonimizados/     # Carpeta con TXT anonimizados para entrenar el modelo.
+└── README.md                  # Este archivo.
+
+## 🚀 Flujo de Trabajo (Pipeline)
+
+El proyecto sigue una secuencia de fases bien definida dentro del notebook:
+
+1.  **Extracción de Texto:** Convierte los informes originales de formato PDF a archivos de texto (`.txt`), preservando el layout.
+2.  **Limpieza de Duplicados:** Utiliza hashing (SHA-256) para identificar y descartar informes duplicados, asegurando la unicidad de los datos.
+3.  **Anonimización:** Procesa los informes para eliminar datos sensibles y, lo más importante, aísla el cuerpo del informe usando marcadores textuales como "Examen:" y "Dr.".
+4.  **Preprocesamiento NLP:** Aplica técnicas de limpieza de texto, como la conversión a minúsculas, eliminación de acentos, puntuación y stopwords.
+5.  **Entrenamiento del Modelo:** Carga los datos procesados en un DataFrame, los vectoriza usando TF-IDF y entrena los modelos de clasificación.
+6.  **Evaluación y Selección:** Evalúa los modelos y concluye que **Naive Bayes** es superior debido a su menor tasa de Falsos Negativos. Se optimiza aún más ajustando su **umbral de decisión a 0.4**.
+
+## 📊 Resultados y Conclusiones
+
+- El modelo **Naive Bayes** demostró ser más adecuado que la Regresión Logística para este problema, ya que **minimizó la cantidad de informes críticos no detectados** (8 Falsos Negativos vs. 12 de la Regresión Logística).
+- La mejora más significativa se logró al **ajustar el umbral de decisión del modelo Naive Bayes a 0.4**. Esta optimización elevó la capacidad de detección (Recall) a un **95.8%**, asegurando que casi todos los casos críticos fueran identificados correctamente, a costa de un aumento aceptable en las falsas alarmas.
+
+## ⚙️ Cómo Usar el Clasificador
+
+Para clasificar nuevos informes, sigue estos pasos:
+
+1.  **Requisitos Previos:** Asegúrate de tener Python y las librerías mencionadas instaladas. Puedes instalarlas con pip:
+    ```bash
+    pip install pandas numpy matplotlib seaborn scikit-learn pymupdf nltk joblib
+    ```
+
+2.  **Ejecución:**
+    1.  Clona o descarga este repositorio.
+    2.  Asegúrate de que el archivo `pipeline_naive_bayes.pkl` esté en la misma carpeta que el notebook.
+    3.  Crea una carpeta llamada `Informes_Para_Testear`.
+    4.  Coloca los nuevos informes en formato PDF que deseas analizar dentro de esa carpeta.
+    5.  Abre el notebook `Proyecto_oficial.ipynb` y ejecuta la última celda de código, bajo la sección **"APLICACION FINAL - TESTEO DE NUEVOS INFORMES"**. Los resultados aparecerán en la salida de la celda.
