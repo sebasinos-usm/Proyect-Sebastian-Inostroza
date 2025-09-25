@@ -1,10 +1,12 @@
-# CLASIFICADOR DE INFORMES RADIOLOGICOS CRITICOS CON USO DE IA
+# CLASIFICADOR DE INFORMES RADIOLOGICOS CRITICOS CON USO DE IA ML
 # Proyect Sebastian Inostroza - USM - DIPLOMADO IA EN SALUD
 
 ## RESUMEN ELECCION DEL PROBLEMA ##
 La generación diaria de estudios de imagenología ha resultado en un aumento exponencial del volumen de informes radiológicos, presentando un desafío operativo para su revisión oportuna y priorizada. En este escenario, la correcta identificación de 
 "Resultados Críticos" aquellos que requieren comunicación urgente con el médico tratante— es un pilar para la seguridad del paciente. Sin embargo, la variabilidad de criterios entre distintos centros y protocolos puede llevar a inconsistencias en esta tarea crucial.
 Para abordar este desafío, el presente proyecto se centra en el desarrollo de un modelo de inteligencia artificial como herramienta de apoyo clínico. El objetivo principal es crear un sistema capaz de leer y analizar el texto de los informes radiológicos para sugerir su clasificación como "crítico" o "no crítico". Lejos de reemplazar el juicio del especialista, esta herramienta busca ofrecer una segunda opinión sistemática y estandarizada, reforzando el criterio del radiólogo y aportando a la homogeneización de los protocolos institucionales.
+
+## POR TEMAS DE PRIVACIDAD DE DATOS SOLO SE COMPARTE EL DATASET YA ANONIMIZADO. POR LO QUE SOLO SE EXPLICA Y SE COMPARTE CODIGO DE COMO SE PROCESARON LOS ARCHIVOS ORIGINALES.
 
 
 ## DATABASE - RECOLECCION DE DATOS
