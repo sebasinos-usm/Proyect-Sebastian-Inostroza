@@ -28,4 +28,10 @@ PASO 3:
 PASO DE ANONIMIZAR INFROMES EN TXT
 Se realiza con codigo
 ### Anonimizador_txt.ipynb
+[https://github.com/sebasinos-usm/Proyect-Sebastian-Inostroza/blob/main/Anonimizador_txt.ipynb]
+
+## IMPLEMENTACION MODELO DE ML Y METRICAS ASOCIADAS
+Se realiza un modelelado con Regresion Logistica comparado con un modelo de Naive Bayes. 
+Se aplican metricas en el mismo archivo.
+### Proyecto_oficial.ipynb
 [
