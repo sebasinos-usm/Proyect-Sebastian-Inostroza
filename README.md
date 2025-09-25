@@ -34,4 +34,16 @@ Se realiza con codigo
 Se realiza un modelelado con Regresion Logistica comparado con un modelo de Naive Bayes. 
 Se aplican metricas en el mismo archivo.
 ### Proyecto_oficial.ipynb
-[
+[https://github.com/sebasinos-usm/Proyect-Sebastian-Inostroza/blob/main/Proyecto_oficial.ipynb]
+En este mismo archivo se guadan los modelos para correciones y Evaluacion.
+
+## ESTRUCTURA DE TESTEO 
+En este archivo se busca mejorar el rendimiento del modelo revisando los archivos mal clasificados tomando los modelos guarados
+- datos_de_prueba.pkl
+- pipeline_naive_bayes.pkl
+- pipeline_regresion_logistica.pkl
+Revision.
+### Evaluar_analiza_error.ipynb
+[https://github.com/sebasinos-usm/Proyect-Sebastian-Inostroza/blob/main/Evalua_analiza_error.ipynb]
+
+
