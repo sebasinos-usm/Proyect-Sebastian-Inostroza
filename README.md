@@ -15,5 +15,11 @@ Para el uso de los archivos fue necesario crear un programa de anonimizacion esp
 Se decide trabajar el procesamiento inicial en archivos separados para demostrar resulados a nivel de Clinica.
 PASO 1:
 PASO DE PDF A TXT para maenjo de archivos. Se realiza con Codigo 
+### pdf_a_txt-ipynb
+[https://github.com/sebasinos-usm/Proyect-Sebastian-Inostroza/blob/main/pdf_a_txt.ipynb]
 
-### pdf_a_txt.ipynb
+PASO 2:
+PASO DE ELIMAR ARCHIVOS DUPLICADOS
+Se realiza con codigo.
+### Eliminar_duplicados
+[
