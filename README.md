@@ -35,15 +35,6 @@ El sistema se entrena con un conjunto de informes en formato PDF, previamente et
 - **Matplotlib y Seaborn:** para la visualización de resultados.
 - **Joblib:** para guardar y cargar los modelos entrenados.
 
-## 📂 Estructura del Proyecto
-/
-├── Informes_pdf/              # (Opcional) Carpeta para los PDF originales (no incluida en Git).
-├── Informes_Para_Testear/     # Carpeta donde se colocan los nuevos PDF a clasificar.
-├── Proyecto_oficial.ipynb     # Notebook principal con todo el análisis y código.
-├── pipeline_naive_bayes.pkl   # Modelo final entrenado y guardado.
-├── Informes_Anonimizados/     # Carpeta con TXT anonimizados para entrenar el modelo.
-└── README.md                  # Este archivo.
-
 ## 🚀 Flujo de Trabajo (Pipeline)
 
 El proyecto sigue una secuencia de fases bien definida dentro del notebook:
