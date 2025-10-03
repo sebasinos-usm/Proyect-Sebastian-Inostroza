@@ -1,4 +1,4 @@
-# CLASIFICADOR DE INFORMES RADIOLOGICOS CRITICOS CON USO DE IA ML
+# Sistema de Detección de Informes Radiológicos Críticos Basado en Inteligencia Artificial
 # Proyect Sebastian Inostroza - USM - DIPLOMADO IA EN SALUD
 
 ## RESUMEN ELECCION DEL PROBLEMA ##
